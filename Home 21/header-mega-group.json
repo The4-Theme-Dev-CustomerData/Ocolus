@@ -1,0 +1,42 @@
+{
+  "type": "custom.mega",
+  "name": "Mega Content",
+  "sections": {
+    "mega-menu": {
+      "type": "mega-menu",
+      "blocks": {
+        "097d332a-c4f2-4cb8-bc2c-67ca177f914c": {
+          "type": "mega",
+          "settings": {
+            "id": 1
+          }
+        },
+        "e382220d-5242-4840-803e-3e206663c4b4": {
+          "type": "html",
+          "settings": {
+            "html": "HTML custom code",
+            "page": "demo-short",
+            "col": "12"
+          }
+        }
+      },
+      "block_order": [
+        "097d332a-c4f2-4cb8-bc2c-67ca177f914c",
+        "e382220d-5242-4840-803e-3e206663c4b4"
+      ],
+      "settings": {
+      }
+    },
+    "header-categories": {
+      "type": "header-categories",
+      "disabled": true,
+      "settings": {
+        "arrow": true
+      }
+    }
+  },
+  "order": [
+    "mega-menu",
+    "header-categories"
+  ]
+}
