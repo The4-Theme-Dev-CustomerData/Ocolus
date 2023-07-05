@@ -256,7 +256,7 @@
         "mg": "",
         "pd": ",70px,,70px",
         "mg_tb": "",
-        "pd_tb": ",15px,,15px",
+        "pd_tb": ",30px,,30px",
         "mg_mb": "",
         "pd_mb": ",15px,,15px"
       }
@@ -293,7 +293,7 @@
             "ch_pos": 80,
             "cv_pos_tb": 50,
             "ch_pos_tb": 50,
-            "cv_pos_mb": 15,
+            "cv_pos_mb": 50,
             "ch_pos_mb": 50,
             "bg_overlay": "#000000",
             "bg_opacity": 0,
@@ -318,7 +318,7 @@
         "template--18479861465409__bd03297f-0cec-493a-a180-802361f78e4c-1681714837c40cd854-1": {
           "type": "custom_text",
           "settings": {
-            "text": "Modern Wood Chair",
+            "text": "Mordern Wood Chair",
             "remove_br_tag": true,
             "tag": "h4",
             "fontf": "2",
@@ -358,12 +358,12 @@
             "text_shadow": false,
             "mgb": 15,
             "text_fs_tb": 16,
-            "text_lh_tb": 30,
+            "text_lh_tb": 19,
             "text_ls_tb": 0,
             "mgb_tb": 10,
             "hidden_mobile": true,
             "text_fs_mb": 14,
-            "text_lh_mb": 20,
+            "text_lh_mb": 17,
             "text_ls_mb": 0,
             "mgb_mb": 10,
             "animation": "fadeInLeft"
@@ -462,7 +462,7 @@
         "84ab2596-9089-4d7a-99e0-5471103cfb16": {
           "type": "custom_text",
           "settings": {
-            "text": "Modern Wood Table",
+            "text": "Mordern Wood Table",
             "remove_br_tag": true,
             "tag": "h4",
             "fontf": "2",
@@ -502,12 +502,12 @@
             "text_shadow": false,
             "mgb": 15,
             "text_fs_tb": 16,
-            "text_lh_tb": 30,
+            "text_lh_tb": 19,
             "text_ls_tb": 0,
             "mgb_tb": 10,
             "hidden_mobile": true,
             "text_fs_mb": 14,
-            "text_lh_mb": 20,
+            "text_lh_mb": 17,
             "text_ls_mb": 0,
             "mgb_mb": 10,
             "animation": "fadeInLeft"
@@ -581,7 +581,7 @@
             "ch_pos": 50,
             "cv_pos_tb": 50,
             "ch_pos_tb": 50,
-            "cv_pos_mb": 25,
+            "cv_pos_mb": 50,
             "ch_pos_mb": 50,
             "bg_overlay": "#000000",
             "bg_opacity": 0,
@@ -606,7 +606,7 @@
         "d1baec5a-2c25-4229-96f5-27599b5af819": {
           "type": "custom_text",
           "settings": {
-            "text": "Modern Wood Sofa",
+            "text": "Mordern Wood Sofa",
             "remove_br_tag": true,
             "tag": "h4",
             "fontf": "2",
@@ -646,12 +646,12 @@
             "text_shadow": false,
             "mgb": 15,
             "text_fs_tb": 16,
-            "text_lh_tb": 30,
+            "text_lh_tb": 19,
             "text_ls_tb": 0,
             "mgb_tb": 10,
             "hidden_mobile": true,
             "text_fs_mb": 14,
-            "text_lh_mb": 20,
+            "text_lh_mb": 17,
             "text_ls_mb": 0,
             "mgb_mb": 10,
             "animation": "fadeInLeft"
@@ -727,7 +727,7 @@
         "mg": ",,95px,",
         "pd": ",70px,,70px",
         "mg_tb": ",,50px,",
-        "pd_tb": ",15px,,15px",
+        "pd_tb": ",30px,,30px",
         "mg_mb": ",,30px,",
         "pd_mb": ",15px,,15px"
       }
@@ -770,7 +770,6 @@
         "loop": true,
         "au_time": 0,
         "au_hover": true,
-        "center_slide": false,
         "show_btn": "show_all",
         "btn_pos": "out",
         "icon_slider": "3",
@@ -878,7 +877,7 @@
         "tophead_mb": 30,
         "tophead_mb_tb": 30,
         "tophead_mb_mb": 25,
-        "img_effect": "zoom",
+        "img_effect": "none",
         "b_effect": "none",
         "open_link": "_blank",
         "click_image": "data-goto",
@@ -1085,7 +1084,6 @@
           "settings": {
             "icon_themes": "model",
             "icon": "<i class=\"fa-solid fa-rocket\"><\/i>",
-            "link": "",
             "title": "Select model",
             "text": "When an unknown printer took a galley of type and scrambled it to make a type specimen book."
           }
@@ -1095,7 +1093,6 @@
           "settings": {
             "icon_themes": "fabric",
             "icon": "<i class=\"fa-solid fa-handshake\"><\/i>",
-            "link": "",
             "title": "Select fabric",
             "text": "It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old."
           }
@@ -1105,7 +1102,6 @@
           "settings": {
             "icon_themes": "finalize_design",
             "icon": "<i class=\"fa-solid fa-messages-question\"><\/i>",
-            "link": "",
             "title": "Finalize design",
             "text": "There are many variations of passages of Lorem Ipsum available, but the majority- have suffered"
           }
@@ -1344,9 +1340,6 @@
         "item_fw": 500,
         "item_ls": 0,
         "icon_width": 30,
-        "item_fs_mb": 16,
-        "item_lh_mb": 30,
-        "item_ls_mb": 0,
         "hide_ico": true,
         "pri_cl": "#a4a4a4",
         "secon_cl": "#ff4e00",

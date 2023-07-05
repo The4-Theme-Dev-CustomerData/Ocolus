@@ -1,22 +1,19 @@
 {
   "current": {
-    "purchase_code": "",
+    "purchase_code": "demo-ocolus-1",
     "general_layout": "custom",
     "cus_w_bd": 1200,
     "body_bg": "#fff",
     "global_acc": "",
     "use_rtl": "2",
-    "logo": "shopify:\/\/shop_images\/Frame_1000001950.svg",
+    "logo": "shopify:\/\/shop_images\/logo-black.png",
     "logo_width": 145,
     "logos_width": 145,
-    "logo_mb_width": 110,
-    "mobile_nav_type": "0",
-    "heading_color": "#293341",
+    "logo_mb_width": 145,
     "accent_color": "#c91f28",
-    "secondary_color": "#7b7b7b",
+    "secondary_color": "#293341",
     "link_color": "#222222",
     "use_cus_lz": true,
-    "sw_primary": "#c91f28",
     "font_source": "2",
     "fnt_fm_sp1": "poppins_n4",
     "embed_google_font": "<link rel=\"preconnect\" href=\"https:\/\/fonts.googleapis.com\">\n<link rel=\"preconnect\" href=\"https:\/\/fonts.gstatic.com\" crossorigin=\"\">\n<link href=\"https:\/\/fonts.googleapis.com\/css2?family=Playfair+Display:ital,wght@0,400;0,600;0,700;0,800;0,900;1,400;1,500;1,600;1,700;1,800;1,900&amp;family=Poppins:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap\" rel=\"stylesheet\">",
@@ -28,11 +25,7 @@
     "show_size_type": "1",
     "free_ship_pr": "a-long-sleeve-v-collar-shirt",
     "gift_wrap_pr": "gift-wrap",
-    "filter_type_search": false,
-    "show_search_suggest": true,
     "search_prs_suggest": "fashions",
-    "show_search_hotkey": true,
-    "list_hotkey": "Women, men",
     "currency_type": "1",
     "t4s_custom_css": false,
     "global_css": "",
@@ -43,7 +36,6 @@
     "social_dribbble_link": "#",
     "social_linkedin_link": "#",
     "favicon": "shopify:\/\/shop_images\/favicon.png",
-    "logo_svg": "https:\/\/cdn.shopify.com\/s\/files\/1\/0722\/7437\/9046\/files\/ocolus..svg?v=1686042269",
     "fnt_fm_gg1": "Poppins",
     "fnt_fm_gg2": "Poppins",
     "fnt_fm_gg3": "Playfair Display",
@@ -230,7 +222,7 @@
               "title": "HOME",
               "url": "",
               "open_link": "_self",
-              "menu": "",
+              "menu": "menu-mobile-homepage",
               "icon": "",
               "lb": "",
               "lb_cl": ""
@@ -357,7 +349,6 @@
           "mb_nav-9"
         ],
         "settings": {
-          "menu": ""
         }
       },
       "mb_cat": {
@@ -430,6 +421,8 @@
         "settings": {
           "style": "1",
           "pos": "2",
+          "enable_quantity_number": true,
+          "enable_quantity_selector": false,
           "enable_pr": true,
           "enable_calc_ship": true,
           "enable_note": true,
@@ -484,8 +477,8 @@
               "enable_fit_ratio_img": false,
               "color_size": "medium",
               "show_qty": true,
-              "enable_wishlist": false,
-              "enable_compare": false,
+              "enable_wishlist": true,
+              "enable_compare": true,
               "btn_atc_full": false,
               "pr_btn_round": 0,
               "wishlist_color": "#222222",
@@ -511,13 +504,17 @@
               ]
             }
           },
-          "a715483e-ab8b-491f-9ea9-f4dda9b2066a": {
-            "type": "line",
+          "65663944-59e3-4f87-b45e-395daec835e8": {
+            "type": "img",
             "settings": {
-              "color_line": "#eeeeee",
-              "height_line": 1,
-              "space_tb": 20,
-              "space_tb_mb": 20
+              "mess": "",
+              "size": 13,
+              "enable_border_message": false,
+              "source": "1",
+              "image": "shopify:\/\/shop_images\/img_trust_ocolus.png",
+              "wimg": 90,
+              "svg": "amazon_payments,american_express,apple_pay,bitcoin,dankort,diners_club,discover,dogecoin,dwolla,forbrugsforeningen,interac,google_pay,jcb,klarna,klarna-pay-later,litecoin,maestro,master,paypal,shopify_pay,sofort,visa",
+              "height": 32
             }
           },
           "main-qv-5": {
@@ -527,7 +524,7 @@
               "show_available": true,
               "show_category": true,
               "show_tags": true,
-              "show_options": false,
+              "show_options": true,
               "show_vendor": false,
               "show_barcode": false,
               "show_type": false,
@@ -552,31 +549,28 @@
           "main-qv-1",
           "main-qv-2",
           "main-qv-3",
-          "a715483e-ab8b-491f-9ea9-f4dda9b2066a",
+          "65663944-59e3-4f87-b45e-395daec835e8",
           "main-qv-5"
         ],
         "settings": {
-          "demo_pr": "a-long-sleeve-v-neck-plbbb-hat",
+          "demo_pr": "eddie-3-seater-w-chaiselong-left",
           "enable_center_info": false,
-          "media_layout": "thumbnails_bottom",
           "image_ratio": "ratioadapt",
           "image_size": "cover",
           "image_position": "8",
-          "enable_wishlist_icon": true,
-          "enable_compare_icon": true,
           "enable_video_looping": false,
           "enable_video_muting": true,
           "enable_video_autoplaying": true,
           "eff": "fade",
           "show_btn": "show_all",
           "btn_vi": "hover",
-          "btn_owl": "simple",
-          "btn_shape": "none",
+          "btn_owl": "outline",
+          "btn_shape": "round",
           "btn_cl": "dark",
-          "btn_size": "large",
-          "show_dots": "hidden",
-          "dot_owl": "dots_simple",
-          "dots_cl": "primary",
+          "btn_size": "small",
+          "show_dots": "show_all",
+          "dot_owl": "default",
+          "dots_cl": "dark",
           "dots_align": "center",
           "dots_round": true,
           "dots_space": 10,
@@ -861,24 +855,22 @@
         "settings": {
           "txt_tr_pr": "none",
           "fnt_df_pr": "1",
-          "size_pr": 14,
-          "lh_pr": 18,
-          "fw_pr": 500,
+          "size_pr": 15,
+          "lh_pr": 0,
+          "fw_pr": 400,
           "ls_pr": 0,
-          "size_price_pr": 14,
-          "lh_price_pr": 18,
+          "size_price_pr": 15,
+          "lh_price_pr": 0,
           "fw_price_pr": 400,
           "space_img_content": 10,
           "space_elements": 5,
-          "swatch_color_size": 16,
-          "size_pr_mb": 14,
-          "lh_pr_mb": 18,
+          "swatch_color_size": 24,
+          "size_pr_mb": 15,
+          "lh_pr_mb": 0,
           "ls_pr_mb": 0,
-          "size_price_pr_mb": 14,
-          "lh_price_pr_mb": 18,
-          "space_img_content_mb": 10,
-          "space_elements_mb": 5,
-          "swatch_color_size_mb": 16,
+          "size_price_pr_mb": 15,
+          "lh_price_pr_mb": 0,
+          "swatch_color_size_mb": 20,
           "pr_title_color": "#293341",
           "pr_title_color_hover": "#c91f28",
           "price_color": "#7b7b7b",
@@ -915,232 +907,6 @@
       },
       "t4s_custom_color": {
         "type": "t4s_custom_color",
-        "settings": {
-        }
-      },
-      "compare-modal": {
-        "type": "compare-modal",
-        "blocks": {
-          "compare-modal-0": {
-            "type": "basic",
-            "settings": {
-            }
-          },
-          "compare-modal-1": {
-            "type": "availability",
-            "settings": {
-              "title": "Availability"
-            }
-          },
-          "compare-modal-2": {
-            "type": "vendor",
-            "settings": {
-              "title": "Vendor"
-            }
-          },
-          "compare-modal-3": {
-            "type": "variants",
-            "settings": {
-              "title": "Color"
-            }
-          },
-          "compare-modal-4": {
-            "type": "btn",
-            "settings": {
-              "title": "RETURN TO SHOP",
-              "url": "",
-              "open_link": "_self",
-              "btn_icon": false,
-              "button_style": "default",
-              "btns_size": "default",
-              "btns_cl": "primary",
-              "button_effect": "default"
-            }
-          }
-        },
-        "block_order": [
-          "compare-modal-0",
-          "compare-modal-1",
-          "compare-modal-2",
-          "compare-modal-3",
-          "compare-modal-4"
-        ],
-        "settings": {
-          "product_list": [
-            "100-linen-short-sleeve-shirt",
-            "3-seater-sofa-velour-amber",
-            "eddie-3-seater-w-chaiselong-left",
-            "bronco-sideboard",
-            "advanced-night-repair-synchronized-recovery",
-            "advanced-night-repair-concentrated-recovery"
-          ],
-          "atc_cl": "#23232c",
-          "atc_cl_hover": "#23232c",
-          "cl_title": "#293341",
-          "cl_price": "#7b7b7b",
-          "cl_price_sale": "#ec0101",
-          "cl_in": "#27ae60",
-          "cl_out": "#e1b878",
-          "image_ratio": "rationt",
-          "image_size": "cover",
-          "image_position": "8",
-          "content_align": "center",
-          "layout": "t4s-container-wrap",
-          "cl_bg": "",
-          "cl_bg_gradient": "",
-          "mg": ",,70px",
-          "pd": "",
-          "mg_tb": ",,50px",
-          "pd_tb": "",
-          "mg_mb": ",,50px",
-          "pd_mb": ""
-        }
-      },
-      "heading-static-cp": {
-        "type": "heading-static-cp",
-        "blocks": {
-          "heading-static-cp-0": {
-            "type": "1",
-            "settings": {
-              "tag": "h3",
-              "fontf": "inherit",
-              "text_cl": "#293341",
-              "text_fs": 35,
-              "text_lh": 40,
-              "text_fw": 500,
-              "text_ls": 0,
-              "mgb": 18,
-              "font_italic": false,
-              "font_uppercase": false,
-              "text_shadow": false,
-              "text_fs_tb": 30,
-              "text_lh_tb": 36,
-              "text_ls_tb": 0,
-              "mgb_tb": 15,
-              "hidden_mobile": false,
-              "text_fs_mb": 26,
-              "text_lh_mb": 30,
-              "text_ls_mb": 0,
-              "mgb_mb": 15
-            }
-          },
-          "e5dd231e-be4e-49a4-8b0d-70866d8f57fa": {
-            "type": "3",
-            "settings": {
-              "breadcrumb_color_link": "#7b7b7b",
-              "breadcrumb_color": "#7b7b7b",
-              "brc_mgb": 0,
-              "brc_mgb_tb": 0,
-              "brc_mgb_mb": 0
-            }
-          }
-        },
-        "block_order": [
-          "heading-static-cp-0",
-          "e5dd231e-be4e-49a4-8b0d-70866d8f57fa"
-        ],
-        "settings": {
-          "parallax": false,
-          "bg_overlay": "rgba(0,0,0,0)",
-          "bg_opacity": 0,
-          "padding_top": 61,
-          "padding_bottom": 61,
-          "padding_top_tb": 50,
-          "padding_bottom_tb": 50,
-          "padding_top_mb": 50,
-          "padding_bottom_mb": 50,
-          "box_border": "top_bottom",
-          "bg_repeat": "no-repeat",
-          "bg_size": "cover",
-          "mgb": 70,
-          "mgb_tb": 50,
-          "mgb_mb": 50
-        }
-      },
-      "heading-static": {
-        "type": "heading-static",
-        "blocks": {
-          "heading-static-0": {
-            "type": "1",
-            "settings": {
-              "tag": "h3",
-              "fontf": "3",
-              "text_cl": "#293341",
-              "text_fs": 35,
-              "text_lh": 40,
-              "text_fw": 500,
-              "text_ls": 0,
-              "mgb": 18,
-              "font_italic": false,
-              "font_uppercase": false,
-              "text_shadow": false,
-              "text_fs_tb": 35,
-              "text_lh_tb": 40,
-              "text_ls_tb": 0,
-              "mgb_tb": 15,
-              "hidden_mobile": false,
-              "text_fs_mb": 30,
-              "text_lh_mb": 40,
-              "text_ls_mb": 0,
-              "mgb_mb": 15
-            }
-          },
-          "60c4db8d-6c53-41db-93d0-30b403649a49": {
-            "type": "3",
-            "settings": {
-              "breadcrumb_color_link": "#7b7b7b",
-              "breadcrumb_color": "#7b7b7b",
-              "brc_mgb": 5,
-              "brc_mgb_tb": 5,
-              "brc_mgb_mb": 5
-            }
-          }
-        },
-        "block_order": [
-          "heading-static-0",
-          "60c4db8d-6c53-41db-93d0-30b403649a49"
-        ],
-        "settings": {
-          "content_align": "center",
-          "parallax": false,
-          "bg_overlay": "#f5f5f5",
-          "bg_opacity": 0,
-          "padding_top": 60,
-          "padding_bottom": 55,
-          "padding_top_tb": 50,
-          "padding_bottom_tb": 45,
-          "padding_top_mb": 50,
-          "padding_bottom_mb": 45,
-          "box_border": "top_bottom",
-          "bg_repeat": "no-repeat",
-          "bg_size": "cover",
-          "mgb": 70,
-          "mgb_tb": 50,
-          "mgb_mb": 50
-        }
-      },
-      "main-wishlist": {
-        "type": "main-wishlist",
-        "settings": {
-          "product_list": [
-            "100-linen-short-sleeve-shirt",
-            "a-long-sleeve-v-collar-shirt",
-            "a-long-sleeve-v-neck-plbbb-hat",
-            "copy-of-large-size-travel-bag"
-          ],
-          "limit": 8
-        }
-      },
-      "facets": {
-        "type": "facets",
-        "settings": {
-          "style_color_filter": "Color, color, Colour , colour",
-          "style_tag_filter": "Tag, Tags, tag, tags, Product rating count, More filters",
-          "style_checkbox_filter": "Vendor, vendor, Brand, brand, Size, size"
-        }
-      },
-      "facets_tags": {
-        "type": "facets_tags",
         "settings": {
         }
       }

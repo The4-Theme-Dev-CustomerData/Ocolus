@@ -51,7 +51,7 @@
         "template--18372529389862__cdda0272-cf33-466a-8005-e504b6667028-1682556973e6018ebd-2": {
           "type": "custom_text",
           "settings": {
-            "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem <br>Ipsum has been the industry's standard dummy text ever since the 1500s",
+            "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem <br>Ipsum has t4sn the industry's standard dummy text ever since the 1500s",
             "remove_br_tag": true,
             "tag": "p",
             "fontf": "1",
@@ -98,312 +98,133 @@
         "pd_mb": ""
       }
     },
-    "d36291c9-6edc-4d9b-9b0a-0c5476d91c3c": {
-      "type": "instagram-shop",
+    "902b5fcb-94c5-4e93-b8f4-49a63fd56a4a": {
+      "type": "instagram",
       "blocks": {
-        "template--19110035325222__d36291c9-6edc-4d9b-9b0a-0c5476d91c3c-168679989709424bf1-0": {
+        "template--18372529389862__902b5fcb-94c5-4e93-b8f4-49a63fd56a4a-16825564067ded25b7-0": {
           "type": "img",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Inst09_11db721b-ec8d-4cf6-aa6c-3ae179b7857a.jpg",
+            "image": "shopify:\/\/shop_images\/Inst09.jpg",
             "url": ""
           }
         },
-        "cd1d9b9d-c32d-4324-a2fe-4922e60298e4": {
-          "type": "pin_pr",
-          "settings": {
-            "product": "100-linen-short-sleeve-shirt",
-            "pos_t": 69,
-            "pos_l": 61,
-            "pos_popup": "top",
-            "cl_pin": "dark"
-          }
-        },
-        "bc52d4be-23a5-494a-b521-0f618d2621c3": {
-          "type": "pin_pr",
-          "settings": {
-            "product": "annette-three-hand-navy-leather-watch",
-            "pos_t": 31,
-            "pos_l": 43,
-            "pos_popup": "top",
-            "cl_pin": "dark"
-          }
-        },
-        "template--19110035325222__d36291c9-6edc-4d9b-9b0a-0c5476d91c3c-168679989709424bf1-4": {
+        "template--18372529389862__902b5fcb-94c5-4e93-b8f4-49a63fd56a4a-16825564067ded25b7-1": {
           "type": "img",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Inst08_762d6b51-dd8a-43ad-b9d7-aebbe2142b19.jpg",
+            "image": "shopify:\/\/shop_images\/Inst08.jpg",
             "url": ""
           }
         },
-        "1188edc4-eda8-4987-b77b-998b07a20bc8": {
-          "type": "pin_pr",
-          "settings": {
-            "product": "a-long-sleeve-v-neck-plbbb-hat",
-            "pos_t": 50,
-            "pos_l": 73,
-            "pos_popup": "top",
-            "cl_pin": "dark"
-          }
-        },
-        "21ecc8bc-54ab-4d0f-bd42-81efc4c8aca4": {
+        "template--18372529389862__902b5fcb-94c5-4e93-b8f4-49a63fd56a4a-16825564067ded25b7-2": {
           "type": "img",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Inst06_53e27912-2efa-4061-8c71-8bc1eda830d1.jpg",
+            "image": "shopify:\/\/shop_images\/Inst06.jpg",
             "url": ""
           }
         },
-        "c313de49-d31f-4e91-b522-3323fc6d9a03": {
-          "type": "pin_pr",
-          "settings": {
-            "product": "a-long-sleeve-v-collar-shirt",
-            "pos_t": 72,
-            "pos_l": 81,
-            "pos_popup": "top",
-            "cl_pin": "dark"
-          }
-        },
-        "1eaac510-2314-48e3-8d0b-af958a0fd34c": {
+        "template--18372529389862__902b5fcb-94c5-4e93-b8f4-49a63fd56a4a-16825564067ded25b7-3": {
           "type": "img",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Inst07_506e807c-9b6c-4618-8a02-4792e7058580.jpg",
+            "image": "shopify:\/\/shop_images\/Inst07.jpg",
             "url": ""
           }
         },
-        "16bccd42-3096-43f4-ae2f-55f2ff2cac28": {
-          "type": "pin_pr",
-          "settings": {
-            "product": "annette-three-hand-mineral-gray-leather-watch",
-            "pos_t": 50,
-            "pos_l": 50,
-            "pos_popup": "top",
-            "cl_pin": "dark"
-          }
-        },
-        "c7e64b0d-b77b-499e-a044-13ac198483cf": {
+        "template--18372529389862__902b5fcb-94c5-4e93-b8f4-49a63fd56a4a-16825564067ded25b7-4": {
           "type": "img",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Inst01_dde9e0a1-153d-4cc3-9f53-4ebb25e28a92.jpg",
+            "image": "shopify:\/\/shop_images\/Inst01.jpg",
             "url": ""
           }
         },
-        "fcf4fdc6-cb71-496a-8c6e-e2a6a17e0d69": {
-          "type": "pin_pr",
-          "settings": {
-            "product": "khaki-women-lace-korean-style",
-            "pos_t": 50,
-            "pos_l": 38,
-            "pos_popup": "top",
-            "cl_pin": "dark"
-          }
-        },
-        "d405b316-1bf6-4aef-8c51-38b487f48089": {
+        "template--18372529389862__902b5fcb-94c5-4e93-b8f4-49a63fd56a4a-16825564067ded25b7-5": {
           "type": "img",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Inst012_0dfc6203-44e5-4cb1-9955-404f4b9b6488.jpg",
+            "image": "shopify:\/\/shop_images\/Inst012.jpg",
             "url": ""
           }
         },
-        "a5ee9093-406d-4ade-9f65-295d2c5754a8": {
-          "type": "pin_pr",
-          "settings": {
-            "product": "copy-of-classic-espadrilles",
-            "pos_t": 38,
-            "pos_l": 80,
-            "pos_popup": "top",
-            "cl_pin": "dark"
-          }
-        },
-        "3385aa90-38d1-44f5-b86a-7fe71b8511b4": {
+        "1ce803c7-a88f-4297-acf7-8ea1cfabf562": {
           "type": "img",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Inst10_6f4ee0a9-f6ce-4e7a-86ef-dd4308d91da2.jpg",
+            "image": "shopify:\/\/shop_images\/Inst10.jpg",
             "url": ""
           }
         },
-        "bb9e4c3b-8cc5-4203-829b-e33c2a2c7f7b": {
-          "type": "pin_pr",
-          "settings": {
-            "product": "houndstooth-royal-family-t-shirt",
-            "pos_t": 64,
-            "pos_l": 62,
-            "pos_popup": "top",
-            "cl_pin": "dark"
-          }
-        },
-        "0b44bb93-9040-4e07-9bc9-98dd4ee2af1f": {
+        "fade46df-7ccb-4dd7-9de0-840712cb2c0a": {
           "type": "img",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Inst010_2e0344d3-e188-46e9-9db9-cd34f1df6271.jpg",
+            "image": "shopify:\/\/shop_images\/Inst010.jpg",
             "url": ""
           }
         },
-        "13df5484-f92f-4066-9fe6-c3ffa442ea48": {
-          "type": "pin_pr",
-          "settings": {
-            "product": "cubic-zirconia-heart-necklace",
-            "pos_t": 94,
-            "pos_l": 34,
-            "pos_popup": "top",
-            "cl_pin": "dark"
-          }
-        },
-        "de48b437-618b-4080-81cf-3ea3e3fe29db": {
+        "a545d8b6-d754-4c79-802a-02cf84b2b814": {
           "type": "img",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Inst04_76800ead-3afe-4faf-baed-3b69597adead.jpg",
+            "image": "shopify:\/\/shop_images\/Inst04.jpg",
             "url": ""
           }
         },
-        "1d372881-ff36-44df-8d24-cbb0ea4db6ce": {
-          "type": "pin_pr",
-          "settings": {
-            "product": "a-long-sleeve-v-collar-shirt",
-            "pos_t": 50,
-            "pos_l": 50,
-            "pos_popup": "top",
-            "cl_pin": "dark"
-          }
-        },
-        "e7752870-2c9a-4031-ad22-41f377ba9190": {
+        "b51fb5ae-337d-4265-b880-1f60f7157d20": {
           "type": "img",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Inst03_56a049af-501c-4d19-99a8-70188a02dee4.jpg",
+            "image": "shopify:\/\/shop_images\/Inst03.jpg",
             "url": ""
           }
         },
-        "026639ba-9a7c-4bab-8448-29ebdc621982": {
-          "type": "pin_pr",
-          "settings": {
-            "product": "jamie-jean-in-off-white",
-            "pos_t": 70,
-            "pos_l": 45,
-            "pos_popup": "top",
-            "cl_pin": "dark"
-          }
-        },
-        "1db710ed-be3e-4e73-b6ab-9d0cebe0348e": {
-          "type": "pin_pr",
-          "settings": {
-            "product": "khaki-women-lace-korean-style",
-            "pos_t": 50,
-            "pos_l": 19,
-            "pos_popup": "top",
-            "cl_pin": "dark"
-          }
-        },
-        "b7b6a59a-810f-4699-aafe-28a6a3fe9994": {
+        "da82ea52-4559-44a5-a9a8-20f4a4387acd": {
           "type": "img",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Inst05_5025d54e-6e55-437b-9bd6-a2d695862ac4.jpg",
+            "image": "shopify:\/\/shop_images\/Inst05.jpg",
             "url": ""
           }
         },
-        "bce3dd5f-2646-40e5-ab69-4bceb246d758": {
-          "type": "pin_pr",
-          "settings": {
-            "product": "a-long-sleeve-v-neck-plbbb-hat",
-            "pos_t": 50,
-            "pos_l": 50,
-            "pos_popup": "top",
-            "cl_pin": "dark"
-          }
-        },
-        "e1a81d08-3b55-4813-bc2b-45979d063494": {
+        "a949cc8c-4105-405d-b446-b0e8450c468b": {
           "type": "img",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Inst02_09236884-d36e-431f-92e6-5481b2a94a6a.jpg",
+            "image": "shopify:\/\/shop_images\/Inst02.jpg",
             "url": ""
-          }
-        },
-        "b29918e8-02d3-48fb-8f3c-c1006d0cad3a": {
-          "type": "pin_pr",
-          "settings": {
-            "product": "a-long-sleeve-v-neck-plbbb-hat",
-            "pos_t": 54,
-            "pos_l": 25,
-            "pos_popup": "top",
-            "cl_pin": "dark"
-          }
-        },
-        "6d65d315-33e9-47ea-b036-514589e40f45": {
-          "type": "pin_pr",
-          "settings": {
-            "product": "cotton-field-jacket-1",
-            "pos_t": 50,
-            "pos_l": 50,
-            "pos_popup": "top",
-            "cl_pin": "dark"
-          }
-        },
-        "9e8a10ab-5c5f-444c-948a-c5c9d7af3db8": {
-          "type": "pin_pr",
-          "settings": {
-            "product": "cotton-nylon-blend-jacket-1",
-            "pos_t": 78,
-            "pos_l": 69,
-            "pos_popup": "top",
-            "cl_pin": "dark"
           }
         }
       },
       "block_order": [
-        "template--19110035325222__d36291c9-6edc-4d9b-9b0a-0c5476d91c3c-168679989709424bf1-0",
-        "cd1d9b9d-c32d-4324-a2fe-4922e60298e4",
-        "bc52d4be-23a5-494a-b521-0f618d2621c3",
-        "template--19110035325222__d36291c9-6edc-4d9b-9b0a-0c5476d91c3c-168679989709424bf1-4",
-        "1188edc4-eda8-4987-b77b-998b07a20bc8",
-        "21ecc8bc-54ab-4d0f-bd42-81efc4c8aca4",
-        "c313de49-d31f-4e91-b522-3323fc6d9a03",
-        "1eaac510-2314-48e3-8d0b-af958a0fd34c",
-        "16bccd42-3096-43f4-ae2f-55f2ff2cac28",
-        "c7e64b0d-b77b-499e-a044-13ac198483cf",
-        "fcf4fdc6-cb71-496a-8c6e-e2a6a17e0d69",
-        "d405b316-1bf6-4aef-8c51-38b487f48089",
-        "a5ee9093-406d-4ade-9f65-295d2c5754a8",
-        "3385aa90-38d1-44f5-b86a-7fe71b8511b4",
-        "bb9e4c3b-8cc5-4203-829b-e33c2a2c7f7b",
-        "0b44bb93-9040-4e07-9bc9-98dd4ee2af1f",
-        "13df5484-f92f-4066-9fe6-c3ffa442ea48",
-        "de48b437-618b-4080-81cf-3ea3e3fe29db",
-        "1d372881-ff36-44df-8d24-cbb0ea4db6ce",
-        "e7752870-2c9a-4031-ad22-41f377ba9190",
-        "026639ba-9a7c-4bab-8448-29ebdc621982",
-        "1db710ed-be3e-4e73-b6ab-9d0cebe0348e",
-        "b7b6a59a-810f-4699-aafe-28a6a3fe9994",
-        "bce3dd5f-2646-40e5-ab69-4bceb246d758",
-        "e1a81d08-3b55-4813-bc2b-45979d063494",
-        "b29918e8-02d3-48fb-8f3c-c1006d0cad3a",
-        "6d65d315-33e9-47ea-b036-514589e40f45",
-        "9e8a10ab-5c5f-444c-948a-c5c9d7af3db8"
+        "template--18372529389862__902b5fcb-94c5-4e93-b8f4-49a63fd56a4a-16825564067ded25b7-0",
+        "template--18372529389862__902b5fcb-94c5-4e93-b8f4-49a63fd56a4a-16825564067ded25b7-1",
+        "template--18372529389862__902b5fcb-94c5-4e93-b8f4-49a63fd56a4a-16825564067ded25b7-2",
+        "template--18372529389862__902b5fcb-94c5-4e93-b8f4-49a63fd56a4a-16825564067ded25b7-3",
+        "template--18372529389862__902b5fcb-94c5-4e93-b8f4-49a63fd56a4a-16825564067ded25b7-4",
+        "template--18372529389862__902b5fcb-94c5-4e93-b8f4-49a63fd56a4a-16825564067ded25b7-5",
+        "1ce803c7-a88f-4297-acf7-8ea1cfabf562",
+        "fade46df-7ccb-4dd7-9de0-840712cb2c0a",
+        "a545d8b6-d754-4c79-802a-02cf84b2b814",
+        "b51fb5ae-337d-4265-b880-1f60f7157d20",
+        "da82ea52-4559-44a5-a9a8-20f4a4387acd",
+        "a949cc8c-4105-405d-b446-b0e8450c468b"
       ],
       "settings": {
-        "heading_center": true,
+        "design_heading": "1",
         "top_heading": "",
         "top_subheading": "",
+        "heading_center": false,
         "tophead_mb": 30,
         "tophead_mb_tb": 30,
         "tophead_mb_mb": 25,
         "layout_des": "1",
-        "pr_pin_des": "1",
-        "content_align": "default",
-        "space_item": "15",
-        "space_item_tb": "10",
-        "space_item_mb": "10",
+        "image_ratio": "ratioadapt",
+        "image_position": "8",
+        "image_size": "cover",
+        "img_effect": "zoom",
+        "b_effect": "dark-overlay",
         "col_dk": "4",
         "col_tb": "3",
         "col_mb": "2",
-        "image_ratio": "ratioadapt",
-        "image_size": "cover",
-        "image_position": "8",
-        "image_bdr": 0,
+        "space_item": "15",
+        "space_item_tb": "10",
+        "space_item_mb": "10",
         "loop": true,
         "au_time": 0,
         "au_hover": true,
-        "freeScroll": false,
-        "slide_align": "default",
         "show_btn": "show_all",
         "btn_pos": "in",
-        "icon_slider": "1",
         "btn_distance": 15,
         "btn_vi": "hover",
         "btn_owl": "default",
@@ -411,11 +232,12 @@
         "btn_cl": "dark",
         "btn_size": "small",
         "show_dots": "hidden",
-        "dots_align": "center",
-        "dot_owl": "br-outline",
+        "dot_owl": "default",
         "dots_cl": "dark",
+        "dots_pos": "center",
         "dots_round": true,
         "dots_space": 10,
+        "dots_bottom_pos": 20,
         "layout": "t4s-container-fluid",
         "cl_bg": "",
         "cl_bg_gradient": "",
@@ -430,6 +252,6 @@
   },
   "order": [
     "cdda0272-cf33-466a-8005-e504b6667028",
-    "d36291c9-6edc-4d9b-9b0a-0c5476d91c3c"
+    "902b5fcb-94c5-4e93-b8f4-49a63fd56a4a"
   ]
 }

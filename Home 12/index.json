@@ -96,7 +96,7 @@
             "content_align_tablet": "center",
             "content_align_mobile": "center",
             "padding_inner": "132px,38px,125px,38px",
-            "padding_inner_tb": "50px,,50px,",
+            "padding_inner_tb": "40px,,40px,",
             "padding_inner_mb": "30px,,30px,",
             "bg_cl": "#ffc300"
           }
@@ -147,8 +147,8 @@
             "text_ls_tb": 0,
             "mgb_tb": 0,
             "hidden_mobile": false,
-            "text_fs_mb": 20,
-            "text_lh_mb": 24,
+            "text_fs_mb": 24,
+            "text_lh_mb": 30,
             "text_ls_mb": 0,
             "mgb_mb": 0
           }
@@ -174,10 +174,10 @@
         "cl_bg_gradient": "",
         "mg": "-33%,,8.9%,",
         "pd": ",,,122px",
-        "mg_tb": ",,,,",
-        "pd_tb": ",,,0",
-        "mg_mb": ",,,,",
-        "pd_mb": ",,,,0"
+        "mg_tb": "",
+        "pd_tb": "",
+        "mg_mb": "",
+        "pd_mb": ""
       }
     },
     "008c3362-0fe9-4be2-a328-b25032b94177": {
@@ -258,17 +258,17 @@
           "type": "custom_button",
           "settings": {
             "button_text": "READ OUR STORY",
-            "button_link": "shopify:\/\/pages\/about-us",
+            "button_link": "shopify:\/\/collections\/furniture-ocolus",
             "target_link": "_self",
             "button_style": "outline",
             "icon_style": "1",
             "button_icon_w": 0,
             "border_w": 2,
-            "button_effect": "fade",
+            "button_effect": "default",
             "pri_cl": "#293341",
             "second_cl": "#293341",
             "pri_cl_hover": "#ffc300",
-            "second_cl_hover": "#ffffff",
+            "second_cl_hover": "#ffc300",
             "fontf": "inherit",
             "fsbutton": 14,
             "fwbutton": 500,
@@ -358,7 +358,6 @@
         "loop": true,
         "au_time": 0,
         "au_hover": true,
-        "center_slide": false,
         "show_btn": "show_all",
         "btn_pos": "between",
         "icon_slider": "1",
@@ -475,7 +474,7 @@
         "height_mb": 350,
         "image": "shopify:\/\/shop_images\/hero.jpg",
         "parallax": true,
-        "link_img1": "shopify:\/\/collections\/furniture-ocolus",
+        "link_img1": "",
         "open_link": "_blank",
         "text_align": "start",
         "text_align_tb": "center",
@@ -545,7 +544,7 @@
           "type": "quote",
           "settings": {
             "heading": "",
-            "content": "Ocolus templates are awesome and very contemporary. They are super sleek and fast. The best is the customer support. Usually response is less than 30 minutes. Love everything about it.",
+            "content": "Octopus templates are awesome and very contemporary. They are super sleek and fast. The best is the customer support. Usually response is less than 30 minutes. Love everything about it.",
             "image_avata": "shopify:\/\/shop_images\/Layer_101.png",
             "title": "CHESTER TORRES",
             "pos": "VP of Product \/ Local Inc"
@@ -575,7 +574,7 @@
           "type": "quote",
           "settings": {
             "heading": "",
-            "content": "Ocolus templates are awesome and very contemporary. They are super sleek and fast. The best is the customer support. Usually response is less than 30 minutes. Love everything about it.",
+            "content": "Octopus templates are awesome and very contemporary. They are super sleek and fast. The best is the customer support. Usually response is less than 30 minutes. Love everything about it.",
             "image_avata": "shopify:\/\/shop_images\/Layer_101.png",
             "title": "CHESTER TORRES",
             "pos": "VP of Product \/ Local Inc"
@@ -605,7 +604,7 @@
           "type": "quote",
           "settings": {
             "heading": "",
-            "content": "Ocolus templates are awesome and very contemporary. They are super sleek and fast. The best is the customer support. Usually response is less than 30 minutes. Love everything about it.",
+            "content": "Octopus templates are awesome and very contemporary. They are super sleek and fast. The best is the customer support. Usually response is less than 30 minutes. Love everything about it.",
             "image_avata": "shopify:\/\/shop_images\/Layer_101.png",
             "title": "CHESTER TORRES",
             "pos": "VP of Product \/ Local Inc"
@@ -624,7 +623,6 @@
         "a2d1c78f-653e-4330-b66a-8ef9bdb88a76"
       ],
       "custom_css": [
-        ".t4s-testimonial .t4s-title {font-family: var(--font-family-1);}",
         ".t4s-testimonial .t4s-subtitle {font-weight: 500; color: var(--heading-color);}",
         "@media (min-width: 1025px) {.t4s-testimonial .t4s-subtitle {line-height: 40px; letter-spacing: 3px; }}"
       ],
@@ -637,7 +635,7 @@
         "tophead_mb_tb": 40,
         "tophead_mb_mb": 25,
         "col_dk": "3",
-        "col_tb": "2",
+        "col_tb": "1",
         "col_mb": "1",
         "space_h_item": "0",
         "space_v_item": "30",
@@ -722,7 +720,6 @@
         "loop": true,
         "au_time": 0,
         "au_hover": true,
-        "center_slide": false,
         "show_btn": "show_all",
         "btn_pos": "out",
         "icon_slider": "3",
@@ -773,7 +770,7 @@
             "image": "shopify:\/\/shop_images\/Homepage12.jpg",
             "image_position": "8",
             "cl_img": "",
-            "link_img1": "shopify:\/\/collections\/furniture-ocolus",
+            "link_img1": "shopify:\/\/collections",
             "open_link": "_blank",
             "animate_slide": "zoom-out",
             "text_align": "start",
@@ -869,7 +866,7 @@
             "image": "shopify:\/\/shop_images\/02_e548d428-bc70-4fd2-b600-081ff0598d8d.jpg",
             "image_position": "8",
             "cl_img": "",
-            "link_img1": "shopify:\/\/collections\/furniture-ocolus",
+            "link_img1": "shopify:\/\/collections",
             "open_link": "_blank",
             "animate_slide": "zoom-out",
             "text_align": "center",
@@ -1070,7 +1067,7 @@
         "col_mb": "1",
         "space_h_item": "30",
         "space_v_item": "30",
-        "space_h_item_tb": "15",
+        "space_h_item_tb": "20",
         "space_v_item_tb": "20",
         "space_h_item_mb": "10",
         "space_v_item_mb": "20",
@@ -1080,7 +1077,7 @@
         "au_hover": true,
         "center_slide": false,
         "show_btn": "show_all",
-        "btn_pos": "out",
+        "btn_pos": "in",
         "icon_slider": "1",
         "btn_distance": 15,
         "btn_vi": "hover",
@@ -1214,8 +1211,7 @@
         "template--18479894954305__69a4bdfa-2376-4ca2-88f8-693d8cc8bd9a-16823025810844783c-2"
       ],
       "custom_css": [
-        "@media (min-width: 1025px) {.t4s-newsletter .t4s-newsletter__submit {min-width: 180px !important; letter-spacing: 2px; }}",
-        ".t4s-newsletter .t4s-newsletter__text {font-size: 14px;}"
+        "@media (min-width: 1025px) {.t4s-newsletter .t4s-newsletter-design-1 .t4s-newsletter__inner .t4s-newsletter__submit {min-width: 180px !important; letter-spacing: 2px; }}"
       ],
       "settings": {
         "design_heading": "1",

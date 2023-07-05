@@ -8,8 +8,8 @@
         "8087310a-eac6-4ec6-ac30-0690cf9ccb13": {
           "type": "mega",
           "settings": {
-            "title": "Home",
-            "url": "\/",
+            "title": "HOME",
+            "url": "https:\/\/demo-ocolus-1.myshopify.com\/",
             "open_link": "_self",
             "icon": "",
             "cus_cl": false,
@@ -28,7 +28,7 @@
         "da242e76-895e-4237-b0d8-64aa9a6fe16f": {
           "type": "mega",
           "settings": {
-            "title": "Shop",
+            "title": "SHOP",
             "url": "shopify:\/\/collections",
             "open_link": "_self",
             "icon": "",
@@ -48,7 +48,7 @@
         "3f6e8627-62e5-458b-92d2-a0471e1c0f18": {
           "type": "mega",
           "settings": {
-            "title": "Products",
+            "title": "PRODUCTS",
             "url": "",
             "open_link": "_self",
             "icon": "",
@@ -68,7 +68,7 @@
         "988a7fd7-ae5e-4427-b4bb-a5e3a9e2ecd1": {
           "type": "mega",
           "settings": {
-            "title": "Blog",
+            "title": "BLOG",
             "url": "shopify:\/\/blogs\/news",
             "open_link": "_self",
             "icon": "",
@@ -88,7 +88,7 @@
         "d2518676-61a3-4987-b324-cc56cafeaa19": {
           "type": "drop",
           "settings": {
-            "title": "Portfolio",
+            "title": "PORTFOLIO",
             "url": "",
             "open_link": "_self",
             "menu": "",
@@ -106,7 +106,7 @@
         "45c2fb83-df20-4a17-b1b4-cb63fa9c2cda": {
           "type": "mega",
           "settings": {
-            "title": "\bPages",
+            "title": "\bPAGES",
             "url": "",
             "open_link": "_self",
             "icon": "",
@@ -119,14 +119,14 @@
             "cus_wid": 1200,
             "id": 5,
             "enable_packery": false,
-            "menu_item_bg_cl": "#ffffff",
+            "menu_item_bg_cl": "#fff",
             "menu_item_bg_op": 100
           }
         },
         "06e00f5d-05c9-4334-9326-4675addf376f": {
           "type": "base",
           "settings": {
-            "title": "Buy theme!",
+            "title": "BUY THEME!",
             "url": "\/",
             "open_link": "_self",
             "icon": "",
@@ -146,9 +146,6 @@
         "45c2fb83-df20-4a17-b1b4-cb63fa9c2cda",
         "06e00f5d-05c9-4334-9326-4675addf376f"
       ],
-      "custom_css": [
-        ".t4s-header__languages button {text-transform: uppercase;}"
-      ],
       "settings": {
         "h_top_height": 50,
         "h_top_height_mb": 50,
@@ -167,12 +164,8 @@
         "show_language_right": false,
         "show_currency_right": false,
         "top_menu": "top-menu-header-home-8",
-        "hidden_lang_cur_onmobile": false,
-        "hidden_wishlist_onmobile": true,
-        "hidden_account_onmobile": true,
-        "hidden_search_onmobile": true,
         "header_height": 100,
-        "header_height_mb": 60,
+        "header_height_mb": 80,
         "header_border": "fullwidth",
         "bgnav": "",
         "opnav": 100,
@@ -186,17 +179,16 @@
         "layout": "logo_center",
         "full_header": false,
         "pd": ",15px,,15px",
-        "menu_style": "sidebar_mb",
+        "menu_style": "sidebar2",
         "arrow": true,
         "enable_active": false,
-        "fs_nav": 18,
-        "fw_nav": 300,
-        "ls_nav": 0,
+        "fs_nav": 12,
+        "fw_nav": 500,
+        "ls_nav": 2,
         "sp_nav": 35,
         "align": "center",
         "hover": "hover_sideup",
         "sp_icon": 30,
-        "sp_icon_tb": 20,
         "sp_icon_mb": 20,
         "line_seperate": "2",
         "search_des": "1",

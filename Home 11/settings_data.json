@@ -1,22 +1,17 @@
 {
   "current": {
-    "purchase_code": "",
-    "general_layout": "custom",
-    "cus_w_bd": 1170,
+    "purchase_code": "demo-ocolus-2",
     "use_rtl": "2",
-    "logo": "shopify:\/\/shop_images\/Frame_1000001950.svg",
+    "logo": "shopify:\/\/shop_images\/logo-black.png",
     "logo_width": 145,
     "logos_width": 145,
-    "logo_mb_width": 110,
+    "logo_mb_width": 145,
     "logo_tr_width": 145,
     "secondary_color": "#293341",
-    "sw_primary": "#c91f28",
     "font_source": "2",
     "fnt_fm_sp2": "raleway_n7",
     "embed_google_font": "<link rel=\"preconnect\" href=\"https:\/\/fonts.googleapis.com\">\n<link rel=\"preconnect\" href=\"https:\/\/fonts.gstatic.com\" crossorigin=\"\">\n<link href=\"https:\/\/fonts.googleapis.com\/css2?family=Poppins:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&amp;family=Raleway:ital,wght@0,400;0,500;0,600;0,700;0,800;1,400;1,500;1,600;1,700;1,800&amp;display=swap\" rel=\"stylesheet\">",
     "rules_google_font": "font-family: 'Poppins', sans-serif;\nfont-family: 'Raleway', sans-serif;",
-    "hd_ffamily": "2",
-    "hd_fweight": 700,
     "enable_compe": true,
     "use_new_badge": false,
     "price_varies_style": "1",
@@ -24,7 +19,7 @@
     "share_source": "1",
     "free_ship_pr": "100-linen-short-sleeve-shirt",
     "gift_wrap_pr": "gift-wrap",
-    "filter_type_search": false,
+    "filter_type_search": true,
     "show_search_suggest": true,
     "search_prs_suggest": "furniture-decor",
     "show_search_hotkey": true,
@@ -37,9 +32,7 @@
     "colors_css": true,
     "t4s_custom_css": true,
     "global_css": ".t4s-flickity-slider.t4s-slider-btn-style-outline .flickityt4s-button{border-width: 1px;}\n.t4s-product .t4s-product-info .t4s-product-info-inner .t4s-pr-top-info{ margin-bottom:3px;}\n .t4s-blog-post .t4s-article-thumb {\n  opacity: 0;\n  visibility: hidden;\ntransition: .5s linear;\nt\n}\n.t4s-blog-post .is-selected .t4s-article-thumb {\n  opacity: 1;\n  visibility: visible;\ntransition: .5s linear;\n}\n.t4s-blog-post .t4s-article-inner:hover .t4s-article-thumb {\n    opacity: 1;\n  visibility: visible;\ntransition: .5s linear;\n}",
-    "tablet_mobile_css": ".t4s-product {\n    --pr-title-size: 16px;\n}",
     "favicon": "shopify:\/\/shop_images\/favicon.png",
-    "logo_svg": "https:\/\/cdn.shopify.com\/s\/files\/1\/0725\/1289\/7345\/files\/Frame_1000001950.svg?v=1687576062",
     "fnt_fm_gg2": "Raleway",
     "sections": {
       "mb_nav": {
@@ -178,7 +171,7 @@
           "mb_nav-9"
         ],
         "settings": {
-          "menu": ""
+          "mb_style": "1"
         }
       },
       "mb_cat": {
@@ -251,6 +244,8 @@
         "settings": {
           "style": "1",
           "pos": "2",
+          "enable_quantity_number": true,
+          "enable_quantity_selector": false,
           "enable_pr": true,
           "enable_calc_ship": true,
           "enable_note": true,
@@ -395,7 +390,7 @@
           "btn_shape": "none",
           "btn_cl": "dark",
           "btn_size": "large",
-          "show_dots": "hidden",
+          "show_dots": "show_desktop",
           "dot_owl": "dots_simple",
           "dots_cl": "dark",
           "dots_align": "center",
@@ -1037,7 +1032,7 @@
           "txt_tr_pr": "none",
           "fnt_df_pr": "1",
           "size_pr": 20,
-          "lh_pr": 26,
+          "lh_pr": 22,
           "fw_pr": 500,
           "ls_pr": 0,
           "size_price_pr": 18,
@@ -1047,12 +1042,10 @@
           "space_elements": 15,
           "swatch_color_size": 15,
           "size_pr_mb": 16,
-          "lh_pr_mb": 20,
+          "lh_pr_mb": 19,
           "ls_pr_mb": 0,
           "size_price_pr_mb": 14,
           "lh_price_pr_mb": 0,
-          "space_img_content_mb": 10,
-          "space_elements_mb": 5,
           "swatch_color_size_mb": 15,
           "pr_title_color": "#293341",
           "pr_title_color_hover": "#c91f28",

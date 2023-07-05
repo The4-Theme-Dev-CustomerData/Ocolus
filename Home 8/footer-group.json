@@ -17,7 +17,7 @@
             "space_item_mb": 10,
             "col_dk": "12",
             "col_dk_w": "33.33333",
-            "col_tb": "12",
+            "col_tb": "6",
             "col_dk_w_tb": "33.33333",
             "col_mb": "12",
             "content_align": "t4s-text-lg-center",
@@ -69,12 +69,12 @@
             "btn_cl": "#293341",
             "btn_bg_cl": "#ffffff",
             "btn_hover_cl": "#ffffff",
-            "btn_bg_hover_cl": "#000000",
+            "btn_bg_hover_cl": "#000",
             "border_cl": "#eeeeee",
             "background_cl": "#ffffff",
             "mgb": 60,
             "mgb_tb": 40,
-            "mgb_mb": 44
+            "mgb_mb": 30
           }
         },
         "sections--18372521722150__44f451ae-ced1-405b-9c6a-73f0ae868703-16832682300969888b-9": {
@@ -122,7 +122,7 @@
         "mgb_mb": 20,
         "text_fs": 12,
         "text_fw": 500,
-        "content_ls": 2,
+        "content_ls": 0,
         "heading_cl": "#293341",
         "text_cl": "#7b7b7b",
         "link_cl": "#293341",
@@ -171,12 +171,12 @@
           "settings": {
             "title": "",
             "social_mode": "2",
-            "social_style": "outline",
+            "social_style": "3",
             "social_size": "medium",
             "bd_radius": 30,
-            "use_color_set": true,
+            "use_color_set": false,
             "pri_cl": "#7b7b7b",
-            "pri_hover_cl": "#c91f28",
+            "pri_hover_cl": "#7b7b7b",
             "space_h_item": "15",
             "space_v_item": "5",
             "space_h_item_mb": "15",
@@ -197,9 +197,6 @@
         "sections--18372521722150__1fee1ef0-439b-458b-935e-59dafaab9592-16832710463ca82ea1-0",
         "2068da0d-1814-4122-9b34-f4fab3df9ce9",
         "sections--18372521722150__1fee1ef0-439b-458b-935e-59dafaab9592-16832710463ca82ea1-1"
-      ],
-      "custom_css": [
-        ".t4s-socials.t4s-socials-size-medium {--width: 36px; --height: 36px;}"
       ],
       "settings": {
         "hidden_footer": false,
@@ -239,7 +236,7 @@
         "mg_tb": "",
         "pd_tb": ",,80px,",
         "mg_mb": "",
-        "pd_mb": ",,40px,"
+        "pd_mb": ",,50px,"
       }
     }
   },
