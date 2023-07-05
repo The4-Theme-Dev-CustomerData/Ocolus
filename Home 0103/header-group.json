@@ -1,0 +1,290 @@
+{
+  "type": "header",
+  "name": "Header Group",
+  "sections": {
+    "top": {
+      "type": "top-bar",
+      "blocks": {
+        "4f2d58fb-0d6c-4fb3-8745-c72762ac6013": {
+          "type": "link_list",
+          "settings": {
+            "top_menu_link": "top-menu-contact",
+            "show_border_w": false,
+            "hide": false,
+            "text_align": "start",
+            "col": "6",
+            "col_w": "33.33333"
+          }
+        },
+        "a639fb08-5ea4-4c52-891e-9a7d80d4f6bd": {
+          "type": "social",
+          "settings": {
+            "enable_email": false,
+            "txt_email": "info@ocolus.com",
+            "show_border_w": false,
+            "social": "2",
+            "social_style": "simple",
+            "social_size": "medium",
+            "bd_radius": 0,
+            "use_color_set": false,
+            "pri_cl": "#7b7b7b",
+            "pri_hover_cl": "#000000",
+            "space_h_item": "20",
+            "space_v_item": "0",
+            "space_h_item_mb": "10",
+            "space_v_item_mb": "0",
+            "hide": true,
+            "text_align": "end",
+            "col": "6",
+            "col_w": ""
+          }
+        }
+      },
+      "block_order": [
+        "4f2d58fb-0d6c-4fb3-8745-c72762ac6013",
+        "a639fb08-5ea4-4c52-891e-9a7d80d4f6bd"
+      ],
+      "custom_css": [
+        "@media (min-width: 1200px) {.t4s-top-bar__wrap {min-height: 55px; }}"
+      ],
+      "settings": {
+        "show_topbar": "desktop",
+        "full_w_topbar": true,
+        "topbar_transparent": true,
+        "height": 55,
+        "fontsize": 13,
+        "fontweight": 400,
+        "ls": 0,
+        "txt_transform": "none",
+        "cl": "#7b7b7b",
+        "cl_a_hover": "#c91f28",
+        "bg": "#109533",
+        "bg_op": 0,
+        "border_bottom": "fullwidth",
+        "show_border_b": false,
+        "bd_cl": "#eaeaea",
+        "cl_tr": "#7b7b7b",
+        "cl_a_hover_tr": "#c91f28",
+        "bg_tr": "#000000",
+        "bg_op_tr": 0,
+        "show_border_tr": true,
+        "bd_cl_tr": "#eaeaea",
+        "pd": ",40px,,40px"
+      }
+    },
+    "header-inline": {
+      "type": "header-inline",
+      "blocks": {
+        "8087310a-eac6-4ec6-ac30-0690cf9ccb13": {
+          "type": "mega",
+          "settings": {
+            "title": "HOME",
+            "url": "https:\/\/demo-ocolus-1.myshopify.com\/",
+            "open_link": "_self",
+            "icon": "",
+            "cus_cl": false,
+            "cl": "#c91f28",
+            "lb": "",
+            "lb_cl": "#27ae60",
+            "pos_sub": "bottom",
+            "wid": "full",
+            "cus_wid": 1200,
+            "id": 1,
+            "enable_packery": false,
+            "menu_item_bg_cl": "#ffffff",
+            "menu_item_bg_op": 100
+          }
+        },
+        "da242e76-895e-4237-b0d8-64aa9a6fe16f": {
+          "type": "mega",
+          "settings": {
+            "title": "SHOP",
+            "url": "shopify:\/\/collections",
+            "open_link": "_self",
+            "icon": "",
+            "cus_cl": false,
+            "cl": "#c91f28",
+            "lb": "HOT",
+            "lb_cl": "#c91f28",
+            "pos_sub": "bottom",
+            "wid": "full",
+            "cus_wid": 1200,
+            "id": 2,
+            "enable_packery": false,
+            "menu_item_bg_cl": "#ffffff",
+            "menu_item_bg_op": 100
+          }
+        },
+        "3f6e8627-62e5-458b-92d2-a0471e1c0f18": {
+          "type": "mega",
+          "settings": {
+            "title": "PRODUCTS",
+            "url": "",
+            "open_link": "_self",
+            "icon": "",
+            "cus_cl": false,
+            "cl": "#c91f28",
+            "lb": "NEW",
+            "lb_cl": "#27ae60",
+            "pos_sub": "bottom",
+            "wid": "full",
+            "cus_wid": 1200,
+            "id": 3,
+            "enable_packery": true,
+            "menu_item_bg_cl": "#ffffff",
+            "menu_item_bg_op": 100
+          }
+        },
+        "988a7fd7-ae5e-4427-b4bb-a5e3a9e2ecd1": {
+          "type": "mega",
+          "settings": {
+            "title": "BLOGS",
+            "url": "shopify:\/\/blogs\/news",
+            "open_link": "_self",
+            "icon": "",
+            "cus_cl": false,
+            "cl": "#c91f28",
+            "lb": "",
+            "lb_cl": "#27ae60",
+            "pos_sub": "bottom",
+            "wid": "full",
+            "cus_wid": 1000,
+            "id": 4,
+            "enable_packery": false,
+            "menu_item_bg_cl": "#ffffff",
+            "menu_item_bg_op": 100
+          }
+        },
+        "5aa8535f-5905-4b4e-9748-0302958ebbb4": {
+          "type": "mega",
+          "settings": {
+            "title": "PORFOLIO",
+            "url": "",
+            "open_link": "_self",
+            "icon": "",
+            "cus_cl": false,
+            "cl": "#c91f28",
+            "lb": "",
+            "lb_cl": "#27ae60",
+            "pos_sub": "bottom-end",
+            "wid": "cus",
+            "cus_wid": 800,
+            "id": 16,
+            "enable_packery": false,
+            "menu_item_bg_cl": "#ffffff",
+            "menu_item_bg_op": 100
+          }
+        },
+        "90e17509-e312-4c6f-94fe-3e459065dde1": {
+          "type": "mega",
+          "settings": {
+            "title": "PAGES",
+            "url": "",
+            "open_link": "_self",
+            "icon": "",
+            "cus_cl": false,
+            "cl": "#c91f28",
+            "lb": "",
+            "lb_cl": "#27ae60",
+            "pos_sub": "bottom-end",
+            "wid": "cus",
+            "cus_wid": 700,
+            "id": 5,
+            "enable_packery": false,
+            "menu_item_bg_cl": "#ffffff",
+            "menu_item_bg_op": 100
+          }
+        },
+        "06e00f5d-05c9-4334-9326-4675addf376f": {
+          "type": "base",
+          "settings": {
+            "title": "BUY THEME!",
+            "url": "\/",
+            "open_link": "_self",
+            "icon": "",
+            "cus_cl": false,
+            "cl": "#ec0101",
+            "lb": "",
+            "lb_cl": ""
+          }
+        }
+      },
+      "block_order": [
+        "8087310a-eac6-4ec6-ac30-0690cf9ccb13",
+        "da242e76-895e-4237-b0d8-64aa9a6fe16f",
+        "3f6e8627-62e5-458b-92d2-a0471e1c0f18",
+        "988a7fd7-ae5e-4427-b4bb-a5e3a9e2ecd1",
+        "5aa8535f-5905-4b4e-9748-0302958ebbb4",
+        "90e17509-e312-4c6f-94fe-3e459065dde1",
+        "06e00f5d-05c9-4334-9326-4675addf376f"
+      ],
+      "settings": {
+        "border_bottom": "fullwidth",
+        "bgnav": "rgba(0,0,0,0)",
+        "opnav": 0,
+        "clnav": "#293341",
+        "clnav_hover": "#293341",
+        "border_color": "#eaeaea",
+        "layout": "logo_left",
+        "full_header": true,
+        "header_height": 80,
+        "pd": ",40px,,40px",
+        "menu_style": "default",
+        "arrow": false,
+        "dots_seperate": false,
+        "enable_active": false,
+        "fs_nav": 13,
+        "fw_nav": 500,
+        "ls_nav": 2.2,
+        "sp_nav": 50,
+        "align": "end",
+        "hover": "hover_sideup",
+        "big_logo": false,
+        "box_logo_height": 150,
+        "big_logo_padding": 30,
+        "big_logo_bg": "#ffffff",
+        "enable_stick_menu": false,
+        "stick_menu": "",
+        "stick_menu_style": "1",
+        "sp_icon": 30,
+        "sp_icon_tb": 20,
+        "sp_icon_mb": 20,
+        "line_seperate": "2",
+        "show_wis": false,
+        "show_language": false,
+        "show_currency": false,
+        "search_des": "1",
+        "my_account": "1",
+        "menu_bar": "0",
+        "cart_des": "1",
+        "count_primary_color": "#c91f28",
+        "count_secondary_color": "#ffffff",
+        "header_height_mb": 60,
+        "hidden_lang_cur_onmobile": true,
+        "hidden_wishlist_onmobile": true,
+        "hidden_account_onmobile": true,
+        "hidden_search_onmobile": true,
+        "sticky_header": true,
+        "scroll_header": true,
+        "bgnavst": "#ffffff",
+        "opnavst": 100,
+        "clnavst": "#293341",
+        "clnavst_hover": "#293341",
+        "border_h_sticky_color": "#eaeaea",
+        "transparent_header": true,
+        "transparent_collection": false,
+        "transparent_article": false,
+        "space_transparent_header": false,
+        "bgnavtr": "rgba(0,0,0,0)",
+        "opnavtr": 0,
+        "clnavtr": "#293341",
+        "clnavtr_hover": "#293341",
+        "border_h_transparent_color": "#eaeaea"
+      }
+    }
+  },
+  "order": [
+    "top",
+    "header-inline"
+  ]
+}
