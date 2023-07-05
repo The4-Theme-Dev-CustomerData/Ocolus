@@ -1,12 +1,12 @@
 {
   "current": {
-    "purchase_code": "demo-ocolus-2",
+    "purchase_code": "",
     "general_layout": "custom",
     "cus_w_bd": 1200,
-    "logo": "shopify:\/\/shop_images\/logo-black-h12.png",
+    "logo": "shopify:\/\/shop_images\/Frame_1000001952_6589a9e6-17be-41c7-bd41-d23a98d1f197.svg",
     "logo_width": 150,
     "logos_width": 150,
-    "logo_mb_width": 150,
+    "logo_mb_width": 110,
     "logo_tr_width": 150,
     "mobile_nav_type": "1",
     "accent_color": "#ffc300",
@@ -14,18 +14,19 @@
     "link_color_hover": "#ffc300",
     "cl_lazyload": "#ffc300",
     "bg_tooltip": "#ffc300",
+    "sw_primary": "#c91f28",
     "font_source": "2",
     "embed_google_font": "<link rel=\"preconnect\" href=\"https:\/\/fonts.googleapis.com\">\n<link rel=\"preconnect\" href=\"https:\/\/fonts.gstatic.com\" crossorigin=\"\">\n<link href=\"https:\/\/fonts.googleapis.com\/css2?family=Poppins:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;family=Roboto+Slab:wght@300;400;500;600;700;800;900&amp;display=swap\" rel=\"stylesheet\">",
     "rules_google_font": "font-family: 'Poppins', sans-serif;\nfont-family: 'Roboto Slab', serif;",
     "share_source": "1",
     "free_ship_pr": "100-linen-short-sleeve-shirt",
     "gift_wrap_pr": "gift-wrap",
-    "filter_type_search": true,
+    "filter_type_search": false,
     "show_search_suggest": true,
     "search_prs_suggest": "furniture-ocolus",
     "show_search_hotkey": true,
     "list_hotkey": "furniture",
-    "currency_type": "2",
+    "currency_type": "1",
     "show_short_label": false,
     "t4s_custom_css": true,
     "global_css": ".t4s-base-slider.t4s-base-slider.t4s-dots-style-outline_active .flickityt4s-page-dots .dot.is-selected{\nborder-color: var(--slider-dot-background-active)\n}\n.t4s_des_title_2:after{ margin-top: 26px;}",
@@ -33,6 +34,7 @@
     "tablet_mobile_css": "",
     "mobile_css": ".bl-be178647-0e9c-4134-af5e-487acf4cba12 .t4s-footer-content {\n    flex-direction: column;\n}",
     "favicon": "shopify:\/\/shop_images\/favicon.png",
+    "logo_svg": "https:\/\/cdn.shopify.com\/s\/files\/1\/0725\/1289\/7345\/files\/Frame_1000001952.svg?v=1687744333",
     "fnt_fm_gg2": "Roboto Slab",
     "sections": {
       "mb_nav": {
@@ -171,6 +173,7 @@
           "mb_nav-9"
         ],
         "settings": {
+          "menu": ""
         }
       },
       "mb_cat": {
@@ -243,8 +246,6 @@
         "settings": {
           "style": "1",
           "pos": "2",
-          "enable_quantity_number": true,
-          "enable_quantity_selector": false,
           "enable_pr": true,
           "enable_calc_ship": true,
           "enable_note": true,
@@ -389,7 +390,7 @@
           "btn_shape": "none",
           "btn_cl": "dark",
           "btn_size": "large",
-          "show_dots": "show_desktop",
+          "show_dots": "hidden",
           "dot_owl": "dots_simple",
           "dots_cl": "dark",
           "dots_align": "center",
@@ -1031,7 +1032,7 @@
           "txt_tr_pr": "none",
           "fnt_df_pr": "1",
           "size_pr": 18,
-          "lh_pr": 20,
+          "lh_pr": 24,
           "fw_pr": 400,
           "ls_pr": 0,
           "size_price_pr": 18,
@@ -1045,6 +1046,8 @@
           "ls_pr_mb": 0,
           "size_price_pr_mb": 14,
           "lh_price_pr_mb": 0,
+          "space_img_content_mb": 10,
+          "space_elements_mb": 5,
           "swatch_color_size_mb": 15,
           "pr_title_color": "#293341",
           "pr_title_color_hover": "#c91f28",

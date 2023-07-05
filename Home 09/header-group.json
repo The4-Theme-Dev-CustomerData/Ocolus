@@ -72,8 +72,8 @@
         "8087310a-eac6-4ec6-ac30-0690cf9ccb13": {
           "type": "mega",
           "settings": {
-            "title": "HOME",
-            "url": "https:\/\/demo-ocolus-1.myshopify.com\/",
+            "title": "Home",
+            "url": "\/",
             "open_link": "_self",
             "icon": "",
             "cus_cl": false,
@@ -92,7 +92,7 @@
         "da242e76-895e-4237-b0d8-64aa9a6fe16f": {
           "type": "mega",
           "settings": {
-            "title": "SHOP",
+            "title": "Shop",
             "url": "shopify:\/\/collections",
             "open_link": "_self",
             "icon": "",
@@ -112,7 +112,7 @@
         "3f6e8627-62e5-458b-92d2-a0471e1c0f18": {
           "type": "mega",
           "settings": {
-            "title": "PRODUCTS",
+            "title": "Products",
             "url": "",
             "open_link": "_self",
             "icon": "",
@@ -132,7 +132,7 @@
         "988a7fd7-ae5e-4427-b4bb-a5e3a9e2ecd1": {
           "type": "mega",
           "settings": {
-            "title": "BLOG",
+            "title": "Blog",
             "url": "shopify:\/\/blogs\/news",
             "open_link": "_self",
             "icon": "",
@@ -152,7 +152,7 @@
         "d2518676-61a3-4987-b324-cc56cafeaa19": {
           "type": "drop",
           "settings": {
-            "title": "PORTFOLIO",
+            "title": "Portfolio",
             "url": "",
             "open_link": "_self",
             "menu": "",
@@ -170,7 +170,7 @@
         "45c2fb83-df20-4a17-b1b4-cb63fa9c2cda": {
           "type": "mega",
           "settings": {
-            "title": "\bPAGES",
+            "title": "\bPages",
             "url": "",
             "open_link": "_self",
             "icon": "",
@@ -190,7 +190,7 @@
         "06e00f5d-05c9-4334-9326-4675addf376f": {
           "type": "base",
           "settings": {
-            "title": "BUY THEME!",
+            "title": "Buy theme!",
             "url": "\/",
             "open_link": "_self",
             "icon": "",
@@ -214,15 +214,15 @@
         "border_bottom": "none",
         "bgnav": "",
         "opnav": 100,
-        "clnav": "#293341",
+        "clnav": "#7b7b7b",
         "clnav_hover": "#c91f28",
         "border_color": "#eaeaea",
         "layout": "logo_center",
         "full_header": false,
         "header_height": 100,
         "pd": ",15px,,15px",
-        "menu_style": "sidebar2",
-        "arrow": false,
+        "menu_style": "sidebar_mb",
+        "arrow": true,
         "dots_seperate": false,
         "enable_active": false,
         "fs_nav": 13,
@@ -238,8 +238,9 @@
         "enable_stick_menu": false,
         "stick_menu": "",
         "stick_menu_style": "1",
-        "header_height_mb": 75,
+        "header_height_mb": 60,
         "sp_icon": 30,
+        "sp_icon_tb": 20,
         "sp_icon_mb": 10,
         "line_seperate": "0",
         "show_wis": false,
@@ -255,7 +256,7 @@
         "scroll_header": true,
         "bgnavst": "#ffffff",
         "opnavst": 100,
-        "clnavst": "#293341",
+        "clnavst": "#7b7b7b",
         "clnavst_hover": "#c91f28",
         "border_h_sticky_color": "#eaeaea",
         "transparent_header": false,

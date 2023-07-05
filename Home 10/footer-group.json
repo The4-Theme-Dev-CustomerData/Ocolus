@@ -127,7 +127,7 @@
             "padding_inner": "",
             "content_align_tb": "t4s-text-md-start",
             "padding_inner_tb": "",
-            "col_heading_mobile": "Infos",
+            "col_heading_mobile": "Info",
             "content_align_mb": "t4s-text-start",
             "padding_inner_mb": ""
           }
@@ -161,7 +161,7 @@
         "48838d71-7c1e-4b13-90f6-1df0945f63d5": {
           "type": "custom_text",
           "settings": {
-            "text": "+00-01-2345 999<br>\ninfo@octopus.com",
+            "text": "+00-01-2345 999<br>\ninfo@ocolus.com",
             "remove_br_tag": false,
             "tag": "p",
             "fontf": "inherit",
@@ -197,8 +197,7 @@
         "48838d71-7c1e-4b13-90f6-1df0945f63d5"
       ],
       "custom_css": [
-        ".t4s-menu-style-icon svg {margin-left: 0px;}",
-        "li a {line-height: 30px;}"
+
       ],
       "settings": {
         "hidden_footer": false,
@@ -291,12 +290,12 @@
             "col_dk_w_tb": "33.33333",
             "col_mb": "12",
             "content_align": "t4s-text-lg-end",
-            "padding_inner": "",
+            "padding_inner": "6px,,,",
             "content_align_tb": "t4s-text-md-end",
-            "padding_inner_tb": "",
+            "padding_inner_tb": "6px,,,",
             "col_heading_mobile": "",
             "content_align_mb": "t4s-text-center",
-            "padding_inner_mb": ""
+            "padding_inner_mb": "5px,,,"
           }
         },
         "9e3160d5-2246-4b0e-bfdf-5943c97323c2": {
@@ -324,10 +323,7 @@
         "9e3160d5-2246-4b0e-bfdf-5943c97323c2"
       ],
       "custom_css": [
-        ".bl-2a97d418-320c-4b84-80a6-9abbd70f96ca .t4s-banner-content {display: flex; justify-content: space-between;}",
-        "p#b_4471ff24-4151-40ab-b5bb-7409dd9750d8 {margin-inline-end: 30px;}",
-        ".t4s-footer-bottom .t4s-custom-col {margin-top: 40px;}",
-        "@media (max-width: 767px) {.t4s-footer-bottom .t4s-custom-col {margin-top: 15px; }}"
+
       ],
       "settings": {
         "hidden_footer": false,
@@ -363,11 +359,11 @@
         "cl_bg": "#f5f9fa",
         "cl_bg_gradient": "",
         "mg": "",
-        "pd": "32px,,35px,",
+        "pd": "38px,,36px,",
         "mg_tb": "",
-        "pd_tb": "30px,,30px,",
+        "pd_tb": "35px,,35px,",
         "mg_mb": "",
-        "pd_mb": "15px,,15px,"
+        "pd_mb": "20px,,20px,"
       }
     }
   },

@@ -4,7 +4,10 @@
   "sections": {
     "footer": {
       "type": "footer",
+      "disabled": true,
       "settings": {
+        "sticky": false,
+        "collapse": false
       }
     }
   },

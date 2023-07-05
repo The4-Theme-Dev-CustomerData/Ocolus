@@ -14,7 +14,7 @@
         "2648c36d-0fd7-4224-860b-9ba1674b6277": {
           "type": "html",
           "settings": {
-            "html": "HTML custom code",
+            "html": "",
             "page": "demo-short",
             "col": "12"
           }
@@ -123,7 +123,7 @@
             "tt_hd": "Other page",
             "url": "",
             "open_link": "_self",
-            "menu": "other-opage",
+            "menu": "other-pages",
             "col": "4"
           }
         },
