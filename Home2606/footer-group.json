@@ -1,0 +1,441 @@
+{
+  "type": "footer",
+  "name": "Footer Group",
+  "sections": {
+    "82c8b76f-1ac8-4ede-9f36-9ecf4ea69810": {
+      "type": "footer-main",
+      "blocks": {
+        "80eb6dd8-241d-427a-96e9-6cc569bce894": {
+          "type": "bl_col",
+          "settings": {
+            "col_heading": "",
+            "col_border": false,
+            "menu": "",
+            "menu_style": "default",
+            "space_item": 10,
+            "space_item_tb": 10,
+            "space_item_mb": 10,
+            "mgb": 0,
+            "col_dk": "12",
+            "col_dk_w": "33.33333",
+            "col_tb": "12",
+            "col_dk_w_tb": "33.33333",
+            "col_mb": "12",
+            "content_align": "t4s-text-lg-center",
+            "padding_inner": ",,40px,",
+            "content_align_tb": "t4s-text-md-center",
+            "padding_inner_tb": ",,40px,",
+            "col_heading_mobile": "",
+            "content_align_mb": "t4s-text-start",
+            "padding_inner_mb": ",,20px,"
+          }
+        },
+        "fc2c4b7c-714c-428d-a9ea-127ee3b18a88": {
+          "type": "image",
+          "settings": {
+            "image_child": "shopify:\/\/shop_images\/ocolus..svg",
+            "img_width": 145,
+            "img_width_tb": 145,
+            "img_width_mb": 130,
+            "img_link": "",
+            "hidden_mobile": false,
+            "mgb": 0,
+            "mgb_tb": 0,
+            "mgb_mb": 0
+          }
+        },
+        "sections--18492533866817__82c8b76f-1ac8-4ede-9f36-9ecf4ea69810-1683182442af982992-4": {
+          "type": "bl_col",
+          "settings": {
+            "col_heading": "ABOUT US",
+            "col_border": false,
+            "menu": "",
+            "menu_style": "icon",
+            "space_item": 10,
+            "space_item_tb": 10,
+            "space_item_mb": 10,
+            "col_dk": "3",
+            "col_dk_w": "33.33333",
+            "col_tb": "6",
+            "col_dk_w_tb": "33.33333",
+            "col_mb": "12",
+            "content_align": "t4s-text-lg-start",
+            "padding_inner": "",
+            "content_align_tb": "t4s-text-md-start",
+            "padding_inner_tb": "",
+            "col_heading_mobile": "",
+            "content_align_mb": "t4s-text-start",
+            "padding_inner_mb": ""
+          }
+        },
+        "f2f836cf-f32e-4eda-b4f2-207f122e54b9": {
+          "type": "cus_menu",
+          "settings": {
+            "menu": "footer-about-us",
+            "menu_style": "icon",
+            "space_item": 10,
+            "space_item_tb": 10,
+            "space_item_mb": 10
+          }
+        },
+        "fc02cc48-b388-414e-94ae-fdb9c5116452": {
+          "type": "bl_col",
+          "settings": {
+            "col_heading": "CUSTOMER CARE",
+            "col_border": false,
+            "menu": "",
+            "menu_style": "default",
+            "space_item": 10,
+            "space_item_tb": 10,
+            "space_item_mb": 10,
+            "col_dk": "3",
+            "col_dk_w": "33.33333",
+            "col_tb": "6",
+            "col_dk_w_tb": "33.33333",
+            "col_mb": "12",
+            "content_align": "t4s-text-lg-start",
+            "padding_inner": "",
+            "content_align_tb": "t4s-text-md-start",
+            "padding_inner_tb": "",
+            "col_heading_mobile": "",
+            "content_align_mb": "t4s-text-start",
+            "padding_inner_mb": ""
+          }
+        },
+        "57c14831-269a-4da8-87ad-f07e9617524f": {
+          "type": "cus_menu",
+          "settings": {
+            "menu": "footer-customer-care",
+            "menu_style": "icon",
+            "space_item": 10,
+            "space_item_tb": 10,
+            "space_item_mb": 10
+          }
+        },
+        "0e554942-a83d-402a-bd3a-44f328aa456d": {
+          "type": "bl_col",
+          "settings": {
+            "col_heading": "HOW TO BUY",
+            "col_border": false,
+            "menu": "",
+            "menu_style": "default",
+            "space_item": 10,
+            "space_item_tb": 10,
+            "space_item_mb": 10,
+            "col_dk": "3",
+            "col_dk_w": "33.33333",
+            "col_tb": "6",
+            "col_dk_w_tb": "33.33333",
+            "col_mb": "12",
+            "content_align": "t4s-text-lg-start",
+            "padding_inner": "",
+            "content_align_tb": "t4s-text-md-start",
+            "padding_inner_tb": "",
+            "col_heading_mobile": "",
+            "content_align_mb": "t4s-text-start",
+            "padding_inner_mb": ""
+          }
+        },
+        "d7c29ef6-892d-4225-a29a-a7e461d17153": {
+          "type": "cus_menu",
+          "settings": {
+            "menu": "footer-how-to-buy",
+            "menu_style": "icon",
+            "space_item": 10,
+            "space_item_tb": 10,
+            "space_item_mb": 10
+          }
+        },
+        "76ee60fa-39f1-4f9c-95f6-91d4c8eac8dc": {
+          "type": "bl_col",
+          "settings": {
+            "col_heading": "KEEP IN TOUCH",
+            "col_border": false,
+            "menu": "",
+            "menu_style": "default",
+            "space_item": 10,
+            "space_item_tb": 10,
+            "space_item_mb": 10,
+            "col_dk": "3",
+            "col_dk_w": "33.33333",
+            "col_tb": "6",
+            "col_dk_w_tb": "33.33333",
+            "col_mb": "12",
+            "content_align": "t4s-text-lg-start",
+            "padding_inner": "",
+            "content_align_tb": "t4s-text-md-start",
+            "padding_inner_tb": "",
+            "col_heading_mobile": "",
+            "content_align_mb": "t4s-text-start",
+            "padding_inner_mb": ""
+          }
+        },
+        "3a948f1a-e998-4b8a-a482-f58cd4fb343d": {
+          "type": "custom_text",
+          "settings": {
+            "text": "Add: No. 1121 South Place. California",
+            "remove_br_tag": false,
+            "tag": "p",
+            "fontf": "inherit",
+            "text_cl": "#7b7b7b",
+            "text_fs": 14,
+            "text_lh": 30,
+            "text_fw": 400,
+            "text_ls": 0,
+            "font_italic": false,
+            "text_shadow": false,
+            "mgb": 0,
+            "text_fs_tb": 14,
+            "text_lh_tb": 30,
+            "text_ls_tb": 0,
+            "mgb_tb": 0,
+            "hidden_mobile": false,
+            "text_fs_mb": 14,
+            "text_lh_mb": 30,
+            "text_ls_mb": 0,
+            "mgb_mb": 0
+          }
+        },
+        "3db7047d-0d26-4b2f-8bd8-b49564d2a40c": {
+          "type": "custom_text",
+          "settings": {
+            "text": "Phone: +00-01-2345 999",
+            "remove_br_tag": false,
+            "tag": "p",
+            "fontf": "inherit",
+            "text_cl": "#7b7b7b",
+            "text_fs": 14,
+            "text_lh": 29,
+            "text_fw": 400,
+            "text_ls": 0,
+            "font_italic": false,
+            "text_shadow": false,
+            "mgb": 0,
+            "text_fs_tb": 14,
+            "text_lh_tb": 30,
+            "text_ls_tb": 0,
+            "mgb_tb": 0,
+            "hidden_mobile": false,
+            "text_fs_mb": 14,
+            "text_lh_mb": 30,
+            "text_ls_mb": 0,
+            "mgb_mb": 0
+          }
+        },
+        "2ddfec52-54c5-4033-a58f-551417e46697": {
+          "type": "custom_text",
+          "settings": {
+            "text": "Email: info@octopus.com",
+            "remove_br_tag": false,
+            "tag": "p",
+            "fontf": "inherit",
+            "text_cl": "#7b7b7b",
+            "text_fs": 14,
+            "text_lh": 30,
+            "text_fw": 400,
+            "text_ls": 0,
+            "font_italic": false,
+            "text_shadow": false,
+            "mgb": 0,
+            "text_fs_tb": 14,
+            "text_lh_tb": 30,
+            "text_ls_tb": 0,
+            "mgb_tb": 0,
+            "hidden_mobile": false,
+            "text_fs_mb": 14,
+            "text_lh_mb": 30,
+            "text_ls_mb": 0,
+            "mgb_mb": 0
+          }
+        },
+        "a2581143-3372-49a8-88ea-59718acfc282": {
+          "type": "custom_text",
+          "settings": {
+            "text": "Open: 8:00 am - 8:30 pm, everyday",
+            "remove_br_tag": false,
+            "tag": "p",
+            "fontf": "inherit",
+            "text_cl": "#7b7b7b",
+            "text_fs": 14,
+            "text_lh": 30,
+            "text_fw": 400,
+            "text_ls": 0,
+            "font_italic": false,
+            "text_shadow": false,
+            "mgb": 0,
+            "text_fs_tb": 14,
+            "text_lh_tb": 30,
+            "text_ls_tb": 0,
+            "mgb_tb": 0,
+            "hidden_mobile": false,
+            "text_fs_mb": 14,
+            "text_lh_mb": 30,
+            "text_ls_mb": 0,
+            "mgb_mb": 0
+          }
+        }
+      },
+      "block_order": [
+        "80eb6dd8-241d-427a-96e9-6cc569bce894",
+        "fc2c4b7c-714c-428d-a9ea-127ee3b18a88",
+        "sections--18492533866817__82c8b76f-1ac8-4ede-9f36-9ecf4ea69810-1683182442af982992-4",
+        "f2f836cf-f32e-4eda-b4f2-207f122e54b9",
+        "fc02cc48-b388-414e-94ae-fdb9c5116452",
+        "57c14831-269a-4da8-87ad-f07e9617524f",
+        "0e554942-a83d-402a-bd3a-44f328aa456d",
+        "d7c29ef6-892d-4225-a29a-a7e461d17153",
+        "76ee60fa-39f1-4f9c-95f6-91d4c8eac8dc",
+        "3a948f1a-e998-4b8a-a482-f58cd4fb343d",
+        "3db7047d-0d26-4b2f-8bd8-b49564d2a40c",
+        "2ddfec52-54c5-4033-a58f-551417e46697",
+        "a2581143-3372-49a8-88ea-59718acfc282"
+      ],
+      "custom_css": [
+        "li {margin-inline-start: -3px;}"
+      ],
+      "settings": {
+        "hidden_footer": false,
+        "sticky": false,
+        "collapse": true,
+        "align_vertical": false,
+        "border_top": false,
+        "border_pos": "in",
+        "space_h_item": "30",
+        "space_v_item": "30",
+        "space_h_item_tb": "30",
+        "space_v_item_tb": "30",
+        "space_h_item_mb": "10",
+        "space_v_item_mb": "20",
+        "space_between": false,
+        "heading_des": "1",
+        "heading_fontf": "1",
+        "heading_fs": 16,
+        "heading_lh": 20,
+        "heading_fw": 500,
+        "heading_ls": 0,
+        "mgb": 15,
+        "mgb_tb": 15,
+        "mgb_mb": 15,
+        "text_fs": 14,
+        "text_fw": 400,
+        "content_ls": 0,
+        "heading_cl": "#1e1e1e",
+        "text_cl": "#7b7b7b",
+        "link_cl": "#7b7b7b",
+        "link_hover_cl": "#000000",
+        "border_cl": "#e6e6e6",
+        "layout": "t4s-se-container",
+        "cl_bg": "",
+        "cl_bg_gradient": "",
+        "mg": "",
+        "pd": "70px,,38px,",
+        "mg_tb": "",
+        "pd_tb": "70px,,38px,",
+        "mg_mb": "",
+        "pd_mb": "50px,,35px,"
+      }
+    },
+    "a2f1a337-d46a-4439-a974-e92ea6e1ff7c": {
+      "type": "footer-bottom",
+      "blocks": {
+        "sections--18492533866817__a2f1a337-d46a-4439-a974-e92ea6e1ff7c-1683450666dd59abb8-2": {
+          "type": "bl_col",
+          "settings": {
+            "col_heading": "",
+            "col_border": false,
+            "menu": "",
+            "menu_style": "default",
+            "space_item": 10,
+            "space_item_tb": 10,
+            "space_item_mb": 10,
+            "col_dk": "12",
+            "col_dk_w": "33.33333",
+            "col_tb": "12",
+            "col_dk_w_tb": "33.33333",
+            "col_mb": "12",
+            "content_align": "t4s-text-lg-center",
+            "padding_inner": "",
+            "content_align_tb": "t4s-text-md-center",
+            "padding_inner_tb": "",
+            "col_heading_mobile": "",
+            "content_align_mb": "t4s-text-start",
+            "padding_inner_mb": ""
+          }
+        },
+        "sections--18492533866817__a2f1a337-d46a-4439-a974-e92ea6e1ff7c-1683450666dd59abb8-1": {
+          "type": "copyR",
+          "settings": {
+            "text": "© 2023 Ocolus. All Rights Reserved"
+          }
+        }
+      },
+      "block_order": [
+        "sections--18492533866817__a2f1a337-d46a-4439-a974-e92ea6e1ff7c-1683450666dd59abb8-2",
+        "sections--18492533866817__a2f1a337-d46a-4439-a974-e92ea6e1ff7c-1683450666dd59abb8-1"
+      ],
+      "custom_css": [
+        ".t4s-col-item {margin-top: 40px;}"
+      ],
+      "settings": {
+        "hidden_footer": false,
+        "collapse": true,
+        "align_vertical": false,
+        "border_top": true,
+        "border_pos": "in",
+        "space_h_item": "30",
+        "space_v_item": "30",
+        "space_h_item_tb": "10",
+        "space_v_item_tb": "30",
+        "space_h_item_mb": "10",
+        "space_v_item_mb": "30",
+        "space_between": false,
+        "heading_des": "1",
+        "heading_fontf": "inherit",
+        "heading_fs": 16,
+        "heading_lh": 22,
+        "heading_fw": 500,
+        "heading_ls": 0,
+        "mgb": 30,
+        "mgb_tb": 30,
+        "mgb_mb": 20,
+        "text_fs": 14,
+        "text_fw": 400,
+        "content_ls": 0,
+        "heading_cl": "#000000",
+        "text_cl": "#868686",
+        "link_cl": "#868686",
+        "link_hover_cl": "#000000",
+        "border_cl": "#e6e6e6",
+        "layout": "t4s-se-container",
+        "cl_bg": "",
+        "cl_bg_gradient": "",
+        "mg": "",
+        "pd": "40px,,35px,",
+        "mg_tb": "",
+        "pd_tb": "50px,,35px,",
+        "mg_mb": "",
+        "pd_mb": "40px,,35px,"
+      }
+    },
+    "footer": {
+      "type": "footer",
+      "settings": {
+        "sticky": false,
+        "collapse": false
+      }
+    },
+    "bottom-bar": {
+      "type": "bottom-bar",
+      "settings": {
+        "enable_toolbar": true,
+        "show_txt": true
+      }
+    }
+  },
+  "order": [
+    "82c8b76f-1ac8-4ede-9f36-9ecf4ea69810",
+    "a2f1a337-d46a-4439-a974-e92ea6e1ff7c",
+    "footer",
+    "bottom-bar"
+  ]
+}

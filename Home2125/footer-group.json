@@ -1,0 +1,195 @@
+{
+  "type": "footer",
+  "name": "Footer Group",
+  "sections": {
+    "d9345540-91b7-4469-bd26-0199ec902467": {
+      "type": "footer-main",
+      "blocks": {
+        "sections--18479803072833__d9345540-91b7-4469-bd26-0199ec902467-1683258859ec3b293b-0": {
+          "type": "bl_col",
+          "settings": {
+            "col_heading": "",
+            "col_border": false,
+            "menu": "menu-footer-home-21",
+            "menu_style": "default",
+            "space_item": 10,
+            "space_item_tb": 10,
+            "space_item_mb": 5,
+            "col_dk": "3",
+            "col_dk_w": "33.33333",
+            "col_tb": "3",
+            "col_dk_w_tb": "33.33333",
+            "col_mb": "12",
+            "content_align": "t4s-text-lg-center",
+            "padding_inner": "",
+            "content_align_tb": "t4s-text-md-center",
+            "padding_inner_tb": "",
+            "col_heading_mobile": "",
+            "content_align_mb": "t4s-text-start",
+            "padding_inner_mb": ",,30px,"
+          }
+        },
+        "80eecfa3-0961-43f0-a0ec-da679da0986b": {
+          "type": "bl_col",
+          "settings": {
+            "col_heading": "",
+            "col_border": true,
+            "menu": "",
+            "menu_style": "default",
+            "space_item": 10,
+            "space_item_tb": 10,
+            "space_item_mb": 10,
+            "mgb_mb": 30,
+            "col_dk": "6",
+            "col_dk_w": "33.33333",
+            "col_tb": "6",
+            "col_dk_w_tb": "33.33333",
+            "col_mb": "12",
+            "content_align": "t4s-text-lg-center",
+            "padding_inner": "95px,,95px,",
+            "content_align_tb": "t4s-text-md-center",
+            "padding_inner_tb": "50px,15px,50px,15px",
+            "col_heading_mobile": "",
+            "content_align_mb": "t4s-text-start",
+            "padding_inner_mb": "30px,15px,30px,15px"
+          }
+        },
+        "07c628a9-b265-4bd3-acef-57e68be859f5": {
+          "type": "custom_text",
+          "settings": {
+            "text": "Join Our Newsletter",
+            "remove_br_tag": false,
+            "tag": "p",
+            "fontf": "1",
+            "text_cl": "#293341",
+            "text_fs": 35,
+            "text_lh": 40,
+            "text_fw": 500,
+            "text_ls": 0,
+            "font_italic": false,
+            "text_shadow": false,
+            "mgb": 25,
+            "text_fs_tb": 20,
+            "text_lh_tb": 30,
+            "text_ls_tb": 0,
+            "mgb_tb": 10,
+            "hidden_mobile": false,
+            "text_fs_mb": 16,
+            "text_lh_mb": 26,
+            "text_ls_mb": 0,
+            "mgb_mb": 10
+          }
+        },
+        "d051aee4-291d-403e-8441-437790da5c78": {
+          "type": "newsletter",
+          "settings": {
+            "newsletter_design": "2",
+            "button_content": "",
+            "custom_width": true,
+            "form_width": 500,
+            "form_width_tb": 500,
+            "form_width_mb": 350,
+            "news_icon": "plane",
+            "input_cl": "#868686",
+            "btn_cl": "#7b7b7b",
+            "btn_bg_cl": "rgba(0,0,0,0)",
+            "btn_hover_cl": "#293341",
+            "btn_bg_hover_cl": "rgba(0,0,0,0)",
+            "border_cl": "#eeeeee",
+            "background_cl": "rgba(0,0,0,0)",
+            "mgb": 32,
+            "mgb_tb": 15,
+            "mgb_mb": 15
+          }
+        },
+        "9c12d100-3e78-444d-8cab-29cc68828207": {
+          "type": "copyR",
+          "settings": {
+            "text": "© 2023 Ocolus. All Rights Reserved"
+          }
+        },
+        "fc22aa0c-2434-4213-8248-45f12a27ecb6": {
+          "type": "bl_col",
+          "settings": {
+            "col_heading": "",
+            "col_border": false,
+            "menu": "menu-footer-home-22",
+            "menu_style": "default",
+            "space_item": 10,
+            "space_item_tb": 10,
+            "space_item_mb": 5,
+            "col_dk": "3",
+            "col_dk_w": "33.33333",
+            "col_tb": "3",
+            "col_dk_w_tb": "33.33333",
+            "col_mb": "12",
+            "content_align": "t4s-text-lg-center",
+            "padding_inner": "",
+            "content_align_tb": "t4s-text-md-center",
+            "padding_inner_tb": "",
+            "col_heading_mobile": "",
+            "content_align_mb": "t4s-text-start",
+            "padding_inner_mb": "30px,,,"
+          }
+        }
+      },
+      "block_order": [
+        "sections--18479803072833__d9345540-91b7-4469-bd26-0199ec902467-1683258859ec3b293b-0",
+        "80eecfa3-0961-43f0-a0ec-da679da0986b",
+        "07c628a9-b265-4bd3-acef-57e68be859f5",
+        "d051aee4-291d-403e-8441-437790da5c78",
+        "9c12d100-3e78-444d-8cab-29cc68828207",
+        "fc22aa0c-2434-4213-8248-45f12a27ecb6"
+      ],
+      "custom_css": [
+        ".t4s-newsletter__fields {background-color: #f9f9f9;}",
+        ".t4s-newsletter-design-2 .t4s-newsletter__inner .t4s-newsletter__submit {padding: 0 25px;}",
+        ".t4s-newsletter__inner .t4s-newsletter__submit .t4s-newsletter__text {margin-bottom: 3px;}"
+      ],
+      "settings": {
+        "hidden_footer": false,
+        "sticky": false,
+        "collapse": true,
+        "align_vertical": true,
+        "border_top": true,
+        "border_pos": "full",
+        "space_h_item": "0",
+        "space_v_item": "0",
+        "space_h_item_tb": "0",
+        "space_v_item_tb": "0",
+        "space_h_item_mb": "0",
+        "space_v_item_mb": "0",
+        "space_between": false,
+        "heading_des": "1",
+        "heading_fontf": "inherit",
+        "heading_fs": 16,
+        "heading_lh": 22,
+        "heading_fw": 500,
+        "heading_ls": 0,
+        "mgb": 30,
+        "mgb_tb": 30,
+        "mgb_mb": 20,
+        "text_fs": 14,
+        "text_fw": 400,
+        "content_ls": 0,
+        "heading_cl": "#000000",
+        "text_cl": "#868686",
+        "link_cl": "#868686",
+        "link_hover_cl": "#000000",
+        "border_cl": "#e6e6e6",
+        "layout": "t4s-container-wrap",
+        "cl_bg": "",
+        "cl_bg_gradient": "",
+        "mg": "",
+        "pd": "0px,,0px",
+        "mg_tb": "",
+        "pd_tb": "0px,,0px",
+        "mg_mb": "",
+        "pd_mb": "30px,,30px"
+      }
+    }
+  },
+  "order": [
+    "d9345540-91b7-4469-bd26-0199ec902467"
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "type": "footer",
+  "name": "Footer Group",
+  "sections": {
+    "d663959e-e083-4795-ae34-3a4c014858d6": {
+      "type": "footer-main",
+      "blocks": {
+        "sections--18479820243265__d663959e-e083-4795-ae34-3a4c014858d6-16830841037aac8918-0": {
+          "type": "bl_col",
+          "settings": {
+            "col_heading": "",
+            "col_border": false,
+            "menu": "",
+            "menu_style": "default",
+            "space_item": 10,
+            "space_item_tb": 10,
+            "space_item_mb": 10,
+            "col_dk": "12",
+            "col_dk_w": "33.33333",
+            "col_tb": "12",
+            "col_dk_w_tb": "33.33333",
+            "col_mb": "12",
+            "content_align": "t4s-text-lg-center",
+            "padding_inner": "",
+            "content_align_tb": "t4s-text-md-center",
+            "padding_inner_tb": "",
+            "col_heading_mobile": "",
+            "content_align_mb": "t4s-text-center",
+            "padding_inner_mb": ""
+          }
+        },
+        "b4403f58-8bc8-4f45-9517-58dca6ad6a39": {
+          "type": "image",
+          "settings": {
+            "image_child": "shopify:\/\/shop_images\/Symbol.svg",
+            "img_width": 207,
+            "img_width_tb": 207,
+            "img_width_mb": 150,
+            "img_link": "https:\/\/demo-ocolus-2.myshopify.com\/",
+            "hidden_mobile": false,
+            "mgb": 30,
+            "mgb_tb": 30,
+            "mgb_mb": 20
+          }
+        },
+        "412bfa08-913a-45a4-98f2-283870d0092b": {
+          "type": "cus_menu",
+          "settings": {
+            "menu": "footer-home-22",
+            "menu_style": "inline",
+            "space_item": 50,
+            "space_item_tb": 40,
+            "space_item_mb": 20,
+            "mgb": 38,
+            "mgb_tb": 38,
+            "mgb_mb": 20
+          }
+        },
+        "sections--18479820243265__d663959e-e083-4795-ae34-3a4c014858d6-16830841037aac8918-3": {
+          "type": "cus_socials",
+          "settings": {
+            "title": "",
+            "social_mode": "1",
+            "social_style": "simple",
+            "social_size": "medium",
+            "bd_radius": 0,
+            "use_color_set": true,
+            "pri_cl": "#7b7b7b",
+            "pri_hover_cl": "#000000",
+            "space_h_item": "40",
+            "space_v_item": "0",
+            "space_h_item_mb": "30",
+            "space_v_item_mb": "0",
+            "mgb": 30,
+            "mgb_tb": 30,
+            "mgb_mb": 20
+          }
+        },
+        "b77cc298-2aec-42ed-9315-bfa0c874692c": {
+          "type": "copyR",
+          "settings": {
+            "text": "© 2023 Ocolus. All Rights Reserved"
+          }
+        }
+      },
+      "block_order": [
+        "sections--18479820243265__d663959e-e083-4795-ae34-3a4c014858d6-16830841037aac8918-0",
+        "b4403f58-8bc8-4f45-9517-58dca6ad6a39",
+        "412bfa08-913a-45a4-98f2-283870d0092b",
+        "sections--18479820243265__d663959e-e083-4795-ae34-3a4c014858d6-16830841037aac8918-3",
+        "b77cc298-2aec-42ed-9315-bfa0c874692c"
+      ],
+      "custom_css": [
+        ".t4s-coppy-right {letter-spacing: 0px;}"
+      ],
+      "settings": {
+        "hidden_footer": false,
+        "sticky": false,
+        "collapse": true,
+        "align_vertical": false,
+        "border_top": true,
+        "border_pos": "full",
+        "space_h_item": "30",
+        "space_v_item": "30",
+        "space_h_item_tb": "10",
+        "space_v_item_tb": "30",
+        "space_h_item_mb": "10",
+        "space_v_item_mb": "30",
+        "space_between": false,
+        "heading_des": "1",
+        "heading_fontf": "inherit",
+        "heading_fs": 16,
+        "heading_lh": 22,
+        "heading_fw": 500,
+        "heading_ls": 0,
+        "mgb": 30,
+        "mgb_tb": 30,
+        "mgb_mb": 20,
+        "text_fs": 13,
+        "text_fw": 500,
+        "content_ls": 2,
+        "heading_cl": "#293341",
+        "text_cl": "#7b7b7b",
+        "link_cl": "#293341",
+        "link_hover_cl": "#eda597",
+        "border_cl": "#e6e6e6",
+        "layout": "t4s-container-wrap",
+        "cl_bg": "",
+        "cl_bg_gradient": "",
+        "mg": "",
+        "pd": "100px,,90px,",
+        "mg_tb": "",
+        "pd_tb": "50px,,50px,",
+        "mg_mb": "",
+        "pd_mb": "30px,,30px,"
+      }
+    }
+  },
+  "order": [
+    "d663959e-e083-4795-ae34-3a4c014858d6"
+  ]
+}
