@@ -1,0 +1,211 @@
+{
+  "type": "footer",
+  "name": "Footer Group",
+  "sections": {
+    "1e1cf983-a52b-4e64-80a4-b8bc70b7749b": {
+      "type": "footer-main",
+      "blocks": {
+        "sections--18372471488806__1e1cf983-a52b-4e64-80a4-b8bc70b7749b-1683606554ed79607e-0": {
+          "type": "bl_col",
+          "settings": {
+            "col_heading": "COMPANY",
+            "col_border": false,
+            "menu": "",
+            "menu_style": "default",
+            "space_item": 10,
+            "space_item_tb": 10,
+            "space_item_mb": 10,
+            "col_dk": "3",
+            "col_dk_w": "33.33333",
+            "col_tb": "3",
+            "col_dk_w_tb": "33.33333",
+            "col_mb": "12",
+            "content_align": "t4s-text-lg-center",
+            "padding_inner": "55px,,55px,",
+            "content_align_tb": "t4s-text-md-center",
+            "padding_inner_tb": "50px,,50px,",
+            "col_heading_mobile": "",
+            "content_align_mb": "t4s-text-start",
+            "padding_inner_mb": "15px,,15px,"
+          }
+        },
+        "27c04b0f-ebd4-42d0-b0b6-eb8a4d32489f": {
+          "type": "cus_menu",
+          "settings": {
+            "menu": "footer-company",
+            "menu_style": "default",
+            "space_item": 5,
+            "space_item_tb": 5,
+            "space_item_mb": 5
+          }
+        },
+        "sections--18372471488806__1e1cf983-a52b-4e64-80a4-b8bc70b7749b-1683606554ed79607e-4": {
+          "type": "bl_col",
+          "settings": {
+            "col_heading": "",
+            "col_border": true,
+            "menu": "",
+            "menu_style": "default",
+            "space_item": 10,
+            "space_item_tb": 10,
+            "space_item_mb": 10,
+            "col_dk": "6",
+            "col_dk_w": "33.33333",
+            "col_tb": "6",
+            "col_dk_w_tb": "33.33333",
+            "col_mb": "12",
+            "content_align": "t4s-text-lg-center",
+            "padding_inner": "70px,,40px,",
+            "content_align_tb": "t4s-text-md-center",
+            "padding_inner_tb": "70px,,40px,",
+            "col_heading_mobile": "",
+            "content_align_mb": "t4s-text-start",
+            "padding_inner_mb": "15px,,15px,"
+          }
+        },
+        "36ea83a5-cbea-4f2b-9881-b807b2e696cd": {
+          "type": "image",
+          "settings": {
+            "image_child": "shopify:\/\/shop_images\/ocolus..svg",
+            "img_width": 150,
+            "img_width_tb": 150,
+            "img_width_mb": 140,
+            "img_link": "https:\/\/demo-ocolus-1.myshopify.com\/",
+            "hidden_mobile": false,
+            "mgb": 20,
+            "mgb_tb": 20,
+            "mgb_mb": 10
+          }
+        },
+        "cdb8c249-b271-457f-b7c0-a4014b396a87": {
+          "type": "custom_text",
+          "settings": {
+            "text": "Ocolus - the ultimate Shopify toolkit that helps<br> \nyou sell anything. The best choice for your next personal.",
+            "remove_br_tag": true,
+            "tag": "p",
+            "fontf": "1",
+            "text_cl": "#7b7b7b",
+            "text_fs": 16,
+            "text_lh": 30,
+            "text_fw": 300,
+            "text_ls": 0,
+            "font_italic": false,
+            "text_shadow": false,
+            "mgb": 0,
+            "text_fs_tb": 16,
+            "text_lh_tb": 30,
+            "text_ls_tb": 0,
+            "mgb_tb": 0,
+            "hidden_mobile": false,
+            "text_fs_mb": 16,
+            "text_lh_mb": 30,
+            "text_ls_mb": 0,
+            "mgb_mb": 0
+          }
+        },
+        "d39119a5-3661-402a-9374-cc1e05ca9530": {
+          "type": "copyR",
+          "settings": {
+            "text": "@2023 Ocolus. All rights reserved."
+          }
+        },
+        "45fad07b-63a9-4f7d-b45b-c1dc8d70ad17": {
+          "type": "bl_col",
+          "settings": {
+            "col_heading": "HELP",
+            "col_border": false,
+            "menu": "",
+            "menu_style": "default",
+            "space_item": 10,
+            "space_item_tb": 10,
+            "space_item_mb": 10,
+            "col_dk": "3",
+            "col_dk_w": "33.33333",
+            "col_tb": "3",
+            "col_dk_w_tb": "33.33333",
+            "col_mb": "12",
+            "content_align": "t4s-text-lg-center",
+            "padding_inner": "55px,,55px,",
+            "content_align_tb": "t4s-text-md-center",
+            "padding_inner_tb": "50px,,50px,",
+            "col_heading_mobile": "",
+            "content_align_mb": "t4s-text-start",
+            "padding_inner_mb": "15px,,15px,"
+          }
+        },
+        "b65437a6-8881-413e-9125-2eb949200aa4": {
+          "type": "cus_menu",
+          "settings": {
+            "menu": "footer-help",
+            "menu_style": "default",
+            "space_item": 5,
+            "space_item_tb": 5,
+            "space_item_mb": 5
+          }
+        }
+      },
+      "block_order": [
+        "sections--18372471488806__1e1cf983-a52b-4e64-80a4-b8bc70b7749b-1683606554ed79607e-0",
+        "27c04b0f-ebd4-42d0-b0b6-eb8a4d32489f",
+        "sections--18372471488806__1e1cf983-a52b-4e64-80a4-b8bc70b7749b-1683606554ed79607e-4",
+        "36ea83a5-cbea-4f2b-9881-b807b2e696cd",
+        "cdb8c249-b271-457f-b7c0-a4014b396a87",
+        "d39119a5-3661-402a-9374-cc1e05ca9530",
+        "45fad07b-63a9-4f7d-b45b-c1dc8d70ad17",
+        "b65437a6-8881-413e-9125-2eb949200aa4"
+      ],
+      "settings": {
+        "hidden_footer": false,
+        "sticky": false,
+        "collapse": true,
+        "align_vertical": false,
+        "border_top": true,
+        "border_pos": "full",
+        "space_h_item": "30",
+        "space_v_item": "0",
+        "space_h_item_tb": "30",
+        "space_v_item_tb": "0",
+        "space_h_item_mb": "30",
+        "space_v_item_mb": "0",
+        "space_between": false,
+        "heading_des": "1",
+        "heading_fontf": "inherit",
+        "heading_fs": 18,
+        "heading_lh": 40,
+        "heading_fw": 600,
+        "heading_ls": 0,
+        "mgb": 5,
+        "mgb_tb": 5,
+        "mgb_mb": 5,
+        "text_fs": 16,
+        "text_fw": 300,
+        "content_ls": 0,
+        "heading_cl": "#000000",
+        "text_cl": "#868686",
+        "link_cl": "#868686",
+        "link_hover_cl": "#000000",
+        "border_cl": "#e6e6e6",
+        "layout": "t4s-container-wrap",
+        "cl_bg": "",
+        "cl_bg_gradient": "",
+        "mg": "",
+        "pd": "",
+        "mg_tb": "",
+        "pd_tb": "",
+        "mg_mb": "",
+        "pd_mb": ""
+      }
+    },
+    "footer": {
+      "type": "footer",
+      "settings": {
+        "sticky": false,
+        "collapse": false
+      }
+    }
+  },
+  "order": [
+    "1e1cf983-a52b-4e64-80a4-b8bc70b7749b",
+    "footer"
+  ]
+}
