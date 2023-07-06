@@ -1683,7 +1683,7 @@
             "text_ls_tb": 0,
             "mgb_tb": 15,
             "hidden_mobile": false,
-            "text_fs_mb": 22,
+            "text_fs_mb": 16,
             "text_lh_mb": 30,
             "text_ls_mb": 0,
             "mgb_mb": 15
@@ -1717,7 +1717,7 @@
         "template--18492467052865__08700dd5-7216-4a09-9d18-3f4036f0950a-168230456113b3cc4b-2"
       ],
       "custom_css": [
-
+        "@media (max-width: 1024px) {.t4s-newsletter .t4s-newsletter-wrap {text-align: center !important; }}"
       ],
       "settings": {
         "design_heading": "1",

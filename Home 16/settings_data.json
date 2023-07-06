@@ -32,7 +32,7 @@
     "global_css": ".t4s-base-slider.t4s-base-slider.t4s-dots-style-outline_active .flickityt4s-page-dots .dot.is-selected{\nborder-color: var(--slider-dot-background-active)\n}\n.t4s_des_title_2:after{ margin-top: 26px;}",
     "desktop_css": "",
     "tablet_mobile_css": "",
-    "mobile_css": ".bl-be178647-0e9c-4134-af5e-487acf4cba12 .t4s-footer-content {\n    flex-direction: column;\n}",
+    "mobile_css": "",
     "favicon": "shopify:\/\/shop_images\/favicon.png",
     "logo_svg": "https:\/\/cdn.shopify.com\/s\/files\/1\/0725\/1289\/7345\/files\/Frame_1000001952.svg?v=1687744333",
     "fnt_fm_gg2": "Roboto Slab",
