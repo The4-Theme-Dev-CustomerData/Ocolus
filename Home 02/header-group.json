@@ -2,13 +2,66 @@
   "type": "header",
   "name": "Header Group",
   "sections": {
+    "top": {
+      "type": "top-bar",
+      "blocks": {
+        "b7b6fd35-bc84-4535-ad1f-dc8d86dc94c6": {
+          "type": "wis_acc",
+          "settings": {
+            "enable_icon": true,
+            "enable_wis": true,
+            "enable_track_order": true,
+            "url_track_order": "shopify:\/\/pages\/shipping-delivery",
+            "label_track_order": "Track order",
+            "enable_location": true,
+            "url_location": "https:\/\/demo-ocolus-1.myshopify.com\/pages\/store-with-map?preview_theme_id=145837785382",
+            "label_location": "Location",
+            "enable_acc": true,
+            "enable_cart": true,
+            "enable_cart_count": false,
+            "label_count": "items",
+            "hide": false,
+            "text_align": "end",
+            "col": "12",
+            "col_w": "33.33333"
+          }
+        }
+      },
+      "block_order": [
+        "b7b6fd35-bc84-4535-ad1f-dc8d86dc94c6"
+      ],
+      "settings": {
+        "show_topbar": "all",
+        "full_w_topbar": true,
+        "topbar_transparent": false,
+        "height": 50,
+        "fontsize": 13,
+        "fontweight": 400,
+        "ls": 0,
+        "txt_transform": "none",
+        "cl": "#646f7f",
+        "cl_a_hover": "#c91f28",
+        "bg": "#293341",
+        "bg_op": 100,
+        "border_bottom": "none",
+        "show_border_b": false,
+        "bd_cl": "#eaeaea",
+        "cl_tr": "#7b7b7b",
+        "cl_a_hover_tr": "#c91f28",
+        "bg_tr": "#000000",
+        "bg_op_tr": 0,
+        "show_border_tr": false,
+        "bd_cl_tr": "#eaeaea",
+        "pd": ",40px,,40px"
+      }
+    },
     "header-inline": {
       "type": "header-inline",
       "blocks": {
         "8087310a-eac6-4ec6-ac30-0690cf9ccb13": {
           "type": "mega",
           "settings": {
-            "title": "Home",
+            "title": "HOME",
             "url": "https:\/\/demo-ocolus-1.myshopify.com\/",
             "open_link": "_self",
             "icon": "",
@@ -28,7 +81,7 @@
         "da242e76-895e-4237-b0d8-64aa9a6fe16f": {
           "type": "mega",
           "settings": {
-            "title": "Shop",
+            "title": "SHOP",
             "url": "shopify:\/\/collections",
             "open_link": "_self",
             "icon": "",
@@ -48,7 +101,7 @@
         "3f6e8627-62e5-458b-92d2-a0471e1c0f18": {
           "type": "mega",
           "settings": {
-            "title": "Products",
+            "title": "PRODUCTS",
             "url": "",
             "open_link": "_self",
             "icon": "",
@@ -68,7 +121,7 @@
         "988a7fd7-ae5e-4427-b4bb-a5e3a9e2ecd1": {
           "type": "mega",
           "settings": {
-            "title": "Blogs",
+            "title": "BLOGS",
             "url": "shopify:\/\/blogs\/news",
             "open_link": "_self",
             "icon": "",
@@ -88,7 +141,7 @@
         "5aa8535f-5905-4b4e-9748-0302958ebbb4": {
           "type": "mega",
           "settings": {
-            "title": "Portfolio",
+            "title": "PORTFOLIO",
             "url": "",
             "open_link": "_self",
             "icon": "",
@@ -96,7 +149,7 @@
             "cl": "#c91f28",
             "lb": "",
             "lb_cl": "#27ae60",
-            "pos_sub": "bottom",
+            "pos_sub": "bottom-end",
             "wid": "cus",
             "cus_wid": 800,
             "id": 16,
@@ -108,7 +161,7 @@
         "90e17509-e312-4c6f-94fe-3e459065dde1": {
           "type": "mega",
           "settings": {
-            "title": "Pages",
+            "title": "PAGES",
             "url": "",
             "open_link": "_self",
             "icon": "",
@@ -116,9 +169,9 @@
             "cl": "#c91f28",
             "lb": "",
             "lb_cl": "#27ae60",
-            "pos_sub": "bottom",
+            "pos_sub": "bottom-end",
             "wid": "cus",
-            "cus_wid": 700,
+            "cus_wid": 800,
             "id": 5,
             "enable_packery": false,
             "menu_item_bg_cl": "#ffffff",
@@ -128,7 +181,7 @@
         "06e00f5d-05c9-4334-9326-4675addf376f": {
           "type": "base",
           "settings": {
-            "title": "Buy Theme!",
+            "title": "BUY THEME!",
             "url": "\/",
             "open_link": "_self",
             "icon": "",
@@ -149,7 +202,7 @@
         "06e00f5d-05c9-4334-9326-4675addf376f"
       ],
       "settings": {
-        "border_bottom": "none",
+        "border_bottom": "fullwidth",
         "bgnav": "rgba(0,0,0,0)",
         "opnav": 0,
         "clnav": "#293341",
@@ -157,39 +210,39 @@
         "border_color": "#eaeaea",
         "layout": "logo_left",
         "full_header": true,
-        "header_height": 106,
-        "pd": ",40px,,40px",
+        "header_height": 100,
+        "pd": "",
         "menu_style": "default",
         "arrow": false,
-        "dots_seperate": false,
+        "dots_seperate": true,
         "enable_active": false,
         "fs_nav": 13,
         "fw_nav": 500,
-        "ls_nav": 0,
-        "sp_nav": 30,
-        "align": "center",
+        "ls_nav": 2.2,
+        "sp_nav": 70,
+        "align": "end",
         "hover": "hover_sideup",
-        "big_logo": false,
+        "big_logo": true,
         "box_logo_height": 150,
         "big_logo_padding": 30,
         "big_logo_bg": "#ffffff",
         "enable_stick_menu": false,
         "stick_menu": "",
         "stick_menu_style": "1",
-        "header_height_mb": 60,
         "sp_icon": 30,
         "sp_icon_tb": 20,
         "sp_icon_mb": 20,
-        "line_seperate": "0",
+        "line_seperate": "2",
         "show_wis": false,
         "show_language": false,
         "show_currency": false,
         "search_des": "1",
-        "my_account": "1",
-        "menu_bar": "3",
-        "cart_des": "1",
+        "my_account": "0",
+        "menu_bar": "0",
+        "cart_des": "0",
         "count_primary_color": "#c91f28",
         "count_secondary_color": "#ffffff",
+        "header_height_mb": 60,
         "sticky_header": true,
         "scroll_header": true,
         "bgnavst": "#ffffff",
@@ -210,6 +263,7 @@
     }
   },
   "order": [
+    "top",
     "header-inline"
   ]
 }

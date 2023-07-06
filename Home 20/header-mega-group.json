@@ -15,8 +15,9 @@
           "type": "html",
           "settings": {
             "html": "",
-            "page": "demo-short",
-            "col": "12"
+            "page": "demo-full",
+            "col": "12",
+            "mgb": 0
           }
         },
         "7b7e1bcd-d213-461a-a608-b0445dac188e": {
@@ -28,11 +29,12 @@
         "3f090ec5-3dbd-481f-99c1-ff3b56848918": {
           "type": "link",
           "settings": {
-            "tt_hd": "SHOP LAYOUT",
+            "tt_hd": "SHOP LAYOUTS",
             "url": "",
             "open_link": "_self",
             "menu": "shop-layout",
-            "col": "3"
+            "col": "3",
+            "mgb": 0
           }
         },
         "7b6cdda1-b00c-44f9-9175-b5944af0c474": {
@@ -42,7 +44,8 @@
             "url": "",
             "open_link": "_self",
             "menu": "shop-features",
-            "col": "3"
+            "col": "3",
+            "mgb": 0
           }
         },
         "6cadf0fa-e806-4220-a765-1f8094c681b4": {
@@ -50,7 +53,7 @@
           "settings": {
             "heading": "BEST SELLER",
             "heading_mb": 23,
-            "collection": "tree",
+            "collection": "furniture-chair",
             "product_des": "1",
             "show_vendor": false,
             "use_cdt": false,
@@ -83,7 +86,8 @@
             "dots_space": 10,
             "dots_bottom_pos": 20,
             "enable_border_pr_item": false,
-            "col": "6"
+            "col": "6",
+            "mgb": 0
           }
         },
         "4598cf30-8073-475c-a903-c773e3b0b772": {
@@ -99,7 +103,8 @@
             "url": "",
             "open_link": "_self",
             "menu": "product-layout",
-            "col": "3"
+            "col": "3",
+            "mgb": 0
           }
         },
         "b9f24805-159c-484a-b26f-408eca404a71": {
@@ -109,7 +114,8 @@
             "url": "",
             "open_link": "_self",
             "menu": "product-details",
-            "col": "3"
+            "col": "3",
+            "mgb": 0
           }
         },
         "be2164fe-b0a8-4442-aaae-cd9fffd07b3a": {
@@ -119,7 +125,8 @@
             "url": "",
             "open_link": "_self",
             "menu": "product-swatch",
-            "col": "3"
+            "col": "3",
+            "mgb": 0
           }
         },
         "f44be36f-24ce-43b8-8381-1347f6011b50": {
@@ -129,7 +136,8 @@
             "url": "",
             "open_link": "_self",
             "menu": "product-features",
-            "col": "3"
+            "col": "3",
+            "mgb": 0
           }
         },
         "7a609f96-9487-4785-a00b-055578bea91b": {
@@ -143,7 +151,7 @@
           "settings": {
             "tt_hd": "",
             "bd_bottom_bl": true,
-            "blog": "home-21",
+            "blog": "home-10",
             "article_des": "1",
             "limit": 8,
             "show_blog_title": "disable",
@@ -194,7 +202,8 @@
             "button_style": "default",
             "btns_cl": "dark",
             "button_effect": "default",
-            "col": "12"
+            "col": "12",
+            "mgb": 0
           }
         },
         "ca848e3e-c232-4568-b9b0-ada2382742e8": {
@@ -204,7 +213,8 @@
             "url": "",
             "open_link": "_self",
             "menu": "blog-layout",
-            "col": "3"
+            "col": "3",
+            "mgb": 0
           }
         },
         "6b6bc174-5b3b-49f5-bf42-e982d3f0d4a5": {
@@ -214,7 +224,8 @@
             "url": "",
             "open_link": "_self",
             "menu": "blog-layout-1",
-            "col": "3"
+            "col": "3",
+            "mgb": 0
           }
         },
         "47a64f81-252b-40b2-8ac8-3a55dc9a65a1": {
@@ -224,7 +235,8 @@
             "url": "",
             "open_link": "_self",
             "menu": "post-layout",
-            "col": "3"
+            "col": "3",
+            "mgb": 0
           }
         },
         "4004af40-c8d4-4f21-bf7a-d285349099b9": {
@@ -234,7 +246,8 @@
             "url": "",
             "open_link": "_self",
             "menu": "post-types",
-            "col": "3"
+            "col": "3",
+            "mgb": 0
           }
         },
         "c815a705-81ae-43eb-bbd6-d206daad5b3b": {
@@ -250,17 +263,19 @@
             "url": "https:\/\/demo-ocolus-1.myshopify.com\/pages\/contact?preview_theme_id=",
             "open_link": "_self",
             "menu": "menu-contact",
-            "col": "4"
+            "col": "4",
+            "mgb": 0
           }
         },
         "c3930f88-be8f-40ca-9cd2-06851f4225d3": {
           "type": "link",
           "settings": {
-            "tt_hd": "COMMING SOON",
+            "tt_hd": "COMING SOON",
             "url": "https:\/\/demo-ocolus-1.myshopify.com\/password?preview_theme_id=",
             "open_link": "_self",
             "menu": "menu-comming-soon",
-            "col": "4"
+            "col": "4",
+            "mgb": 0
           }
         },
         "defdf1ee-7fd7-4469-a5eb-942ddb4d87c5": {
@@ -270,7 +285,8 @@
             "url": "",
             "open_link": "_self",
             "menu": "other-pages",
-            "col": "4"
+            "col": "4",
+            "mgb": 0
           }
         },
         "fdc7027f-5dcc-4255-96e0-c55f180db038": {
@@ -282,7 +298,7 @@
         "5c3c4857-a7fe-4bed-b118-57c45e430be4": {
           "type": "link",
           "settings": {
-            "tt_hd": "Grid Layout",
+            "tt_hd": "GRID LAYOUTS",
             "url": "",
             "open_link": "_self",
             "menu": "portfolio-grid-layout",
@@ -293,7 +309,7 @@
         "072b7d61-4d15-4e2f-bbac-f94ede9a6002": {
           "type": "link",
           "settings": {
-            "tt_hd": "Mansory Layout",
+            "tt_hd": "MASONRY LAYOUTS",
             "url": "",
             "open_link": "_self",
             "menu": "portfolio-mansory-layout",
@@ -304,18 +320,18 @@
         "f5c15d2e-699b-4284-908a-40620662ecdd": {
           "type": "link",
           "settings": {
-            "tt_hd": "Single Pages Layout",
+            "tt_hd": "SINGLE PAGE LAYOUTS",
             "url": "",
             "open_link": "_self",
             "menu": "portfolio-single-pages",
             "col": "4",
-            "mgb": 0
+            "mgb": 20
           }
         },
         "7cd7074d-7bbd-4f2a-b9bb-bdcbc1fe10e1": {
           "type": "link",
           "settings": {
-            "tt_hd": "Carousel Layout",
+            "tt_hd": "CAROUSEL LAYOUTS",
             "url": "",
             "open_link": "_self",
             "menu": "portfolio-carousel-layout",
@@ -326,7 +342,7 @@
         "db2c0bf8-3c09-4e96-ae6c-91217ebfdd5f": {
           "type": "link",
           "settings": {
-            "tt_hd": "Metro Layout",
+            "tt_hd": "METRO LAYOUTS",
             "url": "",
             "open_link": "_self",
             "menu": "portfolio-metro-layout",

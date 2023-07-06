@@ -2,158 +2,198 @@
   "type": "footer",
   "name": "Footer Group",
   "sections": {
-    "a94df644-7bc1-446c-89c2-fd9a96b1025c": {
-      "type": "footer-bottom",
+    "1e1cf983-a52b-4e64-80a4-b8bc70b7749b": {
+      "type": "footer-main",
       "blocks": {
-        "sections--18372371775782__a94df644-7bc1-446c-89c2-fd9a96b1025c-168307973214c98894-0": {
+        "sections--18372471488806__1e1cf983-a52b-4e64-80a4-b8bc70b7749b-1683606554ed79607e-0": {
           "type": "bl_col",
           "settings": {
-            "col_heading": "",
+            "col_heading": "COMPANY",
             "col_border": false,
             "menu": "",
             "menu_style": "default",
             "space_item": 10,
             "space_item_tb": 10,
             "space_item_mb": 10,
-            "col_dk": "4",
+            "col_dk": "3",
             "col_dk_w": "33.33333",
-            "col_tb": "6",
+            "col_tb": "3",
             "col_dk_w_tb": "33.33333",
             "col_mb": "12",
-            "content_align": "t4s-text-lg-start",
-            "padding_inner": "",
-            "content_align_tb": "t4s-text-md-start",
-            "padding_inner_tb": "",
+            "content_align": "t4s-text-lg-center",
+            "padding_inner": "55px,,55px,",
+            "content_align_tb": "t4s-text-md-center",
+            "padding_inner_tb": "50px,,50px,",
             "col_heading_mobile": "",
-            "content_align_mb": "t4s-text-center",
-            "padding_inner_mb": ""
+            "content_align_mb": "t4s-text-start",
+            "padding_inner_mb": "15px,,15px,"
           }
         },
-        "920f2fae-5e8d-45ad-a4b6-9a61a8153afd": {
+        "27c04b0f-ebd4-42d0-b0b6-eb8a4d32489f": {
           "type": "cus_menu",
           "settings": {
-            "menu": "footer-socials",
-            "menu_style": "inline",
-            "space_item": 30,
-            "space_item_tb": 10,
-            "space_item_mb": 10
+            "menu": "footer-company",
+            "menu_style": "default",
+            "space_item": 5,
+            "space_item_tb": 5,
+            "space_item_mb": 5
           }
         },
-        "sections--18372371775782__a94df644-7bc1-446c-89c2-fd9a96b1025c-168307973214c98894-2": {
+        "sections--18372471488806__1e1cf983-a52b-4e64-80a4-b8bc70b7749b-1683606554ed79607e-4": {
           "type": "bl_col",
           "settings": {
             "col_heading": "",
-            "col_border": false,
+            "col_border": true,
             "menu": "",
             "menu_style": "default",
             "space_item": 10,
             "space_item_tb": 10,
             "space_item_mb": 10,
-            "col_dk": "4",
+            "col_dk": "6",
             "col_dk_w": "33.33333",
             "col_tb": "6",
             "col_dk_w_tb": "33.33333",
             "col_mb": "12",
             "content_align": "t4s-text-lg-center",
-            "padding_inner": "",
-            "content_align_tb": "t4s-text-md-end",
-            "padding_inner_tb": "",
+            "padding_inner": "70px,,40px,",
+            "content_align_tb": "t4s-text-md-center",
+            "padding_inner_tb": "70px,,40px,",
             "col_heading_mobile": "",
-            "content_align_mb": "t4s-text-center",
-            "padding_inner_mb": ""
+            "content_align_mb": "t4s-text-start",
+            "padding_inner_mb": "15px,,15px,"
           }
         },
-        "92df870c-2c5b-46c3-ad7f-c86b4ca88a63": {
-          "type": "cus_menu",
+        "36ea83a5-cbea-4f2b-9881-b807b2e696cd": {
+          "type": "image",
           "settings": {
-            "menu": "footer-policy",
-            "menu_style": "inline",
-            "space_item": 45,
-            "space_item_tb": 10,
-            "space_item_mb": 10
+            "image_child": "shopify:\/\/shop_images\/ocolus..svg",
+            "img_width": 150,
+            "img_width_tb": 150,
+            "img_width_mb": 140,
+            "img_link": "https:\/\/demo-ocolus-1.myshopify.com\/",
+            "hidden_mobile": false,
+            "mgb": 20,
+            "mgb_tb": 20,
+            "mgb_mb": 10
           }
         },
-        "c46d166a-67f8-4cd9-9aad-5409043a4bbf": {
+        "cdb8c249-b271-457f-b7c0-a4014b396a87": {
+          "type": "custom_text",
+          "settings": {
+            "text": "Ocolus - the ultimate Shopify toolkit that helps<br> \nyou sell anything. The best choice for your next personal.",
+            "remove_br_tag": true,
+            "tag": "p",
+            "fontf": "1",
+            "text_cl": "#7b7b7b",
+            "text_fs": 16,
+            "text_lh": 30,
+            "text_fw": 300,
+            "text_ls": 0,
+            "font_italic": false,
+            "text_shadow": false,
+            "mgb": 0,
+            "text_fs_tb": 16,
+            "text_lh_tb": 30,
+            "text_ls_tb": 0,
+            "mgb_tb": 0,
+            "hidden_mobile": false,
+            "text_fs_mb": 16,
+            "text_lh_mb": 30,
+            "text_ls_mb": 0,
+            "mgb_mb": 0
+          }
+        },
+        "d39119a5-3661-402a-9374-cc1e05ca9530": {
+          "type": "copyR",
+          "settings": {
+            "text": "@2023 Ocolus. All rights reserved."
+          }
+        },
+        "45fad07b-63a9-4f7d-b45b-c1dc8d70ad17": {
           "type": "bl_col",
           "settings": {
-            "col_heading": "",
+            "col_heading": "HELP",
             "col_border": false,
             "menu": "",
             "menu_style": "default",
             "space_item": 10,
             "space_item_tb": 10,
             "space_item_mb": 10,
-            "col_dk": "4",
+            "col_dk": "3",
             "col_dk_w": "33.33333",
-            "col_tb": "12",
+            "col_tb": "3",
             "col_dk_w_tb": "33.33333",
             "col_mb": "12",
-            "content_align": "t4s-text-lg-end",
-            "padding_inner": "",
+            "content_align": "t4s-text-lg-center",
+            "padding_inner": "55px,,55px,",
             "content_align_tb": "t4s-text-md-center",
-            "padding_inner_tb": "",
+            "padding_inner_tb": "50px,,50px,",
             "col_heading_mobile": "",
-            "content_align_mb": "t4s-text-center",
-            "padding_inner_mb": ""
+            "content_align_mb": "t4s-text-start",
+            "padding_inner_mb": "15px,,15px,"
           }
         },
-        "sections--18372371775782__a94df644-7bc1-446c-89c2-fd9a96b1025c-168307973214c98894-1": {
-          "type": "copyR",
+        "b65437a6-8881-413e-9125-2eb949200aa4": {
+          "type": "cus_menu",
           "settings": {
-            "text": "© [year] Ocolus. All Rights Reserved"
+            "menu": "footer-help",
+            "menu_style": "default",
+            "space_item": 5,
+            "space_item_tb": 5,
+            "space_item_mb": 5
           }
         }
       },
       "block_order": [
-        "sections--18372371775782__a94df644-7bc1-446c-89c2-fd9a96b1025c-168307973214c98894-0",
-        "920f2fae-5e8d-45ad-a4b6-9a61a8153afd",
-        "sections--18372371775782__a94df644-7bc1-446c-89c2-fd9a96b1025c-168307973214c98894-2",
-        "92df870c-2c5b-46c3-ad7f-c86b4ca88a63",
-        "c46d166a-67f8-4cd9-9aad-5409043a4bbf",
-        "sections--18372371775782__a94df644-7bc1-446c-89c2-fd9a96b1025c-168307973214c98894-1"
-      ],
-      "custom_css": [
-        "#b_92df870c-2c5b-46c3-ad7f-c86b4ca88a63 .t4s-footer-link {color: var(--heading-color);}"
+        "sections--18372471488806__1e1cf983-a52b-4e64-80a4-b8bc70b7749b-1683606554ed79607e-0",
+        "27c04b0f-ebd4-42d0-b0b6-eb8a4d32489f",
+        "sections--18372471488806__1e1cf983-a52b-4e64-80a4-b8bc70b7749b-1683606554ed79607e-4",
+        "36ea83a5-cbea-4f2b-9881-b807b2e696cd",
+        "cdb8c249-b271-457f-b7c0-a4014b396a87",
+        "d39119a5-3661-402a-9374-cc1e05ca9530",
+        "45fad07b-63a9-4f7d-b45b-c1dc8d70ad17",
+        "b65437a6-8881-413e-9125-2eb949200aa4"
       ],
       "settings": {
         "hidden_footer": false,
+        "sticky": false,
         "collapse": true,
-        "align_vertical": true,
+        "align_vertical": false,
         "border_top": true,
         "border_pos": "full",
         "space_h_item": "30",
-        "space_v_item": "30",
-        "space_h_item_tb": "15",
-        "space_v_item_tb": "30",
-        "space_h_item_mb": "10",
-        "space_v_item_mb": "5",
+        "space_v_item": "0",
+        "space_h_item_tb": "30",
+        "space_v_item_tb": "0",
+        "space_h_item_mb": "30",
+        "space_v_item_mb": "0",
         "space_between": false,
         "heading_des": "1",
         "heading_fontf": "inherit",
-        "heading_fs": 16,
-        "heading_lh": 30,
-        "heading_fw": 500,
+        "heading_fs": 18,
+        "heading_lh": 40,
+        "heading_fw": 600,
         "heading_ls": 0,
-        "mgb": 30,
-        "mgb_tb": 30,
-        "mgb_mb": 20,
+        "mgb": 5,
+        "mgb_tb": 5,
+        "mgb_mb": 5,
         "text_fs": 16,
-        "text_fw": 400,
+        "text_fw": 300,
         "content_ls": 0,
-        "heading_cl": "#293341",
-        "text_cl": "#7b7b7b",
-        "link_cl": "#7b7b7b",
-        "link_hover_cl": "#c91f28",
-        "border_cl": "#eeeeee",
-        "layout": "t4s-container-fluid",
-        "cl_bg": "#f9f9f9",
+        "heading_cl": "#000000",
+        "text_cl": "#868686",
+        "link_cl": "#868686",
+        "link_hover_cl": "#000000",
+        "border_cl": "#e6e6e6",
+        "layout": "t4s-container-wrap",
+        "cl_bg": "",
         "cl_bg_gradient": "",
         "mg": "",
-        "pd": "54px,40px,54px,40px",
+        "pd": "",
         "mg_tb": "",
-        "pd_tb": "34px,15px,34px,15px",
+        "pd_tb": "",
         "mg_mb": "",
-        "pd_mb": "30px,10px,30px,10px"
+        "pd_mb": ""
       }
     },
     "footer": {
@@ -162,18 +202,10 @@
         "sticky": false,
         "collapse": false
       }
-    },
-    "bottom-bar": {
-      "type": "bottom-bar",
-      "settings": {
-        "enable_toolbar": true,
-        "show_txt": true
-      }
     }
   },
   "order": [
-    "a94df644-7bc1-446c-89c2-fd9a96b1025c",
-    "footer",
-    "bottom-bar"
+    "1e1cf983-a52b-4e64-80a4-b8bc70b7749b",
+    "footer"
   ]
 }

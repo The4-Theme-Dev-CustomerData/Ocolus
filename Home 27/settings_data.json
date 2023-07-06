@@ -1,61 +1,49 @@
 {
   "current": {
     "purchase_code": "",
-    "general_layout": "custom",
-    "cus_w_bd": 1860,
+    "general_layout": "full_width",
+    "cus_w_bd": 1440,
     "global_acc": "",
-    "use_rtl": "0",
+    "use_rtl": "2",
     "logo": "shopify:\/\/shop_images\/Frame_1000001950.svg",
-    "logo_width": 145,
-    "logos_width": 145,
+    "logo_width": 150,
+    "logos_width": 150,
     "logo_mb_width": 110,
-    "logo_tr_width": 145,
+    "logo_tr_width": 110,
     "accent_color": "#c91f28",
+    "secondary_color": "#293341",
     "link_color": "#222222",
     "use_cus_lz": true,
     "sw_primary": "#c91f28",
     "font_source": "2",
     "fnt_fm_sp1": "poppins_n4",
-    "embed_google_font": "<link rel=\"preconnect\" href=\"https:\/\/fonts.googleapis.com\">\n<link rel=\"preconnect\" href=\"https:\/\/fonts.gstatic.com\" crossorigin=\"\">\n<link href=\"https:\/\/fonts.googleapis.com\/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap\" rel=\"stylesheet\">",
-    "rules_google_font": "font-family: 'Poppins', sans-serif;\nfont-family: 'Poppins', sans-serif;\nfont-family: 'Poppins', sans-serif;",
-    "wishlist_mode": "0",
-    "enable_css_wis": false,
-    "wis_atc_added": "1",
-    "enable_compe": false,
+    "embed_google_font": "<link rel=\"preconnect\" href=\"https:\/\/fonts.googleapis.com\">\n<link rel=\"preconnect\" href=\"https:\/\/fonts.gstatic.com\" crossorigin=\"\">\n<link href=\"https:\/\/fonts.googleapis.com\/css2?family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,500;1,600;1,700;1,800;1,900&amp;family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap\" rel=\"stylesheet\">",
+    "rules_google_font": "font-family: 'Poppins', sans-serif;\nfont-family: 'Playfair Display', serif;\nfont-family: 'Playfair Display', serif;",
+    "enable_compe": true,
     "label_sale_style": "2",
-    "enable_quickview": false,
-    "type_qv": "2",
-    "enable_quickshop": false,
-    "enable_atc": false,
-    "show_qty": false,
-    "enable_pr_color": false,
     "swatch_item_style": "2",
-    "sw_click": "1",
-    "show_size_type": "2",
-    "use_group_media": true,
-    "share_source": "2",
-    "gift_wrap_pr": "copy-of-checked-slip-on-sneakers",
-    "colors_css": true,
+    "sw_click": "2",
+    "show_size_type": "1",
     "t4s_custom_css": true,
-    "global_css": ".t4s_se_template--18188554699059__d6b62f4e-8fc3-4845-83c2-4dd919c21cd5  .t4s-newsletter-wrap {    \n     max-width: 675px;\n    margin: 0 auto;\n    background-color: #fff;\n    padding: 60px;\n}\n.t4s_se_template--18188554699059__d6b62f4e-8fc3-4845-83c2-4dd919c21cd5 .t4s-newsletter-design-2 .t4s-newsletter__inner{border:1px solid #eee}",
-    "mobile_css": ".t4s_se_template--18188554699059__d6b62f4e-8fc3-4845-83c2-4dd919c21cd5  .t4s-newsletter-wrap {    \n     max-width: 675px;\n    padding: 30px;\n}",
+    "global_css": ".t4s_se_template--18188554699059__d6b62f4e-8fc3-4845-83c2-4dd919c21cd5  .t4s-newsletter-wrap {    \n     max-width: 675px;\n    margin: 0 auto;\n    background-color: #fff;\n    padding: 60px;\n}\n.t4s_se_template--18188554699059__d6b62f4e-8fc3-4845-83c2-4dd919c21cd5 .t4s-newsletter-design-2 .t4s-newsletter__inner{border:1px solid #eee}\n@media (min-width: 1025px) and (max-width: 1919px)  {\n  .t4s-contact-map__info {\n    padding-top: 50px;\n    padding-bottom: 50px;\n  }\n.t4s-col-inner.t4s-ver-center-false.t4s-bordered-cl-false.t4s-text-lg-center.t4s-text-md-center.t4s-text-center {\n    padding: 0 30px;\n}\n}\n.t4s-blog-list .t4s-article-item .t4s-article-tags a {\nfont-weight:600;}\n.t4s-product:hover .t4s-product-thumb:before {\n    opacity: 0;\n}",
+    "desktop_css": ".t4s-blog-post-3 .t4s-section-inner {\npadding:0 30px;\n}\n.t4s-blog-post-3 .t4s-img-child {\n  text-align: right;\n  padding-inline-end: 45px;\n}\n.t4s-blog-post-3 h6,\n.t4s-blog-post-3 h5 {\n  text-align: right;\n}\n .t4s-blog-post-3 h5 {\n  padding-inline-end: 50px;\n}\n.t4s-collection-with-slideshow .t4s-collec-right .t4s-products {padding-inline-start: 15px;padding-inline-end: 30px;} .t4s-collection-with-slideshow .t4s-collec-left .t4s-products {padding-inline-start: 30px;padding-inline-end: 15px;} .t4s-navigation {margin-left: 40px;}",
+    "tablet_mobile_css": "",
+    "tablet_css": ".t4s-blog-post-3 .t4s-section-inner {\npadding:0 30px;\n}",
+    "mobile_css": ".t4s_se_template--18188554699059__d6b62f4e-8fc3-4845-83c2-4dd919c21cd5  .t4s-newsletter-wrap {    \n     max-width: 675px;\n    padding: 30px;\n}\n.t4s-show-border-true.t4s-blog-left .t4s-blog-col {\n    border-inline-end: none;\n}",
     "social_facebook_link": "#",
     "social_twitter_link": "#",
     "social_instagram_link": "#",
     "social_dribbble_link": "#",
     "social_linkedin_link": "#",
-    "favicon": "shopify:\/\/shop_images\/favicon.png",
-    "fnt_fm_gg3": "Libre Baskerville",
+    "favicon": "shopify:\/\/shop_images\/logo_h3.svg",
+    "logo_svg": "https:\/\/cdn.shopify.com\/s\/files\/1\/0722\/7437\/9046\/files\/ocolus..svg?v=1686042269",
+    "fnt_fm_gg2": "Poppins",
+    "fnt_fm_gg3": "Playfair Display",
     "swatch_color_size": 25,
     "pr_size_pos": "2",
     "sections": {
       "footer": {
         "type": "footer",
-        "settings": {
-        }
-      },
-      "bottom-bar": {
-        "type": "bottom-bar",
         "settings": {
         }
       },
@@ -65,19 +53,19 @@
           "title_config-0": {
             "type": "title",
             "settings": {
-              "color": "#222222",
-              "family": "2",
-              "size": 24,
-              "weight": 600,
-              "lh": 0,
+              "color": "#293341",
+              "family": "3",
+              "size": 50,
+              "weight": 400,
+              "lh": 60,
               "ls": 0,
               "space": 0,
-              "size_tb": 22,
-              "lh_tb": 0,
+              "size_tb": 40,
+              "lh_tb": 50,
               "ls_tb": 0,
               "space_tb": 0,
-              "size_mb": 24,
-              "lh_mb": 0,
+              "size_mb": 30,
+              "lh_mb": 40,
               "ls_mb": 0,
               "space_mb": 0
             }
@@ -287,9 +275,9 @@
             "type": "btnc",
             "settings": {
               "btn_icon": false,
-              "button_style": "outline",
+              "button_style": "default",
               "btn_cl": "dark",
-              "button_effect": "fade"
+              "button_effect": "default"
             }
           },
           "mini_cart-4": {
@@ -312,7 +300,7 @@
               "title": "Return To Shop",
               "url": "",
               "btn_icon": false,
-              "button_style": "outline",
+              "button_style": "default",
               "btn_cl": "dark",
               "button_effect": "fade"
             }
@@ -347,11 +335,11 @@
             "settings": {
               "txt_tr_pr": "none",
               "fnt_df_pr": "1",
-              "fs_pr": 16,
-              "fw_pr": 600,
-              "lh_pr": 0,
+              "fs_pr": 30,
+              "fw_pr": 400,
+              "lh_pr": 40,
               "ls_pr": 0,
-              "pr_title_color": "#222222",
+              "pr_title_color": "#293341",
               "pr_title_color_hover": "#c91f28"
             }
           },
@@ -372,20 +360,20 @@
             "type": "description",
             "settings": {
               "des": "2",
-              "text": "",
+              "text": "<p>Ocolus - most powerful Shopify theme for your store online. The best choice for your next personal or multi-vendor marketplace<\/p>",
               "length": 31
             }
           },
           "main-qv-3": {
             "type": "form",
             "settings": {
-              "selector_mode": "text",
+              "selector_mode": "simple",
               "color_mode": "color is-sw-cl__round",
               "enable_fit_ratio_img": false,
-              "color_size": "small",
+              "color_size": "medium",
               "show_qty": true,
-              "enable_wishlist": true,
-              "enable_compare": true,
+              "enable_wishlist": false,
+              "enable_compare": false,
               "btn_atc_full": false,
               "pr_btn_round": 0,
               "wishlist_color": "#222222",
@@ -394,7 +382,7 @@
               "compare_color": "#222222",
               "compare_color_hover": "#293341",
               "compare_color_active": "#293341",
-              "ani": "none",
+              "ani": "t4s-ani-shake",
               "time": 6,
               "btn_txt": "3",
               "button_color": "dark",
@@ -411,18 +399,13 @@
               ]
             }
           },
-          "main-qv-4": {
-            "type": "size_delivery_ask",
+          "a715483e-ab8b-491f-9ea9-f4dda9b2066a": {
+            "type": "line",
             "settings": {
-              "size_chart": "3",
-              "pos_sizeg": "1",
-              "sc_type": "1",
-              "page": "",
-              "size_ck": "",
-              "delivery": false,
-              "page_dr": "",
-              "ask": false,
-              "phone": true
+              "color_line": "#eeeeee",
+              "height_line": 1,
+              "space_tb": 20,
+              "space_tb_mb": 20
             }
           },
           "main-qv-5": {
@@ -432,35 +415,23 @@
               "show_available": true,
               "show_category": true,
               "show_tags": true,
-              "show_options": true,
+              "show_options": false,
               "show_vendor": false,
               "show_barcode": false,
               "show_type": false,
               "use_socials": true,
               "social_title": "Share on:",
               "social_mode": "2",
-              "social_style": "1",
-              "social_size": "small",
+              "social_style": "simple",
+              "social_size": "medium",
               "bd_radius": 0,
-              "use_color_set": false,
+              "use_color_set": true,
               "pri_cl": "#868686",
-              "pri_hover_cl": "#000000",
+              "pri_hover_cl": "#c91f28",
               "space_h_item": "40",
               "space_v_item": "5",
               "space_h_item_mb": "10",
               "space_v_item_mb": "5"
-            }
-          },
-          "a5135395-b67c-49d9-947c-5102f25e3756": {
-            "type": "img",
-            "settings": {
-              "mess": "Guaranteed Safe Checkout",
-              "size": 16,
-              "enable_border_message": false,
-              "source": "2",
-              "wimg": 60,
-              "svg": "amazon_payments,american_express,apple_pay,bitcoin,dankort,diners_club,discover",
-              "height": 32
             }
           }
         },
@@ -469,39 +440,35 @@
           "main-qv-1",
           "main-qv-2",
           "main-qv-3",
-          "main-qv-4",
-          "main-qv-5",
-          "a5135395-b67c-49d9-947c-5102f25e3756"
+          "a715483e-ab8b-491f-9ea9-f4dda9b2066a",
+          "main-qv-5"
         ],
         "settings": {
-          "demo_pr": "beanie-in-chocolate-brown",
+          "demo_pr": "a-long-sleeve-v-neck-plbbb-hat",
           "enable_center_info": false,
+          "media_layout": "thumbnails_bottom",
           "image_ratio": "ratioadapt",
           "image_size": "cover",
           "image_position": "8",
+          "enable_wishlist_icon": true,
+          "enable_compare_icon": true,
           "enable_video_looping": false,
           "enable_video_muting": true,
           "enable_video_autoplaying": true,
           "eff": "fade",
           "show_btn": "show_all",
           "btn_vi": "hover",
-          "btn_owl": "default",
+          "btn_owl": "simple",
           "btn_shape": "none",
           "btn_cl": "dark",
-          "btn_size": "small",
+          "btn_size": "large",
           "show_dots": "hidden",
-          "dot_owl": "default",
-          "dots_cl": "dark",
+          "dot_owl": "dots_simple",
+          "dots_cl": "primary",
           "dots_align": "center",
           "dots_round": true,
           "dots_space": 10,
           "dots_bottom_pos": 20
-        }
-      },
-      "main-qs": {
-        "type": "main-qs",
-        "settings": {
-          "demo_pr": ""
         }
       },
       "login-sidebar": {
@@ -603,21 +570,15 @@
               "hidden_pr_countdown": false
             }
           },
-          "17afe9d9-6834-47d0-8121-003bdc43acc7": {
-            "type": "19",
+          "67131ae8-f34a-4557-8a16-32f9a803bb79": {
+            "type": "20",
             "settings": {
+              "single_btn_color": "#293341",
+              "single_btn_bg_color": "#ffffff",
+              "single_btn_hover_color": "#ffffff",
+              "single_btn_hover_bg_color": "#c91f28",
               "group_btn_color": "#666666",
-              "group_btn_bg_color": "#ffffff",
               "group_btn_hover_color": "#c91f28",
-              "group_btn_hover_bg_color": "#ffffff",
-              "pr_title_color": "#293341",
-              "pr_title_color_hover": "#c91f28",
-              "price_color": "#7b7b7b",
-              "price_secondary": "#ffffff",
-              "price_sale_color": "#c91f28",
-              "vendors_color": "#7b7b7b",
-              "vendors_color_hover": "#c91f28",
-              "size_list_color": "#7b7b7b",
               "hidden_atc_mb": false,
               "hidden_qv_mb": false,
               "hidden_wishlist_mb": false,
@@ -662,62 +623,26 @@
               "hidden_pr_sizes": false,
               "hidden_pr_countdown": false
             }
-          },
-          "27e8c591-64a1-43c0-bd29-ca168d4ff511": {
-            "type": "packery1",
-            "settings": {
-              "content_color": "#ffffff",
-              "content_bg_color": "#c91f28",
-              "hidden_atc_mb": false,
-              "hidden_qv_mb": false,
-              "hidden_wishlist_mb": false,
-              "hidden_compare_mb": false,
-              "hidden_pr_colors": false,
-              "hidden_pr_sizes": false,
-              "hidden_pr_countdown": false
-            }
-          },
-          "9f705d5a-5018-4e09-8e99-07ccdaf3e651": {
-            "type": "packery2",
-            "settings": {
-              "single_btn_color": "#293341",
-              "single_btn_bg_color": "#ffffff",
-              "single_btn_hover_color": "#c91f28",
-              "single_btn_hover_bg_color": "#ffffff",
-              "group_btn_color": "#666666",
-              "group_btn_bg_color": "#ffffff",
-              "group_btn_hover_color": "#c91f28",
-              "group_btn_hover_bg_color": "#ffffff",
-              "hidden_atc_mb": false,
-              "hidden_qv_mb": false,
-              "hidden_wishlist_mb": false,
-              "hidden_compare_mb": false,
-              "hidden_pr_colors": false,
-              "hidden_pr_sizes": false,
-              "hidden_pr_countdown": false
-            }
           }
         },
         "block_order": [
           "2eebf368-d9b9-46c0-b9ff-5f93d81dd64d",
-          "17afe9d9-6834-47d0-8121-003bdc43acc7",
+          "67131ae8-f34a-4557-8a16-32f9a803bb79",
           "d9e5bc97-d192-4142-a030-c005be2e507c",
-          "178290f4-b860-4ddc-b986-0e2c683695d3",
-          "27e8c591-64a1-43c0-bd29-ca168d4ff511",
-          "9f705d5a-5018-4e09-8e99-07ccdaf3e651"
+          "178290f4-b860-4ddc-b986-0e2c683695d3"
         ],
         "settings": {
           "txt_tr_pr": "none",
           "fnt_df_pr": "1",
-          "size_pr": 18,
-          "lh_pr": 28,
-          "fw_pr": 500,
+          "size_pr": 16,
+          "lh_pr": 25,
+          "fw_pr": 400,
           "ls_pr": 0,
-          "size_price_pr": 18,
-          "lh_price_pr": 40,
+          "size_price_pr": 14,
+          "lh_price_pr": 19,
           "fw_price_pr": 400,
-          "space_img_content": 15,
-          "space_elements": 0,
+          "space_img_content": 10,
+          "space_elements": 7,
           "swatch_color_size": 15,
           "size_pr_mb": 14,
           "lh_pr_mb": 20,
@@ -737,47 +662,37 @@
           "size_list_color": "#7b7b7b",
           "countdown_color": "#ffffff",
           "countdown_overlay": 30,
-          "pr_bg_overlay": "#ffffff",
-          "pr_overlay": 50
+          "pr_bg_overlay": "#293341",
+          "pr_overlay": 30
         }
       },
       "btn_config": {
         "type": "btn_config",
         "blocks": {
-          "d30af35f-9a57-46a8-b021-64eedf796fd0": {
-            "type": "custom1",
-            "settings": {
-              "color_primary": "#293341",
-              "color_second": "#293341",
-              "color_primary_hover": "#4c4b51",
-              "color_second_hover": "#4c4b51"
-            }
-          },
-          "c3d4fd62-4347-4d1d-b03f-511898a55afd": {
+          "442b2b57-de2b-42c2-b3f0-be872dbae79d": {
             "type": "1",
             "settings": {
               "fontf": "--font-family-1",
               "button_bdr": 0,
               "border_w": 1,
-              "fsbutton": 12,
-              "fwbutton": 600,
+              "fsbutton": 14,
+              "fwbutton": 500,
               "button_ls": 2,
-              "button_mh": 42,
-              "button_pd_lr": 35,
-              "fsbutton_tb": 12,
+              "button_mh": 55,
+              "button_pd_lr": 45,
+              "fsbutton_tb": 14,
               "button_mh_tb": 40,
               "button_pd_lr_tb": 30,
-              "button_ls_tb": 2,
+              "button_ls_tb": 0,
               "fsbutton_mb": 12,
               "button_mh_mb": 36,
               "button_pd_lr_mb": 25,
-              "button_ls_mb": 2
+              "button_ls_mb": 0
             }
           }
         },
         "block_order": [
-          "d30af35f-9a57-46a8-b021-64eedf796fd0",
-          "c3d4fd62-4347-4d1d-b03f-511898a55afd"
+          "442b2b57-de2b-42c2-b3f0-be872dbae79d"
         ],
         "settings": {
           "fnt_fm_button": "--font-family-1",
@@ -797,63 +712,195 @@
           "dots_space": 10
         }
       },
-      "t4s_custom_color": {
-        "type": "t4s_custom_color",
+      "main-qs": {
+        "type": "main-qs",
         "blocks": {
-          "b6d873de-fb76-4514-bfab-3d7fc1fe689c": {
-            "type": "bg_color",
+          "main-qs-0": {
+            "type": "item_loop",
             "settings": {
-              "title": "Army Brown",
-              "color": "#827b60",
-              "cl_gradient": "",
-              "color_img": false
             }
           },
-          "3cfad01b-dea9-4426-84e4-b6aaed8ef078": {
-            "type": "bg_color",
+          "main-qs-1": {
+            "type": "form",
             "settings": {
-              "title": "Dark Brown",
-              "color": "#654321",
-              "cl_gradient": "",
-              "color_img": false
+              "selector_mode": "block",
+              "color_mode": "color",
+              "enable_fit_ratio_img": false,
+              "color_size": "medium",
+              "show_qty": true,
+              "btn_atc_full": false,
+              "pr_btn_round": 0,
+              "ani": "none",
+              "time": 6,
+              "btn_txt": "0",
+              "btn_icon": true,
+              "button_style": "default",
+              "button_color": "dark",
+              "button_effect": "fade",
+              "show_dynamic_checkout": false,
+              "btn_txt2": "3",
+              "button_dynamic_style": "outline",
+              "button_color_payment": "dark"
             }
           },
-          "fb31faa1-cad3-409e-b64d-5b8eea4e8c82": {
-            "type": "bg_color",
+          "main-qs-2": {
+            "type": "view_details",
             "settings": {
-              "title": "Gray Cloud",
-              "color": "#b6b6b4",
-              "cl_gradient": "",
-              "color_img": false
-            }
-          },
-          "8d315f44-e3d5-42f6-949e-5305d15b99be": {
-            "type": "bg_color",
-            "settings": {
-              "title": "Pale Silver",
-              "color": "#c9c0bb",
-              "cl_gradient": "",
-              "color_img": false
-            }
-          },
-          "7f5a707c-f461-4b6c-b873-8c8dc28329a7": {
-            "type": "bg_color",
-            "settings": {
-              "title": "Medium Brown",
-              "color": "#806517",
-              "cl_gradient": "",
-              "color_img": false
+              "btn_icon": true
             }
           }
         },
         "block_order": [
-          "b6d873de-fb76-4514-bfab-3d7fc1fe689c",
-          "3cfad01b-dea9-4426-84e4-b6aaed8ef078",
-          "fb31faa1-cad3-409e-b64d-5b8eea4e8c82",
-          "8d315f44-e3d5-42f6-949e-5305d15b99be",
-          "7f5a707c-f461-4b6c-b873-8c8dc28329a7"
+          "main-qs-0",
+          "main-qs-1",
+          "main-qs-2"
         ],
         "settings": {
+          "demo_pr": ""
+        }
+      },
+      "t4s_custom_color": {
+        "type": "t4s_custom_color",
+        "settings": {
+        }
+      },
+      "compare-modal": {
+        "type": "compare-modal",
+        "blocks": {
+          "compare-modal-0": {
+            "type": "basic",
+            "settings": {
+            }
+          },
+          "compare-modal-1": {
+            "type": "availability",
+            "settings": {
+              "title": "Availability"
+            }
+          },
+          "compare-modal-2": {
+            "type": "vendor",
+            "settings": {
+              "title": "Vendor"
+            }
+          },
+          "compare-modal-3": {
+            "type": "variants",
+            "settings": {
+              "title": "Color"
+            }
+          },
+          "compare-modal-4": {
+            "type": "btn",
+            "settings": {
+              "title": "RETURN TO SHOP",
+              "url": "",
+              "open_link": "_self",
+              "btn_icon": false,
+              "button_style": "default",
+              "btns_size": "default",
+              "btns_cl": "primary",
+              "button_effect": "default"
+            }
+          }
+        },
+        "block_order": [
+          "compare-modal-0",
+          "compare-modal-1",
+          "compare-modal-2",
+          "compare-modal-3",
+          "compare-modal-4"
+        ],
+        "settings": {
+          "product_list": [
+            "100-linen-short-sleeve-shirt",
+            "3-seater-sofa-velour-amber",
+            "eddie-3-seater-w-chaiselong-left",
+            "bronco-sideboard",
+            "advanced-night-repair-synchronized-recovery",
+            "advanced-night-repair-concentrated-recovery"
+          ],
+          "atc_cl": "#23232c",
+          "atc_cl_hover": "#23232c",
+          "cl_title": "#293341",
+          "cl_price": "#7b7b7b",
+          "cl_price_sale": "#ec0101",
+          "cl_in": "#27ae60",
+          "cl_out": "#e1b878",
+          "image_ratio": "rationt",
+          "image_size": "cover",
+          "image_position": "8",
+          "content_align": "center",
+          "layout": "t4s-container-wrap",
+          "cl_bg": "",
+          "cl_bg_gradient": "",
+          "mg": ",,70px",
+          "pd": "",
+          "mg_tb": ",,50px",
+          "pd_tb": "",
+          "mg_mb": ",,50px",
+          "pd_mb": ""
+        }
+      },
+      "heading-static-cp": {
+        "type": "heading-static-cp",
+        "blocks": {
+          "heading-static-cp-0": {
+            "type": "1",
+            "settings": {
+              "tag": "h3",
+              "fontf": "inherit",
+              "text_cl": "#293341",
+              "text_fs": 35,
+              "text_lh": 40,
+              "text_fw": 500,
+              "text_ls": 0,
+              "mgb": 18,
+              "font_italic": false,
+              "font_uppercase": false,
+              "text_shadow": false,
+              "text_fs_tb": 30,
+              "text_lh_tb": 36,
+              "text_ls_tb": 0,
+              "mgb_tb": 15,
+              "hidden_mobile": false,
+              "text_fs_mb": 26,
+              "text_lh_mb": 30,
+              "text_ls_mb": 0,
+              "mgb_mb": 15
+            }
+          },
+          "e5dd231e-be4e-49a4-8b0d-70866d8f57fa": {
+            "type": "3",
+            "settings": {
+              "breadcrumb_color_link": "#7b7b7b",
+              "breadcrumb_color": "#7b7b7b",
+              "brc_mgb": 0,
+              "brc_mgb_tb": 0,
+              "brc_mgb_mb": 0
+            }
+          }
+        },
+        "block_order": [
+          "heading-static-cp-0",
+          "e5dd231e-be4e-49a4-8b0d-70866d8f57fa"
+        ],
+        "settings": {
+          "parallax": false,
+          "bg_overlay": "rgba(0,0,0,0)",
+          "bg_opacity": 0,
+          "padding_top": 61,
+          "padding_bottom": 61,
+          "padding_top_tb": 50,
+          "padding_bottom_tb": 50,
+          "padding_top_mb": 50,
+          "padding_bottom_mb": 50,
+          "box_border": "top_bottom",
+          "bg_repeat": "no-repeat",
+          "bg_size": "cover",
+          "mgb": 70,
+          "mgb_tb": 50,
+          "mgb_mb": 50
         }
       }
     },

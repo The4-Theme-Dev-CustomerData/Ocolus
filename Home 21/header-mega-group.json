@@ -28,7 +28,7 @@
         "3f090ec5-3dbd-481f-99c1-ff3b56848918": {
           "type": "link",
           "settings": {
-            "tt_hd": "SHOP LAYOUTS",
+            "tt_hd": "SHOP LAYOUT",
             "url": "",
             "open_link": "_self",
             "menu": "shop-layout",
@@ -50,7 +50,7 @@
           "settings": {
             "heading": "BEST SELLER",
             "heading_mb": 23,
-            "collection": "tree",
+            "collection": "furniture-home-13",
             "product_des": "1",
             "show_vendor": false,
             "use_cdt": false,
@@ -75,7 +75,7 @@
             "btn_shape": "none",
             "btn_cl": "dark",
             "btn_size": "small",
-            "show_dots": "hidden",
+            "show_dots": "show_all",
             "dot_owl": "default",
             "dots_cl": "dark",
             "dots_pos": "center",
@@ -143,7 +143,7 @@
           "settings": {
             "tt_hd": "",
             "bd_bottom_bl": true,
-            "blog": "home-21",
+            "blog": "home-18",
             "article_des": "1",
             "limit": 8,
             "show_blog_title": "disable",
@@ -256,7 +256,7 @@
         "c3930f88-be8f-40ca-9cd2-06851f4225d3": {
           "type": "link",
           "settings": {
-            "tt_hd": "COMMING SOON",
+            "tt_hd": "COMING SOON",
             "url": "https:\/\/demo-ocolus-1.myshopify.com\/password?preview_theme_id=",
             "open_link": "_self",
             "menu": "menu-comming-soon",
@@ -360,15 +360,194 @@
         "fdc7027f-5dcc-4255-96e0-c55f180db038",
         "5c3c4857-a7fe-4bed-b118-57c45e430be4",
         "072b7d61-4d15-4e2f-bbac-f94ede9a6002",
-        "f5c15d2e-699b-4284-908a-40620662ecdd",
         "7cd7074d-7bbd-4f2a-b9bb-bdcbc1fe10e1",
-        "db2c0bf8-3c09-4e96-ae6c-91217ebfdd5f"
+        "db2c0bf8-3c09-4e96-ae6c-91217ebfdd5f",
+        "f5c15d2e-699b-4284-908a-40620662ecdd"
       ],
       "settings": {
+      }
+    },
+    "header-categories": {
+      "type": "header-categories",
+      "blocks": {
+        "3f84ca63-c23c-49fe-8a4f-f1403b34ff78": {
+          "type": "lv0_base",
+          "settings": {
+            "title": "Grocery",
+            "url": "shopify:\/\/collections\/clothing-jewelry",
+            "open_link": "_self",
+            "icon": "",
+            "cus_cl": false,
+            "cl": "#ec0101",
+            "lb": "",
+            "lb_cl": ""
+          }
+        },
+        "d1117bae-eb58-4731-a2a6-a31dc1209785": {
+          "type": "lv0_base",
+          "settings": {
+            "title": "Household Supplies",
+            "url": "shopify:\/\/collections\/cosmetic-beauty",
+            "open_link": "_self",
+            "icon": "",
+            "cus_cl": false,
+            "cl": "#ec0101",
+            "lb": "",
+            "lb_cl": ""
+          }
+        },
+        "50f85fee-7530-4990-ac54-008e55b47db9": {
+          "type": "lv0_base",
+          "settings": {
+            "title": "Health & Beauty",
+            "url": "shopify:\/\/collections\/cosmetic",
+            "open_link": "_self",
+            "icon": "",
+            "cus_cl": false,
+            "cl": "#ec0101",
+            "lb": "",
+            "lb_cl": ""
+          }
+        },
+        "31c2240b-394d-4d51-8ed3-47fb0b171178": {
+          "type": "lv0_base",
+          "settings": {
+            "title": "Electronics & Computers",
+            "url": "shopify:\/\/collections\/gaming-laptops",
+            "open_link": "_self",
+            "icon": "",
+            "cus_cl": false,
+            "cl": "#ec0101",
+            "lb": "",
+            "lb_cl": ""
+          }
+        },
+        "84c612f0-3ac2-486b-90b3-e86724f65c6a": {
+          "type": "lv0_base",
+          "settings": {
+            "title": "Video Games & Consoles",
+            "url": "shopify:\/\/collections\/playstation-4-consoles",
+            "open_link": "_self",
+            "icon": "",
+            "cus_cl": false,
+            "cl": "#ec0101",
+            "lb": "",
+            "lb_cl": ""
+          }
+        },
+        "eb66f609-c3ef-4d29-8717-259b4aafa639": {
+          "type": "lv0_base",
+          "settings": {
+            "title": "Furniture",
+            "url": "shopify:\/\/collections\/frontpage",
+            "open_link": "_self",
+            "icon": "",
+            "cus_cl": false,
+            "cl": "#ec0101",
+            "lb": "",
+            "lb_cl": ""
+          }
+        },
+        "4faab9de-3b32-4012-900d-7a44a7a617af": {
+          "type": "lv0_base",
+          "settings": {
+            "title": "Women's Fashion",
+            "url": "shopify:\/\/collections\/fashion",
+            "open_link": "_self",
+            "icon": "",
+            "cus_cl": false,
+            "cl": "#ec0101",
+            "lb": "",
+            "lb_cl": ""
+          }
+        },
+        "35fa1274-1f03-4a04-b715-a0e77cc5a246": {
+          "type": "lv0_base",
+          "settings": {
+            "title": "Baby",
+            "url": "shopify:\/\/collections\/fashion-17",
+            "open_link": "_self",
+            "icon": "",
+            "cus_cl": false,
+            "cl": "#ec0101",
+            "lb": "",
+            "lb_cl": ""
+          }
+        },
+        "302a87c7-4c33-416f-b2c8-7111d7b964fa": {
+          "type": "lv0_base",
+          "settings": {
+            "title": "Pet Supplies",
+            "url": "shopify:\/\/collections\/furniture-home-11",
+            "open_link": "_self",
+            "icon": "",
+            "cus_cl": false,
+            "cl": "#ec0101",
+            "lb": "",
+            "lb_cl": ""
+          }
+        },
+        "5eee379f-8968-42f9-b628-0d5f829cf1d8": {
+          "type": "lv0_base",
+          "settings": {
+            "title": "Appliances",
+            "url": "shopify:\/\/collections\/electronics-17",
+            "open_link": "_self",
+            "icon": "",
+            "cus_cl": false,
+            "cl": "#ec0101",
+            "lb": "",
+            "lb_cl": ""
+          }
+        },
+        "38b7df4a-3602-4a98-82f3-d86054c3bb60": {
+          "type": "lv0_base",
+          "settings": {
+            "title": "Sports, Fitness & Outdoors",
+            "url": "shopify:\/\/collections\/shose",
+            "open_link": "_self",
+            "icon": "",
+            "cus_cl": false,
+            "cl": "#ec0101",
+            "lb": "",
+            "lb_cl": ""
+          }
+        },
+        "2b2fe98c-3eae-411d-a1d5-c45b3003f9d5": {
+          "type": "lv0_base",
+          "settings": {
+            "title": "Books, Music & Movies",
+            "url": "shopify:\/\/collections\/kitchen-dining",
+            "open_link": "_self",
+            "icon": "",
+            "cus_cl": false,
+            "cl": "#ec0101",
+            "lb": "",
+            "lb_cl": ""
+          }
+        }
+      },
+      "block_order": [
+        "3f84ca63-c23c-49fe-8a4f-f1403b34ff78",
+        "d1117bae-eb58-4731-a2a6-a31dc1209785",
+        "50f85fee-7530-4990-ac54-008e55b47db9",
+        "31c2240b-394d-4d51-8ed3-47fb0b171178",
+        "84c612f0-3ac2-486b-90b3-e86724f65c6a",
+        "eb66f609-c3ef-4d29-8717-259b4aafa639",
+        "4faab9de-3b32-4012-900d-7a44a7a617af",
+        "35fa1274-1f03-4a04-b715-a0e77cc5a246",
+        "302a87c7-4c33-416f-b2c8-7111d7b964fa",
+        "5eee379f-8968-42f9-b628-0d5f829cf1d8",
+        "38b7df4a-3602-4a98-82f3-d86054c3bb60",
+        "2b2fe98c-3eae-411d-a1d5-c45b3003f9d5"
+      ],
+      "settings": {
+        "arrow": true
       }
     }
   },
   "order": [
-    "mega-menu"
+    "mega-menu",
+    "header-categories"
   ]
 }

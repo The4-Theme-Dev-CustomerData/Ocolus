@@ -85,7 +85,7 @@
             "menu_item_bg_op": 100
           }
         },
-        "43f8d201-7d06-4b66-bfb4-bad7f2b93124": {
+        "f4944c1d-75b2-4574-a9f0-e19e49210032": {
           "type": "mega",
           "settings": {
             "title": "PORTFOLIO",
@@ -105,7 +105,7 @@
             "menu_item_bg_op": 100
           }
         },
-        "46ad4d38-9a2b-4fdb-affe-7a79c2683a1b": {
+        "0c5bb229-3738-4515-9ad7-c06290c49a08": {
           "type": "mega",
           "settings": {
             "title": "PAGE",
@@ -144,12 +144,9 @@
         "da242e76-895e-4237-b0d8-64aa9a6fe16f",
         "3f6e8627-62e5-458b-92d2-a0471e1c0f18",
         "988a7fd7-ae5e-4427-b4bb-a5e3a9e2ecd1",
-        "43f8d201-7d06-4b66-bfb4-bad7f2b93124",
-        "46ad4d38-9a2b-4fdb-affe-7a79c2683a1b",
+        "f4944c1d-75b2-4574-a9f0-e19e49210032",
+        "0c5bb229-3738-4515-9ad7-c06290c49a08",
         "06e00f5d-05c9-4334-9326-4675addf376f"
-      ],
-      "custom_css": [
-        ".t4s-navigation {padding-inline-start: 65px;}"
       ],
       "settings": {
         "border_bottom": "false",
@@ -161,7 +158,7 @@
         "layout": "logo_left",
         "full_header": true,
         "header_height": 100,
-        "pd": ",40px,,40px",
+        "pd": ",45px,,45px",
         "menu_style": "default",
         "arrow": false,
         "dots_seperate": false,
@@ -169,7 +166,7 @@
         "fs_nav": 13,
         "fw_nav": 500,
         "ls_nav": 2.2,
-        "sp_nav": 50,
+        "sp_nav": 45,
         "align": "start",
         "hover": "hover_sideup",
         "big_logo": false,
@@ -179,16 +176,16 @@
         "enable_stick_menu": false,
         "stick_menu": "",
         "stick_menu_style": "1",
-        "sp_icon": 30,
+        "sp_icon": 25,
         "sp_icon_tb": 20,
         "sp_icon_mb": 20,
         "line_seperate": "0",
-        "show_wis": true,
+        "show_wis": false,
         "show_language": false,
         "show_currency": false,
         "search_des": "1",
         "my_account": "0",
-        "menu_bar": "0",
+        "menu_bar": "1",
         "cart_des": "1",
         "count_primary_color": "#c91f28",
         "count_secondary_color": "#ffffff",

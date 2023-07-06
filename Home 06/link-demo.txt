@@ -1,1 +1,1 @@
-https://demo-ocolus-1.myshopify.com/?preview_theme_id=146313642278
+https://demo-ocolus-1.myshopify.com/?home=6&preview_theme_id=146313806118

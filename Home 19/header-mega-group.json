@@ -1,321 +1,374 @@
 {
-  "type": "header",
-  "name": "Header Group",
+  "type": "custom.mega",
+  "name": "Mega Content",
   "sections": {
-    "announcement": {
-      "type": "announcement-bar",
-      "disabled": true,
+    "mega-menu": {
+      "type": "mega-menu",
       "blocks": {
-        "9d1350d3-b81d-4f0c-95f6-f8aa31ff6d38": {
-          "type": "announcement",
+        "3c2b53b4-724f-42ac-b479-077b39baadb3": {
+          "type": "mega",
           "settings": {
-            "link": "",
-            "content": "<p>Today deal sale off 70%. End in [countdown]. Hurry Up!! [icon_arrow]<\/p>",
-            "countdown": "2023\/12\/26",
-            "txt_day": "days",
-            "dayx": 0
+            "id": 1
           }
-        }
-      },
-      "block_order": [
-        "9d1350d3-b81d-4f0c-95f6-f8aa31ff6d38"
-      ],
-      "settings": {
-        "show_announcement": "true",
-        "full_w_announcement": true,
-        "show_border_bottom": false,
-        "bd_cl": "#eeeeee",
-        "effect": "1",
-        "au_time": 3.5,
-        "height": 41,
-        "fontsize": 12,
-        "cl": "#ffffff",
-        "bg": "#e91e63",
-        "bg_op": 100,
-        "close": "1",
-        "cl_btn": "#ffffff",
-        "version": "1",
-        "date": 60,
-        "pd": ",15px,,15px"
-      }
-    },
-    "top": {
-      "type": "top-bar",
-      "blocks": {
-        "205c50f0-56d6-4034-95b1-ffb29714fa9a": {
+        },
+        "2648c36d-0fd7-4224-860b-9ba1674b6277": {
           "type": "html",
           "settings": {
-            "html": "1st Time buyer? Use “ONE” promocode to instantly get 10% OFF!",
-            "hide": false,
-            "text_align": "start",
-            "col": "6",
-            "col_w": "33.33333"
+            "html": "",
+            "page": "demo-short",
+            "col": "12"
           }
         },
-        "dd04be27-f975-4ff2-b685-9a236f821803": {
-          "type": "cur",
+        "7b7e1bcd-d213-461a-a608-b0445dac188e": {
+          "type": "mega",
           "settings": {
-            "html": "<a href=\"tel:+84%201900%201800\" class=\"bee-d-inline-block\" style=\"margin-inline-end:var(--space-item,30px)\"><span><i class=\"fa-regular fa-tablet\"><\/i><\/span> Hotline: +84 1900 1800 <\/a>",
-            "top_menu_link": "top-bar-menu-home-19",
-            "show_language": false,
-            "show_currency": true,
-            "hide": true,
-            "text_align": "end",
+            "id": 2
+          }
+        },
+        "3f090ec5-3dbd-481f-99c1-ff3b56848918": {
+          "type": "link",
+          "settings": {
+            "tt_hd": "SHOP LAYOUT",
+            "url": "",
+            "open_link": "_self",
+            "menu": "shop-layout",
+            "col": "3"
+          }
+        },
+        "7b6cdda1-b00c-44f9-9175-b5944af0c474": {
+          "type": "link",
+          "settings": {
+            "tt_hd": "SHOP FEATURES",
+            "url": "",
+            "open_link": "_self",
+            "menu": "shop-features",
+            "col": "3"
+          }
+        },
+        "6cadf0fa-e806-4220-a765-1f8094c681b4": {
+          "type": "featured_collection",
+          "settings": {
+            "heading": "BEST SELLER",
+            "heading_mb": 23,
+            "collection": "furniture-all-home-11",
+            "product_des": "1",
+            "show_vendor": false,
+            "use_cdt": false,
+            "image_ratio": "rationt",
+            "image_size": "cover",
+            "image_position": "8",
+            "content_align": "center",
+            "limit": 6,
+            "col_mb": "2",
             "space_h_item": "30",
-            "col": "6",
-            "col_w": "33.33333"
+            "space_v_item": "30",
+            "layout_des": "2",
+            "loop": true,
+            "au_time": 0,
+            "au_hover": true,
+            "show_btn": "show_all",
+            "btn_pos": "ontop",
+            "icon_slider": "2",
+            "btn_distance": 15,
+            "btn_vi": "always",
+            "btn_owl": "simple",
+            "btn_shape": "none",
+            "btn_cl": "dark",
+            "btn_size": "small",
+            "show_dots": "show_all",
+            "dot_owl": "default",
+            "dots_cl": "dark",
+            "dots_pos": "center",
+            "dots_round": true,
+            "dots_space": 10,
+            "dots_bottom_pos": 20,
+            "enable_border_pr_item": false,
+            "col": "6"
+          }
+        },
+        "4598cf30-8073-475c-a903-c773e3b0b772": {
+          "type": "mega",
+          "settings": {
+            "id": 3
+          }
+        },
+        "8cb30aab-c9b2-4581-9396-5a52bab23b00": {
+          "type": "link",
+          "settings": {
+            "tt_hd": "PRODUCT LAYOUTS",
+            "url": "",
+            "open_link": "_self",
+            "menu": "product-layout",
+            "col": "3"
+          }
+        },
+        "b9f24805-159c-484a-b26f-408eca404a71": {
+          "type": "link",
+          "settings": {
+            "tt_hd": "PRODUCT DETAILS",
+            "url": "",
+            "open_link": "_self",
+            "menu": "product-details",
+            "col": "3"
+          }
+        },
+        "be2164fe-b0a8-4442-aaae-cd9fffd07b3a": {
+          "type": "link",
+          "settings": {
+            "tt_hd": "PRODUCT SWATCHs",
+            "url": "",
+            "open_link": "_self",
+            "menu": "product-swatch",
+            "col": "3"
+          }
+        },
+        "f44be36f-24ce-43b8-8381-1347f6011b50": {
+          "type": "link",
+          "settings": {
+            "tt_hd": "PRODUCT FEATURES",
+            "url": "",
+            "open_link": "_self",
+            "menu": "product-features",
+            "col": "3"
+          }
+        },
+        "7a609f96-9487-4785-a00b-055578bea91b": {
+          "type": "mega",
+          "settings": {
+            "id": 4
+          }
+        },
+        "d08e86c2-854c-475c-a6ef-670ae7bc5a6c": {
+          "type": "blogs",
+          "settings": {
+            "tt_hd": "",
+            "bd_bottom_bl": true,
+            "blog": "home-14",
+            "article_des": "1",
+            "limit": 8,
+            "show_blog_title": "disable",
+            "show_content": false,
+            "show_tags": true,
+            "show_author": false,
+            "show_comment": false,
+            "show_readmore": false,
+            "show_ic_readmore": false,
+            "show_date": false,
+            "date": "%b %d",
+            "content_align": "t4s-text-start",
+            "img_effect": "none",
+            "b_effect": "none",
+            "image_ratio": "ratio4_3",
+            "image_size": "cover",
+            "image_position": "8",
+            "col_dk": "4",
+            "space_h_item": "30",
+            "space_v_item": "30",
+            "layout_des": "2",
+            "loop": true,
+            "au_time": 0,
+            "au_hover": true,
+            "show_btn": "show_all",
+            "btn_pos": "in",
+            "icon_slider": "1",
+            "btn_distance": 15,
+            "btn_vi": "hover",
+            "btn_owl": "default",
+            "btn_shape": "none",
+            "btn_cl": "dark",
+            "btn_size": "small",
+            "show_dots": "hidden",
+            "dot_pos": "default",
+            "dot_owl": "default",
+            "dots_cl": "dark",
+            "dots_align": "center",
+            "dots_round": true,
+            "dots_space": 10,
+            "dots_bottom_pos": 20,
+            "use_pagination": "default",
+            "btn_replace": "",
+            "btns_size": "default",
+            "btn_icon": false,
+            "pagination_distance": 20,
+            "pagination_position": "t4s-text-center",
+            "button_style": "default",
+            "btns_cl": "dark",
+            "button_effect": "default",
+            "col": "12"
+          }
+        },
+        "ca848e3e-c232-4568-b9b0-ada2382742e8": {
+          "type": "link",
+          "settings": {
+            "tt_hd": "BLOG LAYOUTS",
+            "url": "",
+            "open_link": "_self",
+            "menu": "blog-layout",
+            "col": "3"
+          }
+        },
+        "6b6bc174-5b3b-49f5-bf42-e982d3f0d4a5": {
+          "type": "link",
+          "settings": {
+            "tt_hd": "BLOG LAYOUTS",
+            "url": "",
+            "open_link": "_self",
+            "menu": "blog-layout-1",
+            "col": "3"
+          }
+        },
+        "47a64f81-252b-40b2-8ac8-3a55dc9a65a1": {
+          "type": "link",
+          "settings": {
+            "tt_hd": "POST LAYOUTS",
+            "url": "",
+            "open_link": "_self",
+            "menu": "post-layout",
+            "col": "3"
+          }
+        },
+        "4004af40-c8d4-4f21-bf7a-d285349099b9": {
+          "type": "link",
+          "settings": {
+            "tt_hd": "POST TYPES",
+            "url": "",
+            "open_link": "_self",
+            "menu": "post-types",
+            "col": "3"
+          }
+        },
+        "c815a705-81ae-43eb-bbd6-d206daad5b3b": {
+          "type": "mega",
+          "settings": {
+            "id": 5
+          }
+        },
+        "e00621df-bccc-478e-aa12-af6ef8efeee9": {
+          "type": "link",
+          "settings": {
+            "tt_hd": "CONTACT",
+            "url": "https:\/\/demo-ocolus-1.myshopify.com\/pages\/contact?preview_theme_id=",
+            "open_link": "_self",
+            "menu": "menu-contact",
+            "col": "4"
+          }
+        },
+        "c3930f88-be8f-40ca-9cd2-06851f4225d3": {
+          "type": "link",
+          "settings": {
+            "tt_hd": "COMING SOON",
+            "url": "https:\/\/demo-ocolus-1.myshopify.com\/password?preview_theme_id=",
+            "open_link": "_self",
+            "menu": "menu-comming-soon",
+            "col": "4"
+          }
+        },
+        "defdf1ee-7fd7-4469-a5eb-942ddb4d87c5": {
+          "type": "link",
+          "settings": {
+            "tt_hd": "OTHER PAGES",
+            "url": "",
+            "open_link": "_self",
+            "menu": "other-pages",
+            "col": "4"
+          }
+        },
+        "fdc7027f-5dcc-4255-96e0-c55f180db038": {
+          "type": "mega",
+          "settings": {
+            "id": 16
+          }
+        },
+        "5c3c4857-a7fe-4bed-b118-57c45e430be4": {
+          "type": "link",
+          "settings": {
+            "tt_hd": "GRID LAYOUTS",
+            "url": "",
+            "open_link": "_self",
+            "menu": "portfolio-grid-layout",
+            "col": "4",
+            "mgb": 20
+          }
+        },
+        "072b7d61-4d15-4e2f-bbac-f94ede9a6002": {
+          "type": "link",
+          "settings": {
+            "tt_hd": "MASONRY LAYOUTS",
+            "url": "",
+            "open_link": "_self",
+            "menu": "portfolio-mansory-layout",
+            "col": "4",
+            "mgb": 20
+          }
+        },
+        "f5c15d2e-699b-4284-908a-40620662ecdd": {
+          "type": "link",
+          "settings": {
+            "tt_hd": "SINGLE PAGE LAYOUTS",
+            "url": "",
+            "open_link": "_self",
+            "menu": "portfolio-single-pages",
+            "col": "4",
+            "mgb": 20
+          }
+        },
+        "7cd7074d-7bbd-4f2a-b9bb-bdcbc1fe10e1": {
+          "type": "link",
+          "settings": {
+            "tt_hd": "CAROUSEL LAYOUTS",
+            "url": "",
+            "open_link": "_self",
+            "menu": "portfolio-carousel-layout",
+            "col": "4",
+            "mgb": 0
+          }
+        },
+        "db2c0bf8-3c09-4e96-ae6c-91217ebfdd5f": {
+          "type": "link",
+          "settings": {
+            "tt_hd": "METRO LAYOUTS",
+            "url": "",
+            "open_link": "_self",
+            "menu": "portfolio-metro-layout",
+            "col": "4",
+            "mgb": 0
           }
         }
       },
       "block_order": [
-        "205c50f0-56d6-4034-95b1-ffb29714fa9a",
-        "dd04be27-f975-4ff2-b685-9a236f821803"
+        "3c2b53b4-724f-42ac-b479-077b39baadb3",
+        "2648c36d-0fd7-4224-860b-9ba1674b6277",
+        "7b7e1bcd-d213-461a-a608-b0445dac188e",
+        "3f090ec5-3dbd-481f-99c1-ff3b56848918",
+        "7b6cdda1-b00c-44f9-9175-b5944af0c474",
+        "6cadf0fa-e806-4220-a765-1f8094c681b4",
+        "4598cf30-8073-475c-a903-c773e3b0b772",
+        "8cb30aab-c9b2-4581-9396-5a52bab23b00",
+        "b9f24805-159c-484a-b26f-408eca404a71",
+        "be2164fe-b0a8-4442-aaae-cd9fffd07b3a",
+        "f44be36f-24ce-43b8-8381-1347f6011b50",
+        "7a609f96-9487-4785-a00b-055578bea91b",
+        "d08e86c2-854c-475c-a6ef-670ae7bc5a6c",
+        "ca848e3e-c232-4568-b9b0-ada2382742e8",
+        "6b6bc174-5b3b-49f5-bf42-e982d3f0d4a5",
+        "47a64f81-252b-40b2-8ac8-3a55dc9a65a1",
+        "4004af40-c8d4-4f21-bf7a-d285349099b9",
+        "c815a705-81ae-43eb-bbd6-d206daad5b3b",
+        "e00621df-bccc-478e-aa12-af6ef8efeee9",
+        "c3930f88-be8f-40ca-9cd2-06851f4225d3",
+        "defdf1ee-7fd7-4469-a5eb-942ddb4d87c5",
+        "fdc7027f-5dcc-4255-96e0-c55f180db038",
+        "5c3c4857-a7fe-4bed-b118-57c45e430be4",
+        "072b7d61-4d15-4e2f-bbac-f94ede9a6002",
+        "f5c15d2e-699b-4284-908a-40620662ecdd",
+        "7cd7074d-7bbd-4f2a-b9bb-bdcbc1fe10e1",
+        "db2c0bf8-3c09-4e96-ae6c-91217ebfdd5f"
       ],
       "settings": {
-        "show_topbar": "true",
-        "full_w_topbar": false,
-        "topbar_transparent": false,
-        "height": 50,
-        "fontsize": 13,
-        "fontweight": 400,
-        "ls": 0,
-        "txt_transform": "none",
-        "cl": "#7b7b7b",
-        "cl_a_hover": "#c91f28",
-        "bg": "#ffffff",
-        "bg_op": 100,
-        "border_bottom": "container",
-        "show_border_b": false,
-        "bd_cl": "#eeeeee",
-        "cl_tr": "#7b7b7b",
-        "cl_a_hover_tr": "#c91f28",
-        "bg_tr": "#000000",
-        "bg_op_tr": 10,
-        "show_border_tr": false,
-        "bd_cl_tr": "#dddddd",
-        "pd": ",15px,,15px"
-      }
-    },
-    "024f4625-4cfe-46a7-9d49-2beafa45722f": {
-      "type": "header-menu-bottom",
-      "blocks": {
-        "8087310a-eac6-4ec6-ac30-0690cf9ccb13": {
-          "type": "mega",
-          "settings": {
-            "title": "Home",
-            "url": "https:\/\/demo-ocolus-1.myshopify.com\/",
-            "open_link": "_self",
-            "icon": "",
-            "cus_cl": false,
-            "cl": "#c91f28",
-            "lb": "",
-            "lb_cl": "#27ae60",
-            "pos_sub": "bottom",
-            "wid": "full",
-            "cus_wid": 1200,
-            "id": 1,
-            "enable_packery": false,
-            "menu_item_bg_cl": "#ffffff",
-            "menu_item_bg_op": 100
-          }
-        },
-        "da242e76-895e-4237-b0d8-64aa9a6fe16f": {
-          "type": "mega",
-          "settings": {
-            "title": "Shop",
-            "url": "shopify:\/\/collections",
-            "open_link": "_self",
-            "icon": "",
-            "cus_cl": false,
-            "cl": "#c91f28",
-            "lb": "",
-            "lb_cl": "#27ae60",
-            "pos_sub": "bottom-start",
-            "wid": "cus",
-            "cus_wid": 1200,
-            "id": 2,
-            "enable_packery": false,
-            "menu_item_bg_cl": "#ffffff",
-            "menu_item_bg_op": 100
-          }
-        },
-        "3f6e8627-62e5-458b-92d2-a0471e1c0f18": {
-          "type": "mega",
-          "settings": {
-            "title": "Products",
-            "url": "",
-            "open_link": "_self",
-            "icon": "",
-            "cus_cl": false,
-            "cl": "#c91f28",
-            "lb": "",
-            "lb_cl": "#27ae60",
-            "pos_sub": "bottom-start",
-            "wid": "cus",
-            "cus_wid": 1200,
-            "id": 3,
-            "enable_packery": true,
-            "menu_item_bg_cl": "#ffffff",
-            "menu_item_bg_op": 100
-          }
-        },
-        "988a7fd7-ae5e-4427-b4bb-a5e3a9e2ecd1": {
-          "type": "mega",
-          "settings": {
-            "title": "Blog",
-            "url": "shopify:\/\/blogs\/news",
-            "open_link": "_self",
-            "icon": "",
-            "cus_cl": false,
-            "cl": "#c91f28",
-            "lb": "",
-            "lb_cl": "#27ae60",
-            "pos_sub": "bottom",
-            "wid": "cus",
-            "cus_wid": 1200,
-            "id": 4,
-            "enable_packery": false,
-            "menu_item_bg_cl": "#ffffff",
-            "menu_item_bg_op": 100
-          }
-        },
-        "74853c4c-9ba9-41d3-b211-89a045053f12": {
-          "type": "mega",
-          "settings": {
-            "title": "Portfolio",
-            "url": "",
-            "open_link": "_self",
-            "icon": "",
-            "cus_cl": false,
-            "cl": "#c91f28",
-            "lb": "",
-            "lb_cl": "#27ae60",
-            "pos_sub": "bottom",
-            "wid": "cus",
-            "cus_wid": 800,
-            "id": 16,
-            "enable_packery": false,
-            "menu_item_bg_cl": "#ffffff",
-            "menu_item_bg_op": 100
-          }
-        },
-        "708fb688-b202-478b-bda0-b982c8d66d6e": {
-          "type": "mega",
-          "settings": {
-            "title": "Pages",
-            "url": "",
-            "open_link": "_self",
-            "icon": "",
-            "cus_cl": false,
-            "cl": "#c91f28",
-            "lb": "",
-            "lb_cl": "#27ae60",
-            "pos_sub": "bottom",
-            "wid": "cus",
-            "cus_wid": 900,
-            "id": 5,
-            "enable_packery": true,
-            "menu_item_bg_cl": "#ffffff",
-            "menu_item_bg_op": 100
-          }
-        },
-        "06e00f5d-05c9-4334-9326-4675addf376f": {
-          "type": "base",
-          "settings": {
-            "title": "Buy Theme!",
-            "url": "\/",
-            "open_link": "_self",
-            "icon": "",
-            "cus_cl": false,
-            "cl": "#ec0101",
-            "lb": "",
-            "lb_cl": ""
-          }
-        }
-      },
-      "block_order": [
-        "8087310a-eac6-4ec6-ac30-0690cf9ccb13",
-        "da242e76-895e-4237-b0d8-64aa9a6fe16f",
-        "3f6e8627-62e5-458b-92d2-a0471e1c0f18",
-        "988a7fd7-ae5e-4427-b4bb-a5e3a9e2ecd1",
-        "74853c4c-9ba9-41d3-b211-89a045053f12",
-        "708fb688-b202-478b-bda0-b982c8d66d6e",
-        "06e00f5d-05c9-4334-9326-4675addf376f"
-      ],
-      "settings": {
-        "header_height": 100,
-        "header_height_mb": 60,
-        "header_border": "none",
-        "bgnav": "",
-        "opnav": 100,
-        "clnav": "#7b7b7b",
-        "clnav_hover": "#c91f28",
-        "border_color": "#eaeaea",
-        "show_button_bar": true,
-        "show_search": true,
-        "show_language_left": true,
-        "show_currency_left": true,
-        "show_wis_left": false,
-        "show_socials": false,
-        "show_cart_right": true,
-        "show_acount_right": true,
-        "show_language_right": false,
-        "show_currency_right": false,
-        "h_bottom_height": 60,
-        "h_bottom_height_mb": 60,
-        "h_bottom_border_bottom": "false",
-        "h_bottom_bgnav": "#c91f28",
-        "h_bottom_opnav": 100,
-        "h_bottom_clnav": "#ffffff",
-        "h_bottom_clnav_hover": "#ffffff",
-        "h_bottom_border_color": "#eaeaea",
-        "categories_style": "0",
-        "categories_title": "All categories",
-        "enable_search_form": false,
-        "layout": "logo_left",
-        "full_header": false,
-        "pd": ",15px,,15px",
-        "menu_style": "default",
-        "arrow": true,
-        "enable_active": false,
-        "fs_nav": 13,
-        "fw_nav": 400,
-        "ls_nav": 0,
-        "sp_nav": 43,
-        "align": "start",
-        "hover": "hover_sideup",
-        "sp_icon": 50,
-        "sp_icon_tb": 20,
-        "sp_icon_mb": 30,
-        "line_seperate": "0",
-        "search_des": "3",
-        "my_account": "3",
-        "menu_bar": "0",
-        "cart_des": "6",
-        "count_primary_color": "#c91f28",
-        "count_secondary_color": "#ffffff",
-        "sticky_header": true,
-        "scroll_header": true,
-        "bgnavst": "#ffffff",
-        "opnavst": 100,
-        "clnavst": "#293341",
-        "clnavst_hover": "#c91f28",
-        "border_h_sticky_color": "#eaeaea",
-        "transparent_header": false,
-        "transparent_collection": false,
-        "transparent_article": false,
-        "space_transparent_header": false,
-        "bgnavtr": "#000000",
-        "opnavtr": 40,
-        "clnavtr": "#ffffff",
-        "clnavtr_hover": "#c91f28",
-        "border_h_transparent_color": "#eaeaea"
       }
     }
   },
   "order": [
-    "announcement",
-    "top",
-    "024f4625-4cfe-46a7-9d49-2beafa45722f"
+    "mega-menu"
   ]
 }

@@ -2,45 +2,57 @@
   "current": {
     "purchase_code": "demo-ocolus-2",
     "general_layout": "custom",
-    "cus_w_bd": 1430,
-    "body_bg": "#eff5f8",
-    "c_1": "shopify:\/\/shop_images\/Homepage18.ratio1.jpg",
-    "c_2": "shopify:\/\/shop_images\/Homepage18.ratio2.jpg",
-    "logo": "shopify:\/\/shop_images\/Frame_1000001950.svg",
-    "logo_width": 150,
-    "logos_width": 150,
+    "cus_w_bd": 1200,
+    "logo": "shopify:\/\/shop_images\/Frame_1000001951.svg",
+    "logo_width": 145,
+    "logos_width": 145,
     "logo_mb_width": 110,
     "logo_tr_width": 110,
-    "mobile_nav_type": "3",
+    "accent_color": "#c91f28",
+    "secondary_color": "#23232c",
     "sw_primary": "#c91f28",
     "font_source": "2",
-    "enable_compe": true,
-    "enable_compe_popup": true,
-    "badge_shape": "horizontal_flag",
+    "embed_google_font": "<link rel=\"preconnect\" href=\"https:\/\/fonts.googleapis.com\">\n<link rel=\"preconnect\" href=\"https:\/\/fonts.gstatic.com\" crossorigin=\"\">\n<link href=\"https:\/\/fonts.googleapis.com\/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;family=Raleway:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap\" rel=\"stylesheet\">",
+    "rules_google_font": "font-family: 'Poppins', sans-serif;\nfont-family: 'Raleway', sans-serif;\nfont-family: 'Poppins', sans-serif;",
+    "badge_shape": "vertical_text",
+    "new_badge_color": "#ce9600",
     "show_qty": false,
     "enable_pr_color": false,
-    "share_source": "1",
+    "enable_pr_size": false,
+    "free_ship_pr": "",
     "gift_wrap_pr": "gift-wrap",
     "link_ship": "shipping-delivery",
     "link_conditions": "terms-conditions",
     "use_privacy_policy": true,
     "privacy_policy_link": "privacy-policy",
-    "filter_type_search": true,
     "show_search_suggest": true,
-    "suggest_pr_style": "list",
-    "search_prs_suggest": "furniture-decor",
+    "search_prs_suggest": "furniture-chair",
+    "currency_code_enabled": false,
     "currency_type": "1",
-    "t4s_custom_css": true,
-    "global_css": ".t4s-site-nav__icons .t4s-site-nav__icon.t4s-site-nav__account {order: 1; } .t4s-site-nav__icons .t4s-site-nav__icon.t4s-site-nav__cart {order: 2;} .t4s-discount-collection-layout2 {background-color: #fff;}",
-    "desktop_css": ".t4s-article-info{\npadding-inline-end:45px;} .t4s-site-nav__icons .t4s-site-nav__icon.t4s-site-nav__account { padding-inline-end: calc(var(--space-icon)\/2)!important; } .t4s-site-nav__icons .t4s-site-nav__icon.t4s-site-nav__cart {  padding-inline-end: 0 !important;}",
-    "tablet_css": ".t4s-site-nav__icons .t4s-site-nav__icon.t4s-site-nav__account { padding-inline-end: calc(var(--space-icon-tb)\/2)!important; } .t4s-site-nav__icons .t4s-site-nav__icon.t4s-site-nav__cart {  padding-inline-end: 0 !important;}",
-    "mobile_css": ".t4s-site-nav__icons .t4s-site-nav__icon.t4s-site-nav__account { padding-inline-end: calc(var(--space-icon-mb)\/2)!important; } .t4s-site-nav__icons .t4s-site-nav__icon.t4s-site-nav__cart {  padding-inline-end: 0 !important;}",
+    "show_short_label": true,
+    "size_currency": "md",
+    "desktop_css": ".bee_se_template--18492541567297__af69afdb-bee8-433f-99da-b36b6cbe3b6c .bee-container{\nmax-width: 1400px;\n}\n\n.bee_se_template--18492541567297__4272584e-3a3a-4f59-8727-25bdd4f108ef .flickitybee-viewport,\n.bee_se_template--18492541567297__4272584e-3a3a-4f59-8727-25bdd4f108ef \n.bee-products\n{\noverflow: visible !important;\n}\n.flickitybee-enabled.has-product-style18.bee-enabled{\npadding-bottom: 0;\nmargin-bottom: 0;\n}",
+    "share_tumblr": false,
+    "share_email": false,
+    "share_telegram": false,
+    "share_whatsapp": false,
     "social_facebook_link": "https:\/\/facebook.com\/shopify",
     "social_twitter_link": "https:\/\/twitter.com\/shopify",
     "social_instagram_link": "https:\/\/instagram.com\/shopify",
-    "favicon": "shopify:\/\/shop_images\/favicon.png",
-    "logo_svg": "https:\/\/cdn.shopify.com\/s\/files\/1\/0725\/1289\/7345\/files\/Frame_1000001947.svg?v=1687744334",
-    "fnt_fm_gg3": "Raleway",
+    "social_dribbble_link": "https:\/\/dribbble.com\/shopify",
+    "social_linkedin_link": "https:\/\/www.linkedin.com\/company\/shopify",
+    "social_pinterest_link": "",
+    "social_tumblr_link": "",
+    "social_snapchat_link": "",
+    "social_youtube_link": "",
+    "social_vimeo_link": "",
+    "social_behance_link": "",
+    "social_soundcloud_link": "",
+    "social_tiktok_link": "",
+    "favicon": "shopify:\/\/shop_images\/Frame_1000001949_c201ca37-9702-48bd-9a87-991fb577ce2a.svg",
+    "logo_svg": "https:\/\/cdn.shopify.com\/s\/files\/1\/0725\/1289\/7345\/files\/Frame_1000001951.svg?v=1687744334",
+    "fnt_fm_gg2": "Raleway",
+    "bee_custom_css": true,
     "sections": {
       "popups": {
         "type": "popups",
@@ -189,171 +201,6 @@
         ],
         "settings": {
           "menu": ""
-        }
-      },
-      "mb_cat": {
-        "type": "mb_cat",
-        "blocks": {
-          "00928cb6-25d5-40f3-91e9-c73bec32dce3": {
-            "type": "cat",
-            "settings": {
-              "cat": "clothing-jewelry",
-              "title": "Grocery",
-              "url": "",
-              "lb": "",
-              "lb_cl": "#e91e63",
-              "icons_op": "2",
-              "icon": ""
-            }
-          },
-          "e793a139-c917-42ef-9caa-4682de9830f2": {
-            "type": "cat",
-            "settings": {
-              "cat": "cosmetic-beauty",
-              "title": "Household Supplies",
-              "url": "",
-              "lb": "",
-              "lb_cl": "#e91e63",
-              "icons_op": "2",
-              "icon": ""
-            }
-          },
-          "23e24d02-4975-4bda-9dde-5eee3b500081": {
-            "type": "cat",
-            "settings": {
-              "cat": "cosmetic",
-              "title": "Health & Beauty",
-              "url": "",
-              "lb": "",
-              "lb_cl": "#e91e63",
-              "icons_op": "2",
-              "icon": ""
-            }
-          },
-          "1e80a434-0330-47c8-8d10-54e748a48c31": {
-            "type": "cat",
-            "settings": {
-              "cat": "gaming-laptops",
-              "title": "Electronics & Computers",
-              "url": "",
-              "lb": "",
-              "lb_cl": "#e91e63",
-              "icons_op": "2",
-              "icon": ""
-            }
-          },
-          "071a2b47-c8cf-408e-b933-2518952b57b2": {
-            "type": "cat",
-            "settings": {
-              "cat": "playstation-4-consoles",
-              "title": "Video Games & Consoles",
-              "url": "",
-              "lb": "",
-              "lb_cl": "#e91e63",
-              "icons_op": "2",
-              "icon": ""
-            }
-          },
-          "7a804247-b7c3-44f1-8f87-faa3136e7361": {
-            "type": "cat",
-            "settings": {
-              "cat": "frontpage",
-              "title": "Furniture",
-              "url": "",
-              "lb": "",
-              "lb_cl": "#e91e63",
-              "icons_op": "2",
-              "icon": ""
-            }
-          },
-          "552e33db-c44c-4e3f-8f64-a056b3f5889d": {
-            "type": "cat",
-            "settings": {
-              "cat": "fashion",
-              "title": "Women's Fashion",
-              "url": "",
-              "lb": "",
-              "lb_cl": "#e91e63",
-              "icons_op": "2",
-              "icon": ""
-            }
-          },
-          "d7acebb9-452d-4bb5-a281-a30df9d302e9": {
-            "type": "cat",
-            "settings": {
-              "cat": "fashion-17",
-              "title": "Baby",
-              "url": "",
-              "lb": "",
-              "lb_cl": "#e91e63",
-              "icons_op": "2",
-              "icon": ""
-            }
-          },
-          "89aa7cf8-e4a2-403b-bfa4-d2fa773c990d": {
-            "type": "cat",
-            "settings": {
-              "cat": "furniture-home-11",
-              "title": "Pet Supplies",
-              "url": "",
-              "lb": "",
-              "lb_cl": "#e91e63",
-              "icons_op": "2",
-              "icon": ""
-            }
-          },
-          "376d9197-b1b0-4b03-96d8-fb672e4a7c8d": {
-            "type": "cat",
-            "settings": {
-              "cat": "electronics-17",
-              "title": "Appliances",
-              "url": "",
-              "lb": "",
-              "lb_cl": "#e91e63",
-              "icons_op": "2",
-              "icon": ""
-            }
-          },
-          "30d51df8-5064-4950-b977-4246eaf68958": {
-            "type": "cat",
-            "settings": {
-              "cat": "shose",
-              "title": "Sports, Fitness & Outdoors",
-              "url": "",
-              "lb": "",
-              "lb_cl": "#e91e63",
-              "icons_op": "2",
-              "icon": ""
-            }
-          },
-          "433b5b8a-ba14-41d2-806b-87df39aae83f": {
-            "type": "cat",
-            "settings": {
-              "cat": "kitchen-dining",
-              "title": "Books, Music & Movies",
-              "url": "",
-              "lb": "",
-              "lb_cl": "#e91e63",
-              "icons_op": "2",
-              "icon": ""
-            }
-          }
-        },
-        "block_order": [
-          "00928cb6-25d5-40f3-91e9-c73bec32dce3",
-          "e793a139-c917-42ef-9caa-4682de9830f2",
-          "23e24d02-4975-4bda-9dde-5eee3b500081",
-          "1e80a434-0330-47c8-8d10-54e748a48c31",
-          "071a2b47-c8cf-408e-b933-2518952b57b2",
-          "7a804247-b7c3-44f1-8f87-faa3136e7361",
-          "552e33db-c44c-4e3f-8f64-a056b3f5889d",
-          "d7acebb9-452d-4bb5-a281-a30df9d302e9",
-          "89aa7cf8-e4a2-403b-bfa4-d2fa773c990d",
-          "376d9197-b1b0-4b03-96d8-fb672e4a7c8d",
-          "30d51df8-5064-4950-b977-4246eaf68958",
-          "433b5b8a-ba14-41d2-806b-87df39aae83f"
-        ],
-        "settings": {
         }
       },
       "mini_cart": {
@@ -855,6 +702,11 @@
           "mgb_mb": 50
         }
       },
+      "mb_cat": {
+        "type": "mb_cat",
+        "settings": {
+        }
+      },
       "heading-static": {
         "type": "heading-static",
         "blocks": {
@@ -915,6 +767,75 @@
           "mgb": 70,
           "mgb_tb": 50,
           "mgb_mb": 50
+        }
+      },
+      "t4s_custom_color": {
+        "type": "t4s_custom_color",
+        "blocks": {
+          "2687ad1b-2234-4fba-8a9f-a16e378087aa": {
+            "type": "bg_color",
+            "settings": {
+              "title": "Soft Ivory",
+              "color": "#f8f9e8",
+              "cl_gradient": "",
+              "color_img": false
+            }
+          },
+          "e0ff5961-9208-47cc-889f-00ae28d67e07": {
+            "type": "bg_color",
+            "settings": {
+              "title": "Pastel Gray",
+              "color": "#f1f1f1",
+              "cl_gradient": "",
+              "color_img": false
+            }
+          },
+          "43b0b404-3857-471e-b99c-24c936ecaf6a": {
+            "type": "bg_color",
+            "settings": {
+              "title": "Medium Brown",
+              "color": "#a68258",
+              "cl_gradient": "",
+              "color_img": false
+            }
+          },
+          "21cc8b96-c396-4dc4-974e-52031e6d6716": {
+            "type": "bg_color",
+            "settings": {
+              "title": "Bee Yellow",
+              "color": "#faf600",
+              "cl_gradient": "",
+              "color_img": false
+            }
+          },
+          "7584fa98-f4f3-4cf6-9e8f-168df649b347": {
+            "type": "bg_color",
+            "settings": {
+              "title": "Gray Cloud",
+              "color": "#afa9a9",
+              "cl_gradient": "",
+              "color_img": false
+            }
+          },
+          "0a63b330-7038-4c12-8793-73a0cec84fa2": {
+            "type": "bg_color",
+            "settings": {
+              "title": "Dark Brown",
+              "color": "#a6a2a2",
+              "cl_gradient": "",
+              "color_img": false
+            }
+          }
+        },
+        "block_order": [
+          "2687ad1b-2234-4fba-8a9f-a16e378087aa",
+          "e0ff5961-9208-47cc-889f-00ae28d67e07",
+          "43b0b404-3857-471e-b99c-24c936ecaf6a",
+          "21cc8b96-c396-4dc4-974e-52031e6d6716",
+          "7584fa98-f4f3-4cf6-9e8f-168df649b347",
+          "0a63b330-7038-4c12-8793-73a0cec84fa2"
+        ],
+        "settings": {
         }
       },
       "pr_item_config": {
@@ -1401,36 +1322,36 @@
         "settings": {
           "txt_tr_pr": "none",
           "fnt_df_pr": "1",
-          "size_pr": 14,
-          "lh_pr": 20,
-          "fw_pr": 400,
+          "size_pr": 18,
+          "lh_pr": 24,
+          "fw_pr": 500,
           "ls_pr": 0,
-          "size_price_pr": 14,
-          "lh_price_pr": 20,
-          "fw_price_pr": 500,
+          "size_price_pr": 16,
+          "lh_price_pr": 40,
+          "fw_price_pr": 400,
           "space_img_content": 10,
-          "space_elements": 5,
+          "space_elements": 2,
           "swatch_color_size": 15,
-          "size_pr_mb": 14,
-          "lh_pr_mb": 20,
+          "size_pr_mb": 16,
+          "lh_pr_mb": 24,
           "ls_pr_mb": 0,
-          "size_price_pr_mb": 14,
-          "lh_price_pr_mb": 20,
+          "size_price_pr_mb": 15,
+          "lh_price_pr_mb": 0,
           "space_img_content_mb": 10,
           "space_elements_mb": 5,
           "swatch_color_size_mb": 15,
-          "pr_title_color": "#7b7b7b",
+          "pr_title_color": "#293341",
           "pr_title_color_hover": "#c91f28",
-          "price_color": "#293341",
+          "price_color": "#7b7b7b",
           "price_secondary": "#7b7b7b",
-          "price_sale_color": "#293341",
+          "price_sale_color": "#c91f28",
           "vendors_color": "#7b7b7b",
-          "vendors_color_hover": "#293341",
+          "vendors_color_hover": "#000000",
           "size_list_color": "#7b7b7b",
           "countdown_color": "#ffffff",
           "countdown_overlay": 80,
           "pr_bg_overlay": "#000000",
-          "pr_overlay": 0
+          "pr_overlay": 10
         }
       },
       "title_config": {
@@ -1441,17 +1362,17 @@
             "settings": {
               "color": "#293341",
               "family": "2",
-              "size": 25,
-              "weight": 300,
-              "lh": 40,
+              "size": 40,
+              "weight": 500,
+              "lh": 50,
               "ls": 0,
               "space": 0,
-              "size_tb": 25,
-              "lh_tb": 30,
+              "size_tb": 30,
+              "lh_tb": 40,
               "ls_tb": 0,
               "space_tb": 0,
-              "size_mb": 22,
-              "lh_mb": 28,
+              "size_mb": 24,
+              "lh_mb": 34,
               "ls_mb": 0,
               "space_mb": 0
             }
@@ -1582,9 +1503,9 @@
           "btn_config-5": {
             "type": "custom3",
             "settings": {
-              "color_primary": "#7b7b7b",
+              "color_primary": "#544179",
               "color_second": "#ffffff",
-              "color_primary_hover": "#c91f28",
+              "color_primary_hover": "#000000",
               "color_second_hover": "#ffffff"
             }
           }
@@ -1609,8 +1530,8 @@
           "slider_config-0": {
             "type": "custom1",
             "settings": {
-              "primary_color": "#fdfdfd",
-              "second_color": "#39393c",
+              "primary_color": "#293341",
+              "second_color": "#293341",
               "primary_color_hover": "#293341",
               "second_color_hover": "#ffffff"
             }
@@ -1618,7 +1539,7 @@
           "slider_config-1": {
             "type": "custom2",
             "settings": {
-              "primary_color": "#d2e1dd",
+              "primary_color": "#adbec9",
               "second_color": "#ffffff",
               "primary_color_hover": "#293341",
               "second_color_hover": "#ffffff"
@@ -1638,19 +1559,9 @@
           "dots_round": true,
           "dots_space": 10
         }
-      },
-      "t4s_custom_color": {
-        "type": "t4s_custom_color",
-        "settings": {
-        }
       }
     },
     "content_for_index": [
-
-    ]
-  },
-  "platform_customizations": {
-    "custom_css": [
 
     ]
   }

@@ -28,12 +28,11 @@
         "3f090ec5-3dbd-481f-99c1-ff3b56848918": {
           "type": "link",
           "settings": {
-            "tt_hd": "SHOP LAYOUT",
+            "tt_hd": "SHOP LAYOUTS",
             "url": "",
             "open_link": "_self",
             "menu": "shop-layout",
-            "col": "3",
-            "mgb": 20
+            "col": "3"
           }
         },
         "7b6cdda1-b00c-44f9-9175-b5944af0c474": {
@@ -43,8 +42,7 @@
             "url": "",
             "open_link": "_self",
             "menu": "shop-features",
-            "col": "3",
-            "mgb": 20
+            "col": "3"
           }
         },
         "6cadf0fa-e806-4220-a765-1f8094c681b4": {
@@ -101,8 +99,7 @@
             "url": "",
             "open_link": "_self",
             "menu": "product-layout",
-            "col": "3",
-            "mgb": 20
+            "col": "3"
           }
         },
         "b9f24805-159c-484a-b26f-408eca404a71": {
@@ -112,8 +109,7 @@
             "url": "",
             "open_link": "_self",
             "menu": "product-details",
-            "col": "3",
-            "mgb": 20
+            "col": "3"
           }
         },
         "be2164fe-b0a8-4442-aaae-cd9fffd07b3a": {
@@ -123,8 +119,7 @@
             "url": "",
             "open_link": "_self",
             "menu": "product-swatch",
-            "col": "3",
-            "mgb": 20
+            "col": "3"
           }
         },
         "f44be36f-24ce-43b8-8381-1347f6011b50": {
@@ -134,8 +129,7 @@
             "url": "",
             "open_link": "_self",
             "menu": "product-features",
-            "col": "3",
-            "mgb": 20
+            "col": "3"
           }
         },
         "7a609f96-9487-4785-a00b-055578bea91b": {
@@ -256,19 +250,17 @@
             "url": "https:\/\/demo-ocolus-1.myshopify.com\/pages\/contact?preview_theme_id=",
             "open_link": "_self",
             "menu": "menu-contact",
-            "col": "4",
-            "mgb": 20
+            "col": "4"
           }
         },
         "c3930f88-be8f-40ca-9cd2-06851f4225d3": {
           "type": "link",
           "settings": {
-            "tt_hd": "COMING SOON",
+            "tt_hd": "COMMING SOON",
             "url": "https:\/\/demo-ocolus-1.myshopify.com\/password?preview_theme_id=",
             "open_link": "_self",
             "menu": "menu-comming-soon",
-            "col": "4",
-            "mgb": 20
+            "col": "4"
           }
         },
         "defdf1ee-7fd7-4469-a5eb-942ddb4d87c5": {

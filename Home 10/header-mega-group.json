@@ -16,8 +16,7 @@
           "settings": {
             "html": "",
             "page": "demo-short",
-            "col": "12",
-            "mgb": 0
+            "col": "12"
           }
         },
         "7b7e1bcd-d213-461a-a608-b0445dac188e": {
@@ -34,7 +33,7 @@
             "open_link": "_self",
             "menu": "shop-layout",
             "col": "3",
-            "mgb": 0
+            "mgb": 20
           }
         },
         "7b6cdda1-b00c-44f9-9175-b5944af0c474": {
@@ -45,23 +44,23 @@
             "open_link": "_self",
             "menu": "shop-features",
             "col": "3",
-            "mgb": 0
+            "mgb": 20
           }
         },
-        "1eed5018-a5d4-4202-94a1-a5e8290e17fb": {
+        "6cadf0fa-e806-4220-a765-1f8094c681b4": {
           "type": "featured_collection",
           "settings": {
             "heading": "BEST SELLER",
-            "heading_mb": 30,
-            "collection": "furniture-ocolus",
+            "heading_mb": 23,
+            "collection": "fashions",
             "product_des": "1",
             "show_vendor": false,
             "use_cdt": false,
-            "image_ratio": "ratioadapt",
+            "image_ratio": "rationt",
             "image_size": "cover",
             "image_position": "8",
-            "content_align": "default",
-            "limit": 4,
+            "content_align": "center",
+            "limit": 6,
             "col_mb": "2",
             "space_h_item": "30",
             "space_v_item": "30",
@@ -86,8 +85,7 @@
             "dots_space": 10,
             "dots_bottom_pos": 20,
             "enable_border_pr_item": false,
-            "col": "6",
-            "mgb": 0
+            "col": "6"
           }
         },
         "4598cf30-8073-475c-a903-c773e3b0b772": {
@@ -104,7 +102,7 @@
             "open_link": "_self",
             "menu": "product-layout",
             "col": "3",
-            "mgb": 0
+            "mgb": 20
           }
         },
         "b9f24805-159c-484a-b26f-408eca404a71": {
@@ -115,18 +113,18 @@
             "open_link": "_self",
             "menu": "product-details",
             "col": "3",
-            "mgb": 0
+            "mgb": 20
           }
         },
         "be2164fe-b0a8-4442-aaae-cd9fffd07b3a": {
           "type": "link",
           "settings": {
-            "tt_hd": "PRODUCT SWATCH",
+            "tt_hd": "PRODUCT SWATCHs",
             "url": "",
             "open_link": "_self",
             "menu": "product-swatch",
             "col": "3",
-            "mgb": 0
+            "mgb": 20
           }
         },
         "f44be36f-24ce-43b8-8381-1347f6011b50": {
@@ -137,7 +135,7 @@
             "open_link": "_self",
             "menu": "product-features",
             "col": "3",
-            "mgb": 0
+            "mgb": 20
           }
         },
         "7a609f96-9487-4785-a00b-055578bea91b": {
@@ -146,12 +144,12 @@
             "id": 4
           }
         },
-        "c3f51861-64ce-4162-87d7-d756848b3d4a": {
+        "d08e86c2-854c-475c-a6ef-670ae7bc5a6c": {
           "type": "blogs",
           "settings": {
             "tt_hd": "",
             "bd_bottom_bl": true,
-            "blog": "home-10",
+            "blog": "blog-grid-carousel",
             "article_des": "1",
             "limit": 8,
             "show_blog_title": "disable",
@@ -164,8 +162,8 @@
             "show_date": false,
             "date": "%b %d",
             "content_align": "t4s-text-start",
-            "img_effect": "zoom",
-            "b_effect": "plus-zoom-overlay",
+            "img_effect": "none",
+            "b_effect": "none",
             "image_ratio": "ratio4_3",
             "image_size": "cover",
             "image_position": "8",
@@ -182,7 +180,7 @@
             "btn_distance": 15,
             "btn_vi": "hover",
             "btn_owl": "default",
-            "btn_shape": "round",
+            "btn_shape": "none",
             "btn_cl": "dark",
             "btn_size": "small",
             "show_dots": "hidden",
@@ -202,119 +200,53 @@
             "button_style": "default",
             "btns_cl": "dark",
             "button_effect": "default",
-            "col": "12",
-            "mgb": 0
+            "col": "12"
           }
         },
         "ca848e3e-c232-4568-b9b0-ada2382742e8": {
           "type": "link",
           "settings": {
-            "tt_hd": "Layout",
+            "tt_hd": "BLOG LAYOUTS",
             "url": "",
             "open_link": "_self",
-            "menu": "blog-layout",
-            "col": "3",
-            "mgb": 0
+            "menu": "layout",
+            "col": "3"
           }
         },
         "6b6bc174-5b3b-49f5-bf42-e982d3f0d4a5": {
           "type": "link",
           "settings": {
-            "tt_hd": "Layout",
+            "tt_hd": "BLOG LAYOUTS",
             "url": "",
             "open_link": "_self",
-            "menu": "blog-layout-1",
-            "col": "3",
-            "mgb": 0
+            "menu": "layout-1",
+            "col": "3"
           }
         },
         "47a64f81-252b-40b2-8ac8-3a55dc9a65a1": {
           "type": "link",
           "settings": {
-            "tt_hd": "Post layout",
+            "tt_hd": "POST LAYOUTS",
             "url": "",
             "open_link": "_self",
             "menu": "post-layout",
-            "col": "3",
-            "mgb": 0
+            "col": "3"
           }
         },
         "4004af40-c8d4-4f21-bf7a-d285349099b9": {
           "type": "link",
           "settings": {
-            "tt_hd": "Post types",
+            "tt_hd": "POST TYPES",
             "url": "",
             "open_link": "_self",
             "menu": "post-types",
-            "col": "3",
-            "mgb": 0
-          }
-        },
-        "a4cff819-9f0f-406b-9cea-574b17c48b56": {
-          "type": "mega",
-          "settings": {
-            "id": 5
-          }
-        },
-        "506d4853-122c-4911-9c9a-1729001b9e18": {
-          "type": "link",
-          "settings": {
-            "tt_hd": "Grid Layout",
-            "url": "",
-            "open_link": "_self",
-            "menu": "portfolio-grid-layout",
-            "col": "4",
-            "mgb": 0
-          }
-        },
-        "072b7d61-4d15-4e2f-bbac-f94ede9a6002": {
-          "type": "link",
-          "settings": {
-            "tt_hd": "Mansory Layout",
-            "url": "",
-            "open_link": "_self",
-            "menu": "portfolio-mansory-layout",
-            "col": "4",
-            "mgb": 20
-          }
-        },
-        "f5c15d2e-699b-4284-908a-40620662ecdd": {
-          "type": "link",
-          "settings": {
-            "tt_hd": "Single Pages Layout",
-            "url": "",
-            "open_link": "_self",
-            "menu": "portfolio-single-pages",
-            "col": "4",
-            "mgb": 20
-          }
-        },
-        "7cd7074d-7bbd-4f2a-b9bb-bdcbc1fe10e1": {
-          "type": "link",
-          "settings": {
-            "tt_hd": "Carousel Layout",
-            "url": "",
-            "open_link": "_self",
-            "menu": "portfolio-carousel-layout",
-            "col": "4",
-            "mgb": 0
-          }
-        },
-        "db2c0bf8-3c09-4e96-ae6c-91217ebfdd5f": {
-          "type": "link",
-          "settings": {
-            "tt_hd": "Metro Layout",
-            "url": "",
-            "open_link": "_self",
-            "menu": "portfolio-metro-layout",
-            "col": "4",
-            "mgb": 0
+            "col": "3"
           }
         },
         "c815a705-81ae-43eb-bbd6-d206daad5b3b": {
           "type": "mega",
           "settings": {
-            "id": 6
+            "id": 5
           }
         },
         "e00621df-bccc-478e-aa12-af6ef8efeee9": {
@@ -325,7 +257,7 @@
             "open_link": "_self",
             "menu": "menu-contact",
             "col": "4",
-            "mgb": 0
+            "mgb": 20
           }
         },
         "c3930f88-be8f-40ca-9cd2-06851f4225d3": {
@@ -336,16 +268,76 @@
             "open_link": "_self",
             "menu": "menu-comming-soon",
             "col": "4",
-            "mgb": 0
+            "mgb": 20
           }
         },
         "defdf1ee-7fd7-4469-a5eb-942ddb4d87c5": {
           "type": "link",
           "settings": {
-            "tt_hd": "Other page",
+            "tt_hd": "OTHER PAGES",
             "url": "",
             "open_link": "_self",
             "menu": "other-pages",
+            "col": "4"
+          }
+        },
+        "fdc7027f-5dcc-4255-96e0-c55f180db038": {
+          "type": "mega",
+          "settings": {
+            "id": 16
+          }
+        },
+        "5c3c4857-a7fe-4bed-b118-57c45e430be4": {
+          "type": "link",
+          "settings": {
+            "tt_hd": "GRID LAYOUTS",
+            "url": "",
+            "open_link": "_self",
+            "menu": "portfolio-grid-layout",
+            "col": "4",
+            "mgb": 20
+          }
+        },
+        "072b7d61-4d15-4e2f-bbac-f94ede9a6002": {
+          "type": "link",
+          "settings": {
+            "tt_hd": "MASONRY LAYOUTS",
+            "url": "",
+            "open_link": "_self",
+            "menu": "portfolio-mansory-layout",
+            "col": "4",
+            "mgb": 20
+          }
+        },
+        "f5c15d2e-699b-4284-908a-40620662ecdd": {
+          "type": "link",
+          "settings": {
+            "tt_hd": "SINGLE PAGE LAYOUTS",
+            "url": "",
+            "open_link": "_self",
+            "menu": "portfolio-single-pages",
+            "col": "4",
+            "mgb": 20
+          }
+        },
+        "7cd7074d-7bbd-4f2a-b9bb-bdcbc1fe10e1": {
+          "type": "link",
+          "settings": {
+            "tt_hd": "CAROUSEL LAYOUTS",
+            "url": "",
+            "open_link": "_self",
+            "menu": "portfolio-carousel-layout",
+            "col": "4",
+            "mgb": 0
+          }
+        },
+        "db2c0bf8-3c09-4e96-ae6c-91217ebfdd5f": {
+          "type": "link",
+          "settings": {
+            "tt_hd": "METRO LAYOUTS",
+            "url": "",
+            "open_link": "_self",
+            "menu": "portfolio-metro-layout",
             "col": "4",
             "mgb": 0
           }
@@ -357,41 +349,34 @@
         "7b7e1bcd-d213-461a-a608-b0445dac188e",
         "3f090ec5-3dbd-481f-99c1-ff3b56848918",
         "7b6cdda1-b00c-44f9-9175-b5944af0c474",
-        "1eed5018-a5d4-4202-94a1-a5e8290e17fb",
+        "6cadf0fa-e806-4220-a765-1f8094c681b4",
         "4598cf30-8073-475c-a903-c773e3b0b772",
         "8cb30aab-c9b2-4581-9396-5a52bab23b00",
         "b9f24805-159c-484a-b26f-408eca404a71",
         "be2164fe-b0a8-4442-aaae-cd9fffd07b3a",
         "f44be36f-24ce-43b8-8381-1347f6011b50",
         "7a609f96-9487-4785-a00b-055578bea91b",
-        "c3f51861-64ce-4162-87d7-d756848b3d4a",
+        "d08e86c2-854c-475c-a6ef-670ae7bc5a6c",
         "ca848e3e-c232-4568-b9b0-ada2382742e8",
         "6b6bc174-5b3b-49f5-bf42-e982d3f0d4a5",
         "47a64f81-252b-40b2-8ac8-3a55dc9a65a1",
         "4004af40-c8d4-4f21-bf7a-d285349099b9",
-        "a4cff819-9f0f-406b-9cea-574b17c48b56",
-        "506d4853-122c-4911-9c9a-1729001b9e18",
-        "072b7d61-4d15-4e2f-bbac-f94ede9a6002",
-        "f5c15d2e-699b-4284-908a-40620662ecdd",
-        "7cd7074d-7bbd-4f2a-b9bb-bdcbc1fe10e1",
-        "db2c0bf8-3c09-4e96-ae6c-91217ebfdd5f",
         "c815a705-81ae-43eb-bbd6-d206daad5b3b",
         "e00621df-bccc-478e-aa12-af6ef8efeee9",
         "c3930f88-be8f-40ca-9cd2-06851f4225d3",
-        "defdf1ee-7fd7-4469-a5eb-942ddb4d87c5"
+        "defdf1ee-7fd7-4469-a5eb-942ddb4d87c5",
+        "fdc7027f-5dcc-4255-96e0-c55f180db038",
+        "5c3c4857-a7fe-4bed-b118-57c45e430be4",
+        "072b7d61-4d15-4e2f-bbac-f94ede9a6002",
+        "f5c15d2e-699b-4284-908a-40620662ecdd",
+        "7cd7074d-7bbd-4f2a-b9bb-bdcbc1fe10e1",
+        "db2c0bf8-3c09-4e96-ae6c-91217ebfdd5f"
       ],
       "settings": {
-      }
-    },
-    "header-categories": {
-      "type": "header-categories",
-      "settings": {
-        "arrow": true
       }
     }
   },
   "order": [
-    "mega-menu",
-    "header-categories"
+    "mega-menu"
   ]
 }

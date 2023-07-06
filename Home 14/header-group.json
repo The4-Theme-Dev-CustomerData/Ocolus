@@ -2,53 +2,14 @@
   "type": "header",
   "name": "Header Group",
   "sections": {
-    "announcement": {
-      "type": "announcement-bar",
-      "blocks": {
-        "4123b2fd-5465-4cf5-916f-2bc0992fef1d": {
-          "type": "announcement",
-          "settings": {
-            "link": "",
-            "content": "<p>FREE UK MAINLAND DELIVERY FOR ACCESSORIES OVER £100*<\/p>",
-            "countdown": "2023\/12\/26",
-            "txt_day": "days",
-            "dayx": 0
-          }
-        }
-      },
-      "block_order": [
-        "4123b2fd-5465-4cf5-916f-2bc0992fef1d"
-      ],
-      "custom_css": [
-        "p {letter-spacing: 2.04px;}"
-      ],
-      "settings": {
-        "show_announcement": "true",
-        "full_w_announcement": true,
-        "show_border_bottom": false,
-        "bd_cl": "#eeeeee",
-        "effect": "1",
-        "au_time": 3.5,
-        "height": 40,
-        "fontsize": 12,
-        "cl": "#5c7e94",
-        "bg": "#e5edf3",
-        "bg_op": 100,
-        "close": "0",
-        "cl_btn": "#293341",
-        "version": "1",
-        "date": 60,
-        "pd": ",15px,,15px"
-      }
-    },
-    "8d81a147-8626-4d98-9d66-ef074e1832d7": {
-      "type": "header-menu-bottom",
+    "header-inline": {
+      "type": "header-inline",
       "blocks": {
         "8087310a-eac6-4ec6-ac30-0690cf9ccb13": {
           "type": "mega",
           "settings": {
             "title": "HOME",
-            "url": "https:\/\/demo-ocolus-1.myshopify.com\/",
+            "url": "\/",
             "open_link": "_self",
             "icon": "",
             "cus_cl": false,
@@ -59,6 +20,26 @@
             "wid": "full",
             "cus_wid": 1200,
             "id": 1,
+            "enable_packery": false,
+            "menu_item_bg_cl": "#ffffff",
+            "menu_item_bg_op": 100
+          }
+        },
+        "da242e76-895e-4237-b0d8-64aa9a6fe16f": {
+          "type": "mega",
+          "settings": {
+            "title": "SHOP",
+            "url": "shopify:\/\/collections",
+            "open_link": "_self",
+            "icon": "",
+            "cus_cl": false,
+            "cl": "#c91f28",
+            "lb": "",
+            "lb_cl": "#27ae60",
+            "pos_sub": "bottom",
+            "wid": "full",
+            "cus_wid": 1200,
+            "id": 2,
             "enable_packery": false,
             "menu_item_bg_cl": "#ffffff",
             "menu_item_bg_op": 100
@@ -84,26 +65,6 @@
             "menu_item_bg_op": 100
           }
         },
-        "da242e76-895e-4237-b0d8-64aa9a6fe16f": {
-          "type": "mega",
-          "settings": {
-            "title": "SHOP",
-            "url": "shopify:\/\/collections",
-            "open_link": "_self",
-            "icon": "",
-            "cus_cl": false,
-            "cl": "#c91f28",
-            "lb": "",
-            "lb_cl": "#27ae60",
-            "pos_sub": "bottom",
-            "wid": "full",
-            "cus_wid": 1200,
-            "id": 2,
-            "enable_packery": false,
-            "menu_item_bg_cl": "#ffffff",
-            "menu_item_bg_op": 100
-          }
-        },
         "988a7fd7-ae5e-4427-b4bb-a5e3a9e2ecd1": {
           "type": "mega",
           "settings": {
@@ -124,7 +85,7 @@
             "menu_item_bg_op": 100
           }
         },
-        "d2912b8f-8363-4b80-b31d-33ea279b7662": {
+        "d2518676-61a3-4987-b324-cc56cafeaa19": {
           "type": "mega",
           "settings": {
             "title": "PORTFOLIO",
@@ -137,29 +98,29 @@
             "lb_cl": "#27ae60",
             "pos_sub": "bottom",
             "wid": "cus",
-            "cus_wid": 800,
-            "id": 16,
+            "cus_wid": 700,
+            "id": 5,
             "enable_packery": false,
             "menu_item_bg_cl": "#ffffff",
             "menu_item_bg_op": 100
           }
         },
-        "3b1e6b70-9733-4903-b7f4-e852374fb11e": {
+        "45c2fb83-df20-4a17-b1b4-cb63fa9c2cda": {
           "type": "mega",
           "settings": {
             "title": "PAGES",
-            "url": "https:\/\/demo-ocolus-1.myshopify.com\/",
+            "url": "",
             "open_link": "_self",
             "icon": "",
             "cus_cl": false,
-            "cl": "#ec0101",
-            "lb": "HOT",
-            "lb_cl": "#c91f28",
+            "cl": "#c91f28",
+            "lb": "",
+            "lb_cl": "#27ae60",
             "pos_sub": "bottom",
             "wid": "cus",
-            "cus_wid": 800,
-            "id": 5,
-            "enable_packery": true,
+            "cus_wid": 900,
+            "id": 6,
+            "enable_packery": false,
             "menu_item_bg_cl": "#ffffff",
             "menu_item_bg_op": 100
           }
@@ -180,65 +141,55 @@
       },
       "block_order": [
         "8087310a-eac6-4ec6-ac30-0690cf9ccb13",
-        "3f6e8627-62e5-458b-92d2-a0471e1c0f18",
         "da242e76-895e-4237-b0d8-64aa9a6fe16f",
+        "3f6e8627-62e5-458b-92d2-a0471e1c0f18",
         "988a7fd7-ae5e-4427-b4bb-a5e3a9e2ecd1",
-        "d2912b8f-8363-4b80-b31d-33ea279b7662",
-        "3b1e6b70-9733-4903-b7f4-e852374fb11e",
+        "d2518676-61a3-4987-b324-cc56cafeaa19",
+        "45c2fb83-df20-4a17-b1b4-cb63fa9c2cda",
         "06e00f5d-05c9-4334-9326-4675addf376f"
       ],
       "settings": {
-        "header_height": 90,
-        "header_height_mb": 60,
-        "header_border": "fullwidth",
-        "bgnav": "",
-        "opnav": 100,
+        "border_bottom": "none",
+        "bgnav": "rgba(0,0,0,0)",
+        "opnav": 0,
         "clnav": "#293341",
         "clnav_hover": "#c91f28",
-        "border_color": "#eeeeee",
-        "show_button_bar": false,
-        "show_search": true,
-        "show_language_left": true,
-        "show_currency_left": false,
-        "show_wis_left": false,
-        "show_socials": false,
-        "show_cart_right": true,
-        "show_acount_right": true,
-        "show_language_right": false,
-        "show_currency_right": false,
-        "h_bottom_height": 58,
-        "h_bottom_height_mb": 50,
-        "h_bottom_border_bottom": "false",
-        "h_bottom_bgnav": "",
-        "h_bottom_opnav": 100,
-        "h_bottom_clnav": "#293341",
-        "h_bottom_clnav_hover": "#c91f28",
-        "h_bottom_border_color": "#eaeaea",
-        "categories_style": "0",
-        "categories_title": "All categories",
-        "enable_search_form": false,
-        "layout": "logo_center",
-        "full_header": false,
-        "pd": ",15px,,15px",
+        "border_color": "#eaeaea",
+        "layout": "logo_left",
+        "full_header": true,
+        "header_height": 104,
+        "pd": ",40px,,40px",
         "menu_style": "default",
         "arrow": false,
+        "dots_seperate": false,
         "enable_active": false,
         "fs_nav": 13,
         "fw_nav": 500,
-        "ls_nav": 2.2,
+        "ls_nav": 2,
         "sp_nav": 50,
         "align": "center",
         "hover": "hover_sideup",
+        "big_logo": false,
+        "box_logo_height": 150,
+        "big_logo_padding": 30,
+        "big_logo_bg": "#ffffff",
+        "enable_stick_menu": false,
+        "stick_menu": "",
+        "stick_menu_style": "1",
         "sp_icon": 30,
         "sp_icon_tb": 20,
         "sp_icon_mb": 20,
         "line_seperate": "0",
+        "show_wis": false,
+        "show_language": false,
+        "show_currency": false,
         "search_des": "1",
         "my_account": "1",
-        "menu_bar": "2",
+        "menu_bar": "1",
         "cart_des": "1",
-        "count_primary_color": "#5c7e94",
+        "count_primary_color": "#c91f28",
         "count_secondary_color": "#ffffff",
+        "header_height_mb": 60,
         "hidden_lang_cur_onmobile": true,
         "hidden_wishlist_onmobile": true,
         "hidden_account_onmobile": true,
@@ -254,16 +205,15 @@
         "transparent_collection": false,
         "transparent_article": false,
         "space_transparent_header": false,
-        "bgnavtr": "#000000",
-        "opnavtr": 40,
-        "clnavtr": "#ffffff",
+        "bgnavtr": "rgba(0,0,0,0)",
+        "opnavtr": 0,
+        "clnavtr": "#293341",
         "clnavtr_hover": "#c91f28",
         "border_h_transparent_color": "#eaeaea"
       }
     }
   },
   "order": [
-    "announcement",
-    "8d81a147-8626-4d98-9d66-ef074e1832d7"
+    "header-inline"
   ]
 }

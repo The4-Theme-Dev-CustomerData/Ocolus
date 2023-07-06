@@ -5,70 +5,73 @@
     "top": {
       "type": "top-bar",
       "blocks": {
-        "4f2d58fb-0d6c-4fb3-8745-c72762ac6013": {
-          "type": "link_list",
+        "33c3e298-9b68-41bf-9d2f-ed8adaef2453": {
+          "type": "html",
           "settings": {
-            "top_menu_link": "top-menu-contact",
-            "show_border_w": false,
-            "hide": false,
+            "html": "",
+            "hide": true,
             "text_align": "start",
-            "col": "6",
+            "col": "2",
             "col_w": "33.33333"
           }
         },
-        "a639fb08-5ea4-4c52-891e-9a7d80d4f6bd": {
-          "type": "social",
+        "52c292bd-21cd-4e1f-bfa5-59537282d46b": {
+          "type": "link_list",
           "settings": {
-            "enable_email": false,
-            "txt_email": "info@ocolus.com",
-            "show_border_w": false,
-            "social": "2",
-            "social_style": "simple",
-            "social_size": "medium",
-            "bd_radius": 0,
-            "use_color_set": false,
-            "pri_cl": "#7b7b7b",
-            "pri_hover_cl": "#000000",
-            "space_h_item": "20",
-            "space_v_item": "0",
-            "space_h_item_mb": "10",
-            "space_v_item_mb": "0",
+            "top_menu_link": "top-bar-menu-h7",
+            "show_border_w": true,
             "hide": true,
+            "text_align": "center",
+            "col": "8",
+            "col_w": "33.33333"
+          }
+        },
+        "e91b0083-2341-40ea-9c87-2a771bce2e94": {
+          "type": "cur",
+          "settings": {
+            "html": "",
+            "top_menu_link": "",
+            "show_language": true,
+            "show_currency": true,
+            "hide": false,
             "text_align": "end",
-            "col": "6",
-            "col_w": ""
+            "space_h_item": "30",
+            "col": "2",
+            "col_w": "33.33333"
           }
         }
       },
       "block_order": [
-        "4f2d58fb-0d6c-4fb3-8745-c72762ac6013",
-        "a639fb08-5ea4-4c52-891e-9a7d80d4f6bd"
+        "33c3e298-9b68-41bf-9d2f-ed8adaef2453",
+        "52c292bd-21cd-4e1f-bfa5-59537282d46b",
+        "e91b0083-2341-40ea-9c87-2a771bce2e94"
       ],
       "custom_css": [
-        "@media (min-width: 1200px) {.t4s-top-bar__wrap {min-height: 55px; }}"
+        "#b_52c292bd-21cd-4e1f-bfa5-59537282d46b {color: #fff; --tb-color: #fff;}",
+        "@media (max-width: 767px) {.t4s-top-bar__wrap {min-height: 35px; }}"
       ],
       "settings": {
-        "show_topbar": "desktop",
+        "show_topbar": "true",
         "full_w_topbar": true,
-        "topbar_transparent": true,
-        "height": 55,
-        "fontsize": 13,
-        "fontweight": 400,
-        "ls": 0,
+        "topbar_transparent": false,
+        "height": 50,
+        "fontsize": 12,
+        "fontweight": 500,
+        "ls": 2,
         "txt_transform": "none",
-        "cl": "#7b7b7b",
+        "cl": "#afb8c6",
         "cl_a_hover": "#c91f28",
-        "bg": "#109533",
-        "bg_op": 0,
-        "border_bottom": "fullwidth",
+        "bg": "#293341",
+        "bg_op": 100,
+        "border_bottom": "none",
         "show_border_b": false,
-        "bd_cl": "#eaeaea",
-        "cl_tr": "#7b7b7b",
-        "cl_a_hover_tr": "#c91f28",
+        "bd_cl": "#eeeeee",
+        "cl_tr": "#ffffff",
+        "cl_a_hover_tr": "#56cfe1",
         "bg_tr": "#000000",
-        "bg_op_tr": 0,
-        "show_border_tr": true,
-        "bd_cl_tr": "#eaeaea",
+        "bg_op_tr": 10,
+        "show_border_tr": false,
+        "bd_cl_tr": "#dddddd",
         "pd": ",40px,,40px"
       }
     },
@@ -78,7 +81,7 @@
         "8087310a-eac6-4ec6-ac30-0690cf9ccb13": {
           "type": "mega",
           "settings": {
-            "title": "HOME",
+            "title": "Home",
             "url": "https:\/\/demo-ocolus-1.myshopify.com\/",
             "open_link": "_self",
             "icon": "",
@@ -98,7 +101,7 @@
         "da242e76-895e-4237-b0d8-64aa9a6fe16f": {
           "type": "mega",
           "settings": {
-            "title": "SHOP",
+            "title": "Shop",
             "url": "shopify:\/\/collections",
             "open_link": "_self",
             "icon": "",
@@ -118,7 +121,7 @@
         "3f6e8627-62e5-458b-92d2-a0471e1c0f18": {
           "type": "mega",
           "settings": {
-            "title": "PRODUCTS",
+            "title": "Products",
             "url": "",
             "open_link": "_self",
             "icon": "",
@@ -138,7 +141,7 @@
         "988a7fd7-ae5e-4427-b4bb-a5e3a9e2ecd1": {
           "type": "mega",
           "settings": {
-            "title": "BLOGS",
+            "title": "Blogs",
             "url": "shopify:\/\/blogs\/news",
             "open_link": "_self",
             "icon": "",
@@ -147,7 +150,7 @@
             "lb": "",
             "lb_cl": "#27ae60",
             "pos_sub": "bottom",
-            "wid": "full",
+            "wid": "cus",
             "cus_wid": 1000,
             "id": 4,
             "enable_packery": false,
@@ -158,7 +161,7 @@
         "5aa8535f-5905-4b4e-9748-0302958ebbb4": {
           "type": "mega",
           "settings": {
-            "title": "PORFOLIO",
+            "title": "Portfolio",
             "url": "",
             "open_link": "_self",
             "icon": "",
@@ -166,9 +169,9 @@
             "cl": "#c91f28",
             "lb": "",
             "lb_cl": "#27ae60",
-            "pos_sub": "bottom-end",
+            "pos_sub": "bottom",
             "wid": "cus",
-            "cus_wid": 800,
+            "cus_wid": 750,
             "id": 16,
             "enable_packery": false,
             "menu_item_bg_cl": "#ffffff",
@@ -178,7 +181,7 @@
         "90e17509-e312-4c6f-94fe-3e459065dde1": {
           "type": "mega",
           "settings": {
-            "title": "PAGES",
+            "title": "Pages",
             "url": "",
             "open_link": "_self",
             "icon": "",
@@ -186,9 +189,9 @@
             "cl": "#c91f28",
             "lb": "",
             "lb_cl": "#27ae60",
-            "pos_sub": "bottom-end",
+            "pos_sub": "bottom",
             "wid": "cus",
-            "cus_wid": 700,
+            "cus_wid": 800,
             "id": 5,
             "enable_packery": false,
             "menu_item_bg_cl": "#ffffff",
@@ -198,7 +201,7 @@
         "06e00f5d-05c9-4334-9326-4675addf376f": {
           "type": "base",
           "settings": {
-            "title": "BUY THEME!",
+            "title": "Buy Theme!",
             "url": "\/",
             "open_link": "_self",
             "icon": "",
@@ -219,25 +222,25 @@
         "06e00f5d-05c9-4334-9326-4675addf376f"
       ],
       "settings": {
-        "border_bottom": "fullwidth",
-        "bgnav": "rgba(0,0,0,0)",
-        "opnav": 0,
+        "border_bottom": "none",
+        "bgnav": "",
+        "opnav": 100,
         "clnav": "#293341",
-        "clnav_hover": "#293341",
-        "border_color": "#eaeaea",
+        "clnav_hover": "#c91f28",
+        "border_color": "#dddddd",
         "layout": "logo_left",
         "full_header": true,
-        "header_height": 80,
+        "header_height": 100,
         "pd": ",40px,,40px",
         "menu_style": "default",
         "arrow": false,
         "dots_seperate": false,
         "enable_active": false,
-        "fs_nav": 13,
-        "fw_nav": 500,
-        "ls_nav": 2.2,
-        "sp_nav": 50,
-        "align": "end",
+        "fs_nav": 14,
+        "fw_nav": 400,
+        "ls_nav": 2.4,
+        "sp_nav": 55,
+        "align": "center",
         "hover": "hover_sideup",
         "big_logo": false,
         "box_logo_height": 150,
@@ -249,7 +252,7 @@
         "sp_icon": 30,
         "sp_icon_tb": 20,
         "sp_icon_mb": 20,
-        "line_seperate": "2",
+        "line_seperate": "0",
         "show_wis": false,
         "show_language": false,
         "show_currency": false,
@@ -269,16 +272,16 @@
         "bgnavst": "#ffffff",
         "opnavst": 100,
         "clnavst": "#293341",
-        "clnavst_hover": "#293341",
+        "clnavst_hover": "#c91f28",
         "border_h_sticky_color": "#eaeaea",
-        "transparent_header": true,
+        "transparent_header": false,
         "transparent_collection": false,
         "transparent_article": false,
         "space_transparent_header": false,
-        "bgnavtr": "rgba(0,0,0,0)",
-        "opnavtr": 0,
-        "clnavtr": "#293341",
-        "clnavtr_hover": "#293341",
+        "bgnavtr": "#000000",
+        "opnavtr": 40,
+        "clnavtr": "#ffffff",
+        "clnavtr_hover": "#c91f28",
         "border_h_transparent_color": "#eaeaea"
       }
     }

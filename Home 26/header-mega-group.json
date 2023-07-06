@@ -29,7 +29,7 @@
         "3f090ec5-3dbd-481f-99c1-ff3b56848918": {
           "type": "link",
           "settings": {
-            "tt_hd": "SHOP LAYOUT",
+            "tt_hd": "SHOP LAYOUTS",
             "url": "",
             "open_link": "_self",
             "menu": "shop-layout",
@@ -53,8 +53,8 @@
           "settings": {
             "heading": "BEST SELLER",
             "heading_mb": 23,
-            "collection": "travel-bags",
-            "product_des": "1",
+            "collection": "shoes",
+            "product_des": "19",
             "show_vendor": false,
             "use_cdt": false,
             "image_ratio": "rationt",
@@ -144,66 +144,6 @@
           "type": "mega",
           "settings": {
             "id": 4
-          }
-        },
-        "d08e86c2-854c-475c-a6ef-670ae7bc5a6c": {
-          "type": "blogs",
-          "settings": {
-            "tt_hd": "",
-            "bd_bottom_bl": true,
-            "blog": "blog-grid-carousel",
-            "article_des": "1",
-            "limit": 8,
-            "show_blog_title": "disable",
-            "show_content": false,
-            "show_tags": true,
-            "show_author": false,
-            "show_comment": false,
-            "show_readmore": false,
-            "show_ic_readmore": false,
-            "show_date": false,
-            "date": "%b %d",
-            "content_align": "t4s-text-start",
-            "img_effect": "none",
-            "b_effect": "none",
-            "image_ratio": "ratio4_3",
-            "image_size": "cover",
-            "image_position": "8",
-            "col_dk": "4",
-            "space_h_item": "30",
-            "space_v_item": "30",
-            "layout_des": "2",
-            "loop": true,
-            "au_time": 0,
-            "au_hover": true,
-            "show_btn": "show_all",
-            "btn_pos": "in",
-            "icon_slider": "1",
-            "btn_distance": 15,
-            "btn_vi": "hover",
-            "btn_owl": "default",
-            "btn_shape": "none",
-            "btn_cl": "dark",
-            "btn_size": "small",
-            "show_dots": "hidden",
-            "dot_pos": "default",
-            "dot_owl": "default",
-            "dots_cl": "dark",
-            "dots_align": "center",
-            "dots_round": true,
-            "dots_space": 10,
-            "dots_bottom_pos": 20,
-            "use_pagination": "default",
-            "btn_replace": "",
-            "btns_size": "default",
-            "btn_icon": false,
-            "pagination_distance": 20,
-            "pagination_position": "t4s-text-center",
-            "button_style": "default",
-            "btns_cl": "dark",
-            "button_effect": "default",
-            "col": "12",
-            "mgb": 0
           }
         },
         "ca848e3e-c232-4568-b9b0-ada2382742e8": {
@@ -298,7 +238,7 @@
         "5c3c4857-a7fe-4bed-b118-57c45e430be4": {
           "type": "link",
           "settings": {
-            "tt_hd": "Grid Layout",
+            "tt_hd": "GRID LAYOUTS",
             "url": "",
             "open_link": "_self",
             "menu": "portfolio-grid-layout",
@@ -309,7 +249,7 @@
         "072b7d61-4d15-4e2f-bbac-f94ede9a6002": {
           "type": "link",
           "settings": {
-            "tt_hd": "Mansory Layout",
+            "tt_hd": "MASONRY LAYOUTS",
             "url": "",
             "open_link": "_self",
             "menu": "portfolio-mansory-layout",
@@ -320,7 +260,7 @@
         "f5c15d2e-699b-4284-908a-40620662ecdd": {
           "type": "link",
           "settings": {
-            "tt_hd": "Single Pages Layout",
+            "tt_hd": "SINGLE PAGE LAYOUTS",
             "url": "",
             "open_link": "_self",
             "menu": "portfolio-single-pages",
@@ -331,7 +271,7 @@
         "7cd7074d-7bbd-4f2a-b9bb-bdcbc1fe10e1": {
           "type": "link",
           "settings": {
-            "tt_hd": "Carousel Layout",
+            "tt_hd": "CAROUSEL LAYOUTS",
             "url": "",
             "open_link": "_self",
             "menu": "portfolio-carousel-layout",
@@ -342,7 +282,7 @@
         "db2c0bf8-3c09-4e96-ae6c-91217ebfdd5f": {
           "type": "link",
           "settings": {
-            "tt_hd": "Metro Layout",
+            "tt_hd": "METRO LAYOUTS",
             "url": "",
             "open_link": "_self",
             "menu": "portfolio-metro-layout",
@@ -364,7 +304,6 @@
         "be2164fe-b0a8-4442-aaae-cd9fffd07b3a",
         "f44be36f-24ce-43b8-8381-1347f6011b50",
         "7a609f96-9487-4785-a00b-055578bea91b",
-        "d08e86c2-854c-475c-a6ef-670ae7bc5a6c",
         "ca848e3e-c232-4568-b9b0-ada2382742e8",
         "6b6bc174-5b3b-49f5-bf42-e982d3f0d4a5",
         "47a64f81-252b-40b2-8ac8-3a55dc9a65a1",

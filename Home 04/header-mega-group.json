@@ -14,7 +14,7 @@
         "2648c36d-0fd7-4224-860b-9ba1674b6277": {
           "type": "html",
           "settings": {
-            "html": "HTML custom code",
+            "html": "",
             "page": "demo-short",
             "col": "12"
           }
@@ -31,7 +31,7 @@
             "tt_hd": "SHOP LAYOUT",
             "url": "",
             "open_link": "_self",
-            "menu": "shop-layout",
+            "menu": "",
             "col": "6"
           }
         },
@@ -123,7 +123,7 @@
             "tt_hd": "Other page",
             "url": "",
             "open_link": "_self",
-            "menu": "other-pages",
+            "menu": "",
             "col": "4"
           }
         },
@@ -139,7 +139,7 @@
             "tt_hd": "Layout",
             "url": "",
             "open_link": "_self",
-            "menu": "layout",
+            "menu": "",
             "col": "3"
           }
         },
@@ -149,7 +149,7 @@
             "tt_hd": "Layout",
             "url": "",
             "open_link": "_self",
-            "menu": "layout-1",
+            "menu": "",
             "col": "3"
           }
         },
@@ -197,9 +197,17 @@
       ],
       "settings": {
       }
+    },
+    "header-categories": {
+      "type": "header-categories",
+      "disabled": true,
+      "settings": {
+        "arrow": true
+      }
     }
   },
   "order": [
-    "mega-menu"
+    "mega-menu",
+    "header-categories"
   ]
 }

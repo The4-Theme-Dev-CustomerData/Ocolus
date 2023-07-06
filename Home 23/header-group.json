@@ -2,57 +2,201 @@
   "type": "header",
   "name": "Header Group",
   "sections": {
+    "4b4065bf-d25d-48d8-999b-f2542ec2ea4f": {
+      "type": "custom-section",
+      "blocks": {
+        "sections--18492606349633__4b4065bf-d25d-48d8-999b-f2542ec2ea4f-168613044823ce7bf0-0": {
+          "type": "bl_col",
+          "settings": {
+            "col_dk": "6",
+            "col_dk_w": "33.33333",
+            "col_tb": "6",
+            "col_dk_w_tb": "33.33333",
+            "col_mb": "12",
+            "align_vertical": true,
+            "border_col": false,
+            "content_align": "start",
+            "content_align_tablet": "start",
+            "content_align_mobile": "center",
+            "padding_inner": "18px,,18px",
+            "padding_inner_tb": "15px,,15px,",
+            "padding_inner_mb": "15px,,5px,",
+            "bg_cl": "rgba(0,0,0,0)"
+          }
+        },
+        "sections--18492606349633__4b4065bf-d25d-48d8-999b-f2542ec2ea4f-168613044823ce7bf0-1": {
+          "type": "custom_text",
+          "settings": {
+            "text": "Connect it. Love it",
+            "remove_br_tag": false,
+            "tag": "h3",
+            "fontf": "1",
+            "text_cl": "#343b55",
+            "text_fs": 20,
+            "text_lh": 30,
+            "text_fw": 500,
+            "text_ls": 0,
+            "font_italic": false,
+            "text_shadow": false,
+            "mgb": 0,
+            "text_fs_tb": 20,
+            "text_lh_tb": 30,
+            "text_ls_tb": 0,
+            "mgb_tb": 0,
+            "hidden_mobile": false,
+            "text_fs_mb": 14,
+            "text_lh_mb": 20,
+            "text_ls_mb": 0,
+            "mgb_mb": 10
+          }
+        },
+        "sections--18492606349633__4b4065bf-d25d-48d8-999b-f2542ec2ea4f-168613044823ce7bf0-2": {
+          "type": "custom_text",
+          "settings": {
+            "text": "Apple Pencil and Smart Keyboard for iPad Pro.",
+            "remove_br_tag": false,
+            "tag": "p",
+            "fontf": "1",
+            "text_cl": "#343b55",
+            "text_fs": 15,
+            "text_lh": 24,
+            "text_fw": 400,
+            "text_ls": 0,
+            "font_italic": false,
+            "text_shadow": false,
+            "mgb": 0,
+            "text_fs_tb": 15,
+            "text_lh_tb": 20,
+            "text_ls_tb": 0,
+            "mgb_tb": 0,
+            "hidden_mobile": false,
+            "text_fs_mb": 13,
+            "text_lh_mb": 18,
+            "text_ls_mb": 0,
+            "mgb_mb": 0
+          }
+        },
+        "sections--18492606349633__4b4065bf-d25d-48d8-999b-f2542ec2ea4f-168613044823ce7bf0-3": {
+          "type": "bl_col",
+          "settings": {
+            "col_dk": "6",
+            "col_dk_w": "33.33333",
+            "col_tb": "6",
+            "col_dk_w_tb": "33.33333",
+            "col_mb": "12",
+            "align_vertical": true,
+            "border_col": false,
+            "content_align": "end",
+            "content_align_tablet": "end",
+            "content_align_mobile": "center",
+            "padding_inner": "0,,0,",
+            "padding_inner_tb": "15px,,15px,",
+            "padding_inner_mb": "0px,,15px,",
+            "bg_cl": "rgba(0,0,0,0)"
+          }
+        },
+        "e0a45278-3e03-48fd-8be0-2d13cbf0cb3e": {
+          "type": "custom_button",
+          "settings": {
+            "button_text": "SHOP NOW",
+            "button_link": "shopify:\/\/collections\/gaming-laptops",
+            "target_link": "_self",
+            "button_style": "default",
+            "icon_style": "1",
+            "button_icon_w": 0,
+            "border_w": 1,
+            "button_effect": "fade",
+            "pri_cl": "#c91f28",
+            "second_cl": "#ffffff",
+            "pri_cl_hover": "#ce4e55",
+            "second_cl_hover": "#ffffff",
+            "fontf": "1",
+            "fsbutton": 13,
+            "fwbutton": 500,
+            "button_ls": 0,
+            "button_mh": 45,
+            "button_bdr": 0,
+            "button_pd_lr": 34,
+            "mgb": 0,
+            "fsbutton_tb": 13,
+            "button_icon_w_tb": 0,
+            "button_mh_tb": 42,
+            "button_pd_lr_tb": 30,
+            "button_ls_tb": 0,
+            "mgb_tb": 0,
+            "fsbutton_mb": 13,
+            "button_icon_w_mb": 0,
+            "button_mh_mb": 40,
+            "button_pd_lr_mb": 30,
+            "button_ls_mb": 0,
+            "mgb_mb": 0,
+            "hidden_mobile": false
+          }
+        }
+      },
+      "block_order": [
+        "sections--18492606349633__4b4065bf-d25d-48d8-999b-f2542ec2ea4f-168613044823ce7bf0-0",
+        "sections--18492606349633__4b4065bf-d25d-48d8-999b-f2542ec2ea4f-168613044823ce7bf0-1",
+        "sections--18492606349633__4b4065bf-d25d-48d8-999b-f2542ec2ea4f-168613044823ce7bf0-2",
+        "sections--18492606349633__4b4065bf-d25d-48d8-999b-f2542ec2ea4f-168613044823ce7bf0-3",
+        "e0a45278-3e03-48fd-8be0-2d13cbf0cb3e"
+      ],
+      "custom_css": [
+
+      ],
+      "settings": {
+        "space_h_item": "0",
+        "space_v_item": "0",
+        "space_h_item_tb": "15",
+        "space_v_item_tb": "15",
+        "space_h_item_mb": "10",
+        "space_v_item_mb": "10",
+        "layout": "t4s-container-wrap",
+        "cl_bg": "",
+        "cl_bg_gradient": "",
+        "image_bg": "shopify:\/\/shop_images\/banner-top.jpg",
+        "mg": "",
+        "pd": "",
+        "mg_tb": "",
+        "pd_tb": "",
+        "mg_mb": "",
+        "pd_mb": ""
+      }
+    },
     "top": {
       "type": "top-bar",
       "blocks": {
-        "991e657e-dddc-45e3-bb35-8da5ea9ec36e": {
-          "type": "text",
+        "d47a195d-857c-439a-bbce-bbafc0d8cd8d": {
+          "type": "html",
           "settings": {
-            "text": "<p>Start earning Ocolus Rewards points when you shop!  <a href=\"\/pages\/contact\" title=\"Contact\">JOIN NOW<\/a><\/p>",
-            "countdown": "2023\/12\/26",
-            "txt_day": "days",
-            "dayx": 0,
-            "effect": "1",
-            "au_time": 3.5,
-            "fw_bold": 400,
-            "cl_a": "#ffffff",
-            "cl_bold": "#ec0101",
-            "cl_a_tr": "#ffffff",
-            "cl_bold_tr": "#ec0101",
-            "hide": false,
+            "html": "<a href=\"https:\/\/demo-ocolus-2.myshopify.com\/?home=18&amp;preview_theme_id=147039846721\"><svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" viewbox=\"0 0 384 512\"><path d=\"M192 512s192-208 192-320C384 86 298 0 192 0S0 86 0 192C0 304 192 512 192 512zm0-384a64 64 0 1 1 0 128 64 64 0 1 1 0-128z\"><\/path><\/svg><span> Store Location<\/span><\/a>",
+            "hide": true,
             "text_align": "start",
             "col": "6",
             "col_w": "33.33333"
           }
         },
-        "ee0f9071-52b6-47db-acc1-fcd47cc2e9f7": {
-          "type": "wis_acc",
+        "fd5117bb-d1d7-4b57-84b7-546044e77926": {
+          "type": "cur",
           "settings": {
-            "enable_icon": true,
-            "enable_wis": false,
-            "enable_track_order": false,
-            "url_track_order": "",
-            "label_track_order": "Track order",
-            "enable_location": false,
-            "url_location": "",
-            "label_location": "Location",
-            "enable_acc": true,
-            "enable_cart": false,
-            "enable_cart_count": false,
-            "label_count": "items",
-            "hide": true,
+            "html": "<a href=\"tel:+84%201900%201800\" class=\"t4s-d-inline-block\" style=\"margin-inline-end:var(--space-item,35px)\"><svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" viewbox=\"0 0 384 512\"><path d=\"M0 64C0 28.7 28.7 0 64 0H288c35.3 0 64 28.7 64 64V448c0 35.3-28.7 64-64 64H64c-35.3 0-64-28.7-64-64V64zM208 448a32 32 0 1 0 -64 0 32 32 0 1 0 64 0zM288 64H64V384H288V64z\"><\/path><\/svg>Support: <span style=\"color:var(--accent-color)\">011 253 652 1259<\/span><\/a>\n<a href=\"\/cart\" style=\"margin-inline-end:var(--space-item,35px)\">Track your order<\/a>",
+            "top_menu_link": "",
+            "show_language": true,
+            "show_currency": true,
+            "hide": false,
             "text_align": "end",
+            "space_h_item": "30",
             "col": "6",
             "col_w": "33.33333"
           }
         }
       },
       "block_order": [
-        "991e657e-dddc-45e3-bb35-8da5ea9ec36e",
-        "ee0f9071-52b6-47db-acc1-fcd47cc2e9f7"
+        "d47a195d-857c-439a-bbce-bbafc0d8cd8d",
+        "fd5117bb-d1d7-4b57-84b7-546044e77926"
       ],
       "settings": {
-        "show_topbar": "true",
+        "show_topbar": "desktop",
         "full_w_topbar": false,
         "topbar_transparent": false,
         "height": 50,
@@ -60,23 +204,23 @@
         "fontweight": 400,
         "ls": 0,
         "txt_transform": "none",
-        "cl": "#ffffff",
+        "cl": "#7b7b7b",
         "cl_a_hover": "#c91f28",
-        "bg": "#6d604c",
+        "bg": "#ffffff",
         "bg_op": 100,
-        "border_bottom": "none",
+        "border_bottom": "fullwidth",
         "show_border_b": false,
         "bd_cl": "#eeeeee",
         "cl_tr": "#ffffff",
         "cl_a_hover_tr": "#c91f28",
-        "bg_tr": "#000000",
-        "bg_op_tr": 10,
+        "bg_tr": "#ffffff",
+        "bg_op_tr": 100,
         "show_border_tr": false,
-        "bd_cl_tr": "#dddddd",
+        "bd_cl_tr": "#eeeeee",
         "pd": ",15px,,15px"
       }
     },
-    "c1326937-f942-4e9b-84a0-95e7e8e80625": {
+    "7f040256-d38f-4e92-bb13-7bee08bccdcd": {
       "type": "header-menu-bottom",
       "blocks": {
         "8087310a-eac6-4ec6-ac30-0690cf9ccb13": {
@@ -111,7 +255,7 @@
             "lb": "",
             "lb_cl": "#27ae60",
             "pos_sub": "bottom",
-            "wid": "full",
+            "wid": "cus",
             "cus_wid": 1200,
             "id": 2,
             "enable_packery": false,
@@ -131,7 +275,7 @@
             "lb": "NEW",
             "lb_cl": "#27ae60",
             "pos_sub": "bottom",
-            "wid": "full",
+            "wid": "cus",
             "cus_wid": 1200,
             "id": 3,
             "enable_packery": true,
@@ -159,7 +303,7 @@
             "menu_item_bg_op": 100
           }
         },
-        "f134e22f-0e8e-4ee5-a32c-1f6437bf9af1": {
+        "12c3bfe7-eccd-4d35-a2e4-0f574254423b": {
           "type": "mega",
           "settings": {
             "title": "PORTFOLIO",
@@ -172,17 +316,17 @@
             "lb_cl": "#27ae60",
             "pos_sub": "bottom",
             "wid": "cus",
-            "cus_wid": 750,
+            "cus_wid": 800,
             "id": 16,
             "enable_packery": false,
             "menu_item_bg_cl": "#ffffff",
             "menu_item_bg_op": 100
           }
         },
-        "dece5bdf-1c89-48b9-94b9-970f3bcc8b98": {
+        "e75788c2-012d-45ab-a64b-67f7c43279b9": {
           "type": "mega",
           "settings": {
-            "title": "PAGE",
+            "title": "PAGES",
             "url": "",
             "open_link": "_self",
             "icon": "",
@@ -192,9 +336,9 @@
             "lb_cl": "#27ae60",
             "pos_sub": "bottom",
             "wid": "cus",
-            "cus_wid": 700,
+            "cus_wid": 900,
             "id": 5,
-            "enable_packery": true,
+            "enable_packery": false,
             "menu_item_bg_cl": "#ffffff",
             "menu_item_bg_op": 100
           }
@@ -218,17 +362,17 @@
         "da242e76-895e-4237-b0d8-64aa9a6fe16f",
         "3f6e8627-62e5-458b-92d2-a0471e1c0f18",
         "988a7fd7-ae5e-4427-b4bb-a5e3a9e2ecd1",
-        "f134e22f-0e8e-4ee5-a32c-1f6437bf9af1",
-        "dece5bdf-1c89-48b9-94b9-970f3bcc8b98",
+        "12c3bfe7-eccd-4d35-a2e4-0f574254423b",
+        "e75788c2-012d-45ab-a64b-67f7c43279b9",
         "06e00f5d-05c9-4334-9326-4675addf376f"
       ],
       "settings": {
-        "header_height": 100,
+        "header_height": 110,
         "header_height_mb": 60,
         "header_border": "fullwidth",
-        "bgnav": "",
+        "bgnav": "#ffffff",
         "opnav": 100,
-        "clnav": "#7b7b7b",
+        "clnav": "#293341",
         "clnav_hover": "#c91f28",
         "border_color": "#eaeaea",
         "show_button_bar": false,
@@ -236,23 +380,23 @@
         "show_language_left": false,
         "show_currency_left": false,
         "show_wis_left": false,
-        "show_socials": true,
+        "show_socials": false,
         "show_cart_right": true,
-        "show_acount_right": false,
-        "show_language_right": true,
-        "show_currency_right": true,
+        "show_acount_right": true,
+        "show_language_right": false,
+        "show_currency_right": false,
         "h_bottom_height": 60,
         "h_bottom_height_mb": 60,
-        "h_bottom_border_bottom": "true",
-        "h_bottom_bgnav": "",
+        "h_bottom_border_bottom": "false",
+        "h_bottom_bgnav": "#ffffff",
         "h_bottom_opnav": 100,
-        "h_bottom_clnav": "#6d604c",
+        "h_bottom_clnav": "#293341",
         "h_bottom_clnav_hover": "#c91f28",
         "h_bottom_border_color": "#eaeaea",
-        "categories_style": "0",
-        "categories_title": "All categories",
+        "categories_style": "2",
+        "categories_title": "Shop By Department",
         "enable_search_form": false,
-        "layout": "logo_center",
+        "layout": "logo_left",
         "full_header": false,
         "pd": ",15px,,15px",
         "menu_style": "default",
@@ -260,19 +404,19 @@
         "enable_active": false,
         "fs_nav": 13,
         "fw_nav": 500,
-        "ls_nav": 2,
-        "sp_nav": 50,
-        "align": "center",
+        "ls_nav": 0,
+        "sp_nav": 48,
+        "align": "start",
         "hover": "hover_sideup",
-        "sp_icon": 24,
+        "sp_icon": 40,
         "sp_icon_tb": 20,
-        "sp_icon_mb": 16,
+        "sp_icon_mb": 30,
         "line_seperate": "0",
-        "search_des": "1",
-        "my_account": "2",
+        "search_des": "4",
+        "my_account": "3",
         "menu_bar": "2",
         "cart_des": "1",
-        "count_primary_color": "#81be17",
+        "count_primary_color": "#c91f28",
         "count_secondary_color": "#ffffff",
         "hidden_lang_cur_onmobile": true,
         "hidden_wishlist_onmobile": true,
@@ -298,7 +442,8 @@
     }
   },
   "order": [
+    "4b4065bf-d25d-48d8-999b-f2542ec2ea4f",
     "top",
-    "c1326937-f942-4e9b-84a0-95e7e8e80625"
+    "7f040256-d38f-4e92-bb13-7bee08bccdcd"
   ]
 }
