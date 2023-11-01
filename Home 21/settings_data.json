@@ -26,7 +26,6 @@
     "link_ship": "shipping-delivery",
     "link_conditions": "terms-conditions",
     "use_privacy_policy": true,
-    "privacy_policy_link": "privacy-policy",
     "filter_type_search": true,
     "show_search_suggest": true,
     "suggest_pr_style": "list",
